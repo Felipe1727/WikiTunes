@@ -1,0 +1,2 @@
+ ╔═╗ \ barra \n literal "comillas"
+  ▀▀▀ espacios finales   

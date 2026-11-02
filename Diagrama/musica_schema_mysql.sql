@@ -3,6 +3,11 @@
 --  Persona es la unidad atómica; Artista agrupa personas vía Membresía.
 -- =====================================================================
 
+-- El archivo está en UTF-8. Sin esto, un cliente con otro juego de caracteres
+-- (p. ej. el de la imagen Docker, que usa latin1) guardaría mal los acentos
+-- de los literales, como '(crédito individual)'.
+SET NAMES utf8mb4;
+
 DROP DATABASE IF EXISTS musica;
 CREATE DATABASE musica
     CHARACTER SET utf8mb4
@@ -60,6 +65,10 @@ CREATE TABLE persona (
     ciudad_nacimiento_id INT NULL,
     CONSTRAINT chk_persona_fechas
         CHECK (fecha_fallecimiento IS NULL OR fecha_fallecimiento >= fecha_nacimiento),
+    -- Búsqueda exacta por nombre (sp_canciones_de_persona) sin LIKE '%...%'.
+    -- No son únicos: dos personas reales pueden llamarse igual.
+    KEY idx_persona_nombre_conocido (nombre_conocido),
+    KEY idx_persona_nombre_legal    (nombre_legal),
     FOREIGN KEY (ciudad_nacimiento_id) REFERENCES ciudad(ciudad_id)
 ) ENGINE = InnoDB;
 
@@ -72,6 +81,9 @@ CREATE TABLE artista (
     ciudad_origen_id INT NULL,
     CONSTRAINT chk_artista_anios
         CHECK (anio_disolucion IS NULL OR anio_disolucion >= anio_formacion),
+    -- El nombre identifica al artista: los procedimientos lo reciben como parámetro
+    -- (sp_integrantes_en_fecha, sp_historial_integrantes) y no debe ser ambiguo.
+    UNIQUE KEY uq_artista_nombre (nombre),
     FOREIGN KEY (ciudad_origen_id) REFERENCES ciudad(ciudad_id)
 ) ENGINE = InnoDB;
 
@@ -249,6 +261,18 @@ DELIMITER ;
 -- ---------------------------------------------------------------------
 --  Vista: todas las participaciones de una persona en canciones,
 --  ya sea a través de un artista (banda/solista) o con crédito propio.
+--
+--  Regla "vía artista": la persona x participó en la canción c vía el
+--  artista y si y está acreditado en c, x fue integrante de y en algún
+--  periodo y además
+--    - x tiene un crédito propio en c (credito_persona), o
+--    - x era integrante de y en la fecha de salida de c.
+--  La fecha de salida es la del PRIMER álbum que contiene la canción, así
+--  una compilación posterior no cambia el resultado. Fechas de membresía
+--  NULL se tratan como abiertas; una canción sin fecha de salida solo
+--  cuenta por crédito propio.
+--  Semántica: "vía banda" significa "era integrante cuando salió la
+--  canción", no necesariamente "tocó en ella".
 -- ---------------------------------------------------------------------
 CREATE VIEW v_participacion_persona AS
 SELECT p.persona_id,
@@ -262,6 +286,18 @@ JOIN membresia m        ON m.persona_id  = p.persona_id
 JOIN artista a          ON a.artista_id  = m.artista_id
 JOIN credito_artista ca ON ca.artista_id = a.artista_id
 JOIN cancion c          ON c.cancion_id  = ca.cancion_id
+LEFT JOIN (SELECT ac.cancion_id,
+                  MIN(al.fecha_lanzamiento) AS fecha_salida
+           FROM album_cancion ac
+           JOIN album al ON al.album_id = ac.album_id
+           GROUP BY ac.cancion_id) salida ON salida.cancion_id = c.cancion_id
+WHERE EXISTS (SELECT 1
+              FROM credito_persona cp
+              WHERE cp.cancion_id = c.cancion_id
+                AND cp.persona_id = p.persona_id)
+   OR (salida.fecha_salida IS NOT NULL
+       AND (m.fecha_inicio IS NULL OR m.fecha_inicio <= salida.fecha_salida)
+       AND (m.fecha_fin    IS NULL OR m.fecha_fin    >= salida.fecha_salida))
 UNION
 SELECT p.persona_id,
        COALESCE(p.nombre_conocido, p.nombre_legal),

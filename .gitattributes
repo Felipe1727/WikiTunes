@@ -1,0 +1,7 @@
+# Finales de línea LF en todo el repositorio
+* text=auto eol=lf
+
+# El arte ASCII debe conservar LF exacto
+datos/arte/*.txt text eol=lf
+
+*.png binary

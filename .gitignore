@@ -1,2 +1,13 @@
 # Configuración del IDE (JetBrains)
 .idea/
+
+# Entorno y secretos
+.env
+.venv/
+
+# Cachés de Python y herramientas
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+dist/

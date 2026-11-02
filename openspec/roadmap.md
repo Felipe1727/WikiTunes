@@ -308,7 +308,7 @@ New wave
       Unicode y recupera exactamente lo mismo.
   - Depende de: `base-proyecto`
 
-- [ ] `correccion-consultas-sql` — Índices, búsqueda por igualdad, vista de participación corregida y `sp_historial_integrantes`.
+- [x] `correccion-consultas-sql` — Índices, búsqueda por igualdad, vista de participación corregida y `sp_historial_integrantes`.
   - Aceptación:
     - Índice UNIQUE en `artista.nombre` e índices en `persona.nombre_conocido` y
       `persona.nombre_legal`.

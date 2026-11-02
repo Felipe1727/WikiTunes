@@ -1,0 +1,84 @@
+erDiagram
+    PAIS ||--o{ CIUDAD : contiene
+    PAIS ||--o{ SELLO : "sede de"
+    CIUDAD ||--o{ PERSONA : "nacimiento"
+    CIUDAD ||--o{ ARTISTA : "origen"
+    SELLO |o--o{ SELLO : "subsidiaria de"
+    GENERO |o--o{ GENERO : "subgenero de"
+    PERSONA ||--o{ MEMBRESIA : "pertenece"
+    ARTISTA ||--|{ MEMBRESIA : "integrado por"
+    ARTISTA ||--o{ ARTISTA_GENERO : ""
+    GENERO ||--o{ ARTISTA_GENERO : ""
+    SELLO ||--o{ ALBUM : publica
+    ALBUM ||--|{ ALBUM_ARTISTA : ""
+    ARTISTA ||--o{ ALBUM_ARTISTA : ""
+    ALBUM ||--o{ ALBUM_GENERO : ""
+    GENERO ||--o{ ALBUM_GENERO : ""
+    ALBUM ||--|{ ALBUM_CANCION : tracklist
+    CANCION ||--|{ ALBUM_CANCION : "aparece en"
+    CANCION ||--o{ CANCION_GENERO : ""
+    GENERO ||--o{ CANCION_GENERO : ""
+    CANCION ||--|{ CREDITO_ARTISTA : ""
+    ARTISTA ||--o{ CREDITO_ARTISTA : interpreta
+    CANCION ||--o{ CREDITO_PERSONA : ""
+    PERSONA ||--o{ CREDITO_PERSONA : "compone/produce"
+
+    PAIS { int pais_id PK
+           varchar nombre
+           char codigo_iso2 }
+    CIUDAD { int ciudad_id PK
+             varchar nombre
+             int pais_id FK }
+    SELLO { int sello_id PK
+            varchar nombre
+            int pais_id FK
+            smallint anio_fundacion
+            int sello_padre_id FK }
+    GENERO { int genero_id PK
+             varchar nombre
+             int genero_padre_id FK }
+    PERSONA { int persona_id PK
+              varchar nombre_legal
+              varchar nombre_conocido
+              date fecha_nacimiento
+              date fecha_fallecimiento
+              int ciudad_nacimiento_id FK }
+    ARTISTA { int artista_id PK
+              varchar nombre
+              enum tipo "Solista|Banda|Duo|..."
+              smallint anio_formacion
+              smallint anio_disolucion
+              int ciudad_origen_id FK }
+    MEMBRESIA { int membresia_id PK
+                int persona_id FK
+                int artista_id FK
+                varchar rol
+                date fecha_inicio
+                date fecha_fin }
+    ARTISTA_GENERO { int artista_id PK,FK
+                     int genero_id PK,FK }
+    ALBUM { int album_id PK
+            varchar titulo
+            enum tipo "LP|EP|Single|Compilation|..."
+            date fecha_lanzamiento
+            int sello_id FK }
+    ALBUM_ARTISTA { int album_id PK,FK
+                    int artista_id PK,FK
+                    smallint orden }
+    ALBUM_GENERO { int album_id PK,FK
+                   int genero_id PK,FK }
+    CANCION_GENERO { int cancion_id PK,FK
+                     int genero_id PK,FK }
+    CANCION { int cancion_id PK
+              varchar titulo
+              int duracion_seg }
+    ALBUM_CANCION { int album_id PK,FK
+                    smallint numero_disco PK
+                    smallint numero_pista PK
+                    int cancion_id FK }
+    CREDITO_ARTISTA { int cancion_id PK,FK
+                      int artista_id PK,FK
+                      enum rol PK "Principal|Featuring|Remixer" }
+    CREDITO_PERSONA { int cancion_id PK,FK
+                      int persona_id PK,FK
+                      enum rol PK "Compositor|Productor|..." }

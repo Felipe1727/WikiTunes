@@ -30,6 +30,7 @@ PROCEDIMIENTOS_ESPERADOS = {
     "sp_subgeneros",
     "sp_tracklist",
     "sp_integrantes_en_fecha",
+    "sp_historial_integrantes",
 }
 
 

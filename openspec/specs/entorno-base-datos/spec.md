@@ -10,7 +10,7 @@ El sistema DEBE (MUST) levantar con `docker compose up -d --wait` un servidor My
 
 #### Scenario: Primer arranque
 - **WHEN** se ejecuta `docker compose up -d --wait` sin volumen de datos previo
-- **THEN** el comando termina con éxito y la base `musica` contiene 16 tablas, 4 triggers, la vista `v_participacion_persona` y los procedimientos `sp_canciones_de_persona`, `sp_subgeneros`, `sp_tracklist` y `sp_integrantes_en_fecha`
+- **THEN** el comando termina con éxito y la base `musica` contiene 17 tablas (incluida `arte_artista`), 4 triggers, la vista `v_participacion_persona` y los procedimientos `sp_canciones_de_persona`, `sp_subgeneros`, `sp_tracklist` y `sp_integrantes_en_fecha`
 
 #### Scenario: Arranque sin archivo .env
 - **WHEN** no existe el archivo `.env` en el repositorio

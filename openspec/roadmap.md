@@ -298,7 +298,7 @@ New wave
     - `uv sync`, el lint y las pruebas pasan, y la CI de GitHub Actions está en verde en 3.12 y 3.14.
   - Depende de: —
 
-- [ ] `tabla-arte-artista` — Tabla nueva `arte_artista` en el esquema y en el diagrama ER.
+- [x] `tabla-arte-artista` — Tabla nueva `arte_artista` en el esquema y en el diagrama ER.
   - Aceptación:
     - La tabla existe con la definición de "Base de datos" (PK/FK con `ON DELETE CASCADE`,
       `arte TEXT`, `estilo VARCHAR(40) NULL`).

@@ -32,6 +32,9 @@ OPCIONES_PRINCIPALES = [
     Opcion("tracklist", "Tracklist de un álbum"),
     Opcion("integrantes_fecha", "Integrantes de un artista en una fecha"),
     Opcion("historial", "Historial de integrantes de un artista"),
+    Opcion("ficha_artista", "Ficha de un artista"),
+    Opcion("ficha_persona", "Ficha de una persona"),
+    Opcion("ficha_cancion", "Ficha de una canción"),
     Opcion("salir", "Salir"),
 ]
 

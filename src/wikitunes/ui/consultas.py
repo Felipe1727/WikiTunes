@@ -24,7 +24,7 @@ from wikitunes.modelos import (
     Tracklist,
 )
 from wikitunes.ui.encabezados import encabezado_artista, mostrar_encabezado, titulo_generado
-from wikitunes.ui.preguntas import Elegible, Preguntas
+from wikitunes.ui.preguntas import Elegible
 from wikitunes.ui.textos import ROLES, TIPOS_ALBUM, fecha_larga, traducir
 
 ESTILO_TABLA = "bright_magenta"
@@ -57,6 +57,19 @@ def elegibles_de(referencias: list[Referencia]) -> list[Elegible[Referencia]]:
 def texto_album(album: ResumenAlbum) -> str:
     anio = f" ({album.fecha_lanzamiento.year})" if album.fecha_lanzamiento else ""
     return f"{album.titulo}{anio} · {traducir(album.tipo, TIPOS_ALBUM)}"
+
+
+def elegibles_canciones(canciones: dict[int, str]) -> list[Elegible[Referencia]]:
+    """Canciones por título; si dos se llaman igual (p. ej. versiones de single y de LP), se
+    agrega su número para distinguirlas."""
+    repetidos = Counter(canciones.values())
+    return [
+        Elegible(
+            titulo + (f" #{cancion_id}" if repetidos[titulo] > 1 else ""),
+            Referencia(cancion_id, titulo),
+        )
+        for cancion_id, titulo in sorted(canciones.items(), key=lambda c: (c[1], c[0]))
+    ]
 
 
 def elegibles_albumes(albumes: list[ResumenAlbum]) -> list[Elegible[ResumenAlbum]]:
@@ -139,45 +152,7 @@ def render_integrantes(integrantes: list[Integrante], titulo: str, vacio: str) -
     return tabla
 
 
-# --- Acciones ------------------------------------------------------------------------------
-
-
-def _ancho(consola: Console) -> int:
-    return consola.width
-
-
-def canciones_de_persona(
-    consola: Console, catalogo: Catalogo, preguntas: Preguntas
-) -> Referencia | None:
-    persona = preguntas.elegir("¿De qué persona?", elegibles_de(catalogo.personas()))
-    if persona is None:
-        return None
-    mostrar_encabezado(consola, titulo_generado(persona.nombre, _ancho(consola)))
-    consola.print(
-        render_canciones_de_persona(persona.nombre, catalogo.canciones_de_persona(persona))
-    )
-    return persona
-
-
-def arbol_de_genero(
-    consola: Console, catalogo: Catalogo, preguntas: Preguntas
-) -> Referencia | None:
-    genero = preguntas.elegir("¿Qué género?", elegibles_de(catalogo.generos()))
-    if genero is None:
-        return None
-    mostrar_encabezado(consola, titulo_generado(genero.nombre, _ancho(consola)))
-    consola.print(render_arbol_genero(catalogo.subgeneros(genero.nombre)))
-    return genero
-
-
-def tracklist_de_album(
-    consola: Console, catalogo: Catalogo, preguntas: Preguntas
-) -> ResumenAlbum | None:
-    album = preguntas.elegir("¿Qué álbum?", elegibles_albumes(catalogo.albumes()))
-    if album is None:
-        return None
-    mostrar_tracklist(consola, catalogo, album.id)
-    return album
+# --- Mostrar (encabezado + resultado) ------------------------------------------------------
 
 
 def mostrar_tracklist(consola: Console, catalogo: Catalogo, album_id: int) -> Tracklist | None:
@@ -185,48 +160,43 @@ def mostrar_tracklist(consola: Console, catalogo: Catalogo, album_id: int) -> Tr
     if tracklist is None:
         consola.print(sin_resultados("Ese álbum no existe en el catálogo."))
         return None
-    mostrar_encabezado(consola, titulo_generado(tracklist.titulo, _ancho(consola)))
+    mostrar_encabezado(consola, titulo_generado(tracklist.titulo, consola.width))
     consola.print(render_tracklist(tracklist))
     return tracklist
 
 
 def _encabezado_de(consola: Console, catalogo: Catalogo, artista: Referencia) -> None:
     arte = catalogo.arte_de_artista(artista.id)
-    mostrar_encabezado(consola, encabezado_artista(arte, artista.nombre, _ancho(consola)))
+    mostrar_encabezado(consola, encabezado_artista(arte, artista.nombre, consola.width))
 
 
-def integrantes_en_fecha(
-    consola: Console, catalogo: Catalogo, preguntas: Preguntas, fecha: date | None = None
-) -> Referencia | None:
-    artista = preguntas.elegir("¿De qué artista?", elegibles_de(catalogo.artistas()))
-    if artista is None:
-        return None
-    fecha = fecha or preguntas.pedir_fecha("¿En qué fecha?")
-    if fecha is None:
-        return None
+def mostrar_integrantes_en_fecha(
+    consola: Console, catalogo: Catalogo, artista: Referencia, fecha: date
+) -> list[Integrante]:
+    """Primero el arte del artista; después los integrantes de esa fecha."""
     _encabezado_de(consola, catalogo, artista)
+    integrantes = catalogo.integrantes_en_fecha(artista.nombre, fecha)
     consola.print(
         render_integrantes(
-            catalogo.integrantes_en_fecha(artista.nombre, fecha),
+            integrantes,
             f"Integrantes de {artista.nombre} el {fecha_larga(fecha)}",
             f"{artista.nombre} no tenía integrantes el {fecha_larga(fecha)}.",
         )
     )
-    return artista
+    return integrantes
 
 
-def historial_de_integrantes(
-    consola: Console, catalogo: Catalogo, preguntas: Preguntas
-) -> Referencia | None:
-    artista = preguntas.elegir("¿De qué artista?", elegibles_de(catalogo.artistas()))
-    if artista is None:
-        return None
+def mostrar_historial(
+    consola: Console, catalogo: Catalogo, artista: Referencia
+) -> list[Integrante]:
+    """Primero el arte del artista; después todos sus periodos de membresía."""
     _encabezado_de(consola, catalogo, artista)
+    integrantes = catalogo.historial_integrantes(artista.nombre)
     consola.print(
         render_integrantes(
-            catalogo.historial_integrantes(artista.nombre),
+            integrantes,
             f"Historial de integrantes de {artista.nombre}",
             f"{artista.nombre} no tiene integrantes registrados.",
         )
     )
-    return artista
+    return integrantes

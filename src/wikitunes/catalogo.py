@@ -175,6 +175,16 @@ class Catalogo:
             for f in filas
         ]
 
+    def artistas_de_album(self, album_id: int) -> list[Referencia]:
+        """Los artistas de la portada del álbum, en su orden."""
+        filas = self._consultar(
+            "SELECT a.artista_id AS id, a.nombre FROM album_artista aa "
+            "JOIN artista a ON a.artista_id = aa.artista_id WHERE aa.album_id = %s "
+            "ORDER BY aa.orden, a.nombre",
+            album_id,
+        )
+        return [Referencia(f["id"], f["nombre"]) for f in filas]
+
     # --- Fichas ---------------------------------------------------------------------------
 
     def arte_de_artista(self, artista_id: int) -> Arte | None:

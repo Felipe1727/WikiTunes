@@ -7,6 +7,7 @@ from rich.console import Console
 from wikitunes.modelos import Integrante, NodoGenero, Participacion, Pista, ResumenAlbum, Tracklist
 from wikitunes.ui.consultas import (
     elegibles_albumes,
+    elegibles_canciones,
     render_arbol_genero,
     render_canciones_de_persona,
     render_integrantes,
@@ -108,3 +109,9 @@ def test_integrantes_vacio():
 def test_elegibles_de_albumes_muestran_anio_y_tipo():
     elegibles = elegibles_albumes([ResumenAlbum(1, "Red", "LP", date(1974, 9, 27))])
     assert elegibles[0].texto == "Red (1974) · LP"
+
+
+def test_canciones_con_el_mismo_titulo_se_distinguen_por_numero():
+    elegibles = elegibles_canciones({7: "Get Back", 3: "Get Back", 5: "Red"})
+    assert [e.texto for e in elegibles] == ["Get Back #3", "Get Back #7", "Red"]
+    assert elegibles[0].valor.id == 3

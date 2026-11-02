@@ -34,6 +34,22 @@ docker compose down -v          # detenerla y borrar el volumen (reinicializa en
 Después de cambiar el esquema o los procedimientos, reinicializa la base con `docker compose down -v`
 seguido de `docker compose up -d --wait`.
 
+### Datos de la demo
+
+Cada `docker compose up -d --wait` vuelve a cargar los datos de [`datos/`](datos/) (servicio
+`cargador`): reemplaza todo el contenido de la base por el de los CSV en una sola transacción. Si un
+CSV tiene un error, el comando falla y la base no cambia; el detalle está en
+`docker compose logs cargador`.
+
+También se puede cargar a mano desde el host:
+
+```bash
+uv run python -m wikitunes.cargador
+```
+
+El formato de los archivos está en [`datos/README.md`](datos/README.md) y la procedencia de cada
+dato, en [`obtencion_datos/`](obtencion_datos/).
+
 ### Configuración
 
 La conexión se configura con variables de entorno o con un archivo `.env` (no versionado). Si no

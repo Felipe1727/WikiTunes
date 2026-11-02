@@ -1,6 +1,7 @@
-# Base de datos local de WikiTunes (MySQL 8.4).
+# Base de datos local de WikiTunes (MySQL 8.4) y carga de los datos de la demo.
 # Los scripts de inicialización solo se ejecutan con el volumen vacío:
-# usa `docker compose down -v` para reinicializar.
+# usa `docker compose down -v` para reinicializar el esquema.
+# Los datos (datos/*.csv y datos/arte/) se recargan en cada `docker compose up`.
 services:
   bd:
     image: mysql:8.4
@@ -25,5 +26,36 @@ services:
       retries: 60
       start_period: 10s
 
+  cargador:
+    # Servicio de un solo uso: reemplaza el contenido de la base por el de datos/ y termina.
+    image: ghcr.io/astral-sh/uv:python3.12-bookworm-slim
+    depends_on:
+      bd:
+        condition: service_healthy
+    working_dir: /app
+    environment:
+      UV_PROJECT_ENVIRONMENT: /opt/venv
+      UV_LINK_MODE: copy
+      WIKITUNES_BD_HOST: bd
+      WIKITUNES_BD_PUERTO: "3306"
+      WIKITUNES_BD_NOMBRE: ${WIKITUNES_BD_NOMBRE:-musica}
+      WIKITUNES_BD_CLAVE_ROOT: ${WIKITUNES_BD_CLAVE_ROOT:-raiz_wikitunes}
+    volumes:
+      - .:/app:ro,z
+      - cache_uv:/root/.cache/uv
+    command: ["uv", "run", "--frozen", "--no-dev", "python", "-m", "wikitunes.cargador"]
+
+  listo:
+    # Centinela: solo arranca cuando la carga terminó bien. Así `docker compose up -d --wait`
+    # espera a que los datos estén cargados (y falla si la carga falla), porque `--wait` no
+    # acepta un servicio de un solo uso que ya terminó si nadie depende de él.
+    image: alpine:3
+    init: true
+    depends_on:
+      cargador:
+        condition: service_completed_successfully
+    command: ["sleep", "infinity"]
+
 volumes:
   datos_mysql:
+  cache_uv:

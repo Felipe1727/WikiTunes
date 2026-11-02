@@ -22,6 +22,7 @@ TABLAS_ESPERADAS = {
     "album_cancion",
     "credito_artista",
     "credito_persona",
+    "arte_artista",
 }
 
 PROCEDIMIENTOS_ESPERADOS = {
@@ -41,7 +42,7 @@ def consultar_valor(conexion, sql: str, parametros: tuple = ()) -> object:
         cursor.close()
 
 
-def test_existen_las_16_tablas_del_esquema(conexion_bd):
+def test_existen_las_17_tablas_del_esquema(conexion_bd):
     cursor = conexion_bd.cursor()
     cursor.execute(
         "SELECT table_name FROM information_schema.tables "

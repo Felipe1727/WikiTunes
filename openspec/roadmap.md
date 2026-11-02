@@ -383,7 +383,7 @@ New wave
     - La procedencia o el criterio de diseño de cada arte queda en `obtencion_datos/README.md`.
   - Depende de: `datos-king-crimson`
 
-- [ ] `capa-datos` — Conexión configurable y consultas tipadas sobre procedimientos y listados.
+- [x] `capa-datos` — Conexión configurable y consultas tipadas sobre procedimientos y listados.
   - Aceptación:
     - La configuración se lee de las variables `WIKITUNES_BD_*` (con `.env`).
     - Hay funciones que devuelven dataclasses para los 5 procedimientos, incluidos los dos

@@ -1,0 +1,337 @@
+{
+  "cover-art-archive": {
+    "count": 4,
+    "back": true,
+    "front": true,
+    "darkened": false,
+    "artwork": true
+  },
+  "release-group": {
+    "secondary-type-ids": [
+      "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+    ],
+    "secondary-types": [
+      "Compilation"
+    ],
+    "first-release-date": "1974-09-27",
+    "artist-credit": [
+      {
+        "name": "King Crimson",
+        "joinphrase": "",
+        "artist": {
+          "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+          "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+          "country": "GB",
+          "disambiguation": "",
+          "type": "Group",
+          "sort-name": "King Crimson",
+          "name": "King Crimson"
+        }
+      }
+    ],
+    "id": "89bc97c8-921a-3758-8481-3b39c564e297",
+    "title": "Red",
+    "disambiguation": "",
+    "primary-type": "Album",
+    "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+  },
+  "text-representation": {
+    "language": "eng",
+    "script": "Latn"
+  },
+  "release-events": [
+    {
+      "area": {
+        "type-id": null,
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "iso-3166-1-codes": [
+          "GB"
+        ],
+        "type": null,
+        "sort-name": "United Kingdom",
+        "disambiguation": "",
+        "name": "United Kingdom"
+      },
+      "date": "1974-09-27"
+    }
+  ],
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "packaging-id": "e724a489-a7e8-30a1-a17c-30dfd6831202",
+  "title": "Red",
+  "date": "1974-09-27",
+  "asin": "B00065MDSQ",
+  "barcode": "",
+  "artist-credit": [
+    {
+      "name": "King Crimson",
+      "artist": {
+        "name": "King Crimson",
+        "sort-name": "King Crimson",
+        "type": "Group",
+        "disambiguation": "",
+        "country": "GB",
+        "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": ""
+    }
+  ],
+  "quality": "normal",
+  "country": "GB",
+  "disambiguation": "",
+  "label-info": [
+    {
+      "label": {
+        "type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+        "id": "dfd92cd3-4888-46d2-b968-328b1feb2642",
+        "label-code": 407,
+        "type": "Imprint",
+        "sort-name": "Island",
+        "disambiguation": "imprint of Island Records, a division of Universal Music Group",
+        "name": "Island"
+      },
+      "catalog-number": "ILPS 9308"
+    }
+  ],
+  "status": "Official",
+  "packaging": "Gatefold Cover",
+  "media": [
+    {
+      "track-offset": 0,
+      "id": "e081d24a-1975-375d-a3ca-1c26bbcdbf26",
+      "position": 1,
+      "track-count": 5,
+      "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+      "title": "",
+      "tracks": [
+        {
+          "position": 1,
+          "number": "A1",
+          "recording": {
+            "video": false,
+            "title": "Red",
+            "disambiguation": "",
+            "first-release-date": "1974-09-27",
+            "artist-credit": [
+              {
+                "name": "King Crimson",
+                "joinphrase": "",
+                "artist": {
+                  "name": "King Crimson",
+                  "type": "Group",
+                  "sort-name": "King Crimson",
+                  "country": "GB",
+                  "disambiguation": "",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3"
+                }
+              }
+            ],
+            "id": "44d4d9e5-5295-48b6-b005-5f0e5b4a65b0",
+            "length": 376733
+          },
+          "id": "2901fa23-2aec-346a-ad3e-4f789d8f1fe0",
+          "artist-credit": [
+            {
+              "name": "King Crimson",
+              "joinphrase": "",
+              "artist": {
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                "type": "Group",
+                "sort-name": "King Crimson",
+                "country": "GB",
+                "disambiguation": "",
+                "name": "King Crimson"
+              }
+            }
+          ],
+          "length": 376733,
+          "title": "Red"
+        },
+        {
+          "title": "Fallen Angel",
+          "number": "A2",
+          "position": 2,
+          "recording": {
+            "first-release-date": "1974-09-27",
+            "id": "a01d7c40-9624-4ea1-b345-d75df293c549",
+            "artist-credit": [
+              {
+                "name": "King Crimson",
+                "artist": {
+                  "type": "Group",
+                  "sort-name": "King Crimson",
+                  "country": "GB",
+                  "disambiguation": "",
+                  "name": "King Crimson",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3"
+                },
+                "joinphrase": ""
+              }
+            ],
+            "length": 363000,
+            "title": "Fallen Angel",
+            "video": false,
+            "disambiguation": ""
+          },
+          "artist-credit": [
+            {
+              "name": "King Crimson",
+              "artist": {
+                "name": "King Crimson",
+                "type": "Group",
+                "sort-name": "King Crimson",
+                "disambiguation": "",
+                "country": "GB",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3"
+              },
+              "joinphrase": ""
+            }
+          ],
+          "id": "392268d1-4d2d-3396-92ab-1c7ab751b39b",
+          "length": 364200
+        },
+        {
+          "artist-credit": [
+            {
+              "artist": {
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                "type": "Group",
+                "sort-name": "King Crimson",
+                "country": "GB",
+                "disambiguation": "",
+                "name": "King Crimson"
+              },
+              "joinphrase": "",
+              "name": "King Crimson"
+            }
+          ],
+          "length": 427826,
+          "id": "4590d05e-b135-3cd0-a481-ae9fff0258ee",
+          "recording": {
+            "title": "One More Red Nightmare",
+            "video": false,
+            "disambiguation": "",
+            "first-release-date": "1974-09-27",
+            "length": 429960,
+            "id": "dc0e58f4-1076-41dc-a267-bae0a7a41a1a",
+            "artist-credit": [
+              {
+                "name": "King Crimson",
+                "artist": {
+                  "name": "King Crimson",
+                  "sort-name": "King Crimson",
+                  "type": "Group",
+                  "disambiguation": "",
+                  "country": "GB",
+                  "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+                },
+                "joinphrase": ""
+              }
+            ]
+          },
+          "position": 3,
+          "number": "A3",
+          "title": "One More Red Nightmare"
+        },
+        {
+          "id": "2d94a14b-4dd9-3cd3-8167-22c7a96131c8",
+          "artist-credit": [
+            {
+              "name": "King Crimson",
+              "joinphrase": "",
+              "artist": {
+                "name": "King Crimson",
+                "disambiguation": "",
+                "country": "GB",
+                "sort-name": "King Crimson",
+                "type": "Group",
+                "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+              }
+            }
+          ],
+          "length": 491533,
+          "recording": {
+            "title": "Providence",
+            "video": false,
+            "disambiguation": "",
+            "first-release-date": "1974-09-27",
+            "artist-credit": [
+              {
+                "name": "King Crimson",
+                "artist": {
+                  "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "country": "GB",
+                  "disambiguation": "",
+                  "sort-name": "King Crimson",
+                  "type": "Group",
+                  "name": "King Crimson"
+                },
+                "joinphrase": ""
+              }
+            ],
+            "id": "64e55161-97f8-4c95-917a-08586b2a6f58",
+            "length": 490000
+          },
+          "position": 4,
+          "number": "B1",
+          "title": "Providence"
+        },
+        {
+          "recording": {
+            "video": false,
+            "title": "Starless",
+            "disambiguation": "",
+            "first-release-date": "1974-09-27",
+            "id": "d0244237-b11a-4bf9-add9-f5f561a4d329",
+            "length": 738426,
+            "artist-credit": [
+              {
+                "name": "King Crimson",
+                "joinphrase": "",
+                "artist": {
+                  "name": "King Crimson",
+                  "type": "Group",
+                  "sort-name": "King Crimson",
+                  "disambiguation": "",
+                  "country": "GB",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3"
+                }
+              }
+            ]
+          },
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "name": "King Crimson",
+                "country": "GB",
+                "disambiguation": "",
+                "sort-name": "King Crimson",
+                "type": "Group"
+              },
+              "name": "King Crimson"
+            }
+          ],
+          "id": "3202693a-a4ff-37b2-bbd8-e40829487f53",
+          "length": 738773,
+          "position": 5,
+          "number": "B2",
+          "title": "Starless"
+        }
+      ],
+      "format": "12\" Vinyl"
+    }
+  ],
+  "id": "097a5c3e-9210-3264-8e94-d33fe65021d6"
+}

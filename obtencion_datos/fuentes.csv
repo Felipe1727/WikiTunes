@@ -325,3 +325,132 @@ membresia,26,https://en.wikipedia.org/w/index.php?title=Traveling_Wilburys&oldid
 membresia,27,https://en.wikipedia.org/w/index.php?title=Traveling_Wilburys&oldid=1380650648,rol;fecha_inicio;fecha_fin,Formada en abril de 1988; activa hasta 1991 (fechas aproximadas). Roles: personal de Vol. 1.
 membresia,28,https://en.wikipedia.org/w/index.php?title=Traveling_Wilburys&oldid=1380650648,rol;fecha_inicio;fecha_fin,Formada en abril de 1988; activa hasta 1991 (fechas aproximadas). Roles: personal de Vol. 1.
 membresia,1,https://en.wikipedia.org/w/index.php?title=Paul_McCartney&oldid=1382240112,fecha_fin,Anuncio de la separación: 10 de abril de 1970.
+sello,5,https://en.wikipedia.org/w/index.php?title=Island_Records&oldid=1382199581,nombre,"Empresa matriz de Island Records (1999–) y de E.G. Records (2012–), según sus artículos."
+sello,6,https://en.wikipedia.org/w/index.php?title=Island_Records&oldid=1382199581,anio_fundacion;sello_padre_id,"Sedes en EE. UU., Reino Unido y Jamaica: no se asigna un único país."
+sello,7,https://en.wikipedia.org/w/index.php?title=E.G._Records&oldid=1370537621,pais_id;anio_fundacion;sello_padre_id,
+sello,8,https://en.wikipedia.org/w/index.php?title=Discipline_Global_Mobile&oldid=1379616697,pais_id;anio_fundacion,
+persona,101,https://en.wikipedia.org/w/index.php?title=Robert_Fripp&oldid=1382894993,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,La fuente no da un nombre de nacimiento distinto.
+persona,102,https://en.wikipedia.org/w/index.php?title=Michael_Giles&oldid=1370988889,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,
+persona,103,https://en.wikipedia.org/w/index.php?title=Greg_Lake&oldid=1382957219,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,
+persona,104,https://en.wikipedia.org/w/index.php?title=Ian_McDonald_(musician)&oldid=1370686360,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,"Nació en Osterley (Middlesex), hoy parte de Londres. La fuente no da un nombre de nacimiento distinto."
+persona,105,https://en.wikipedia.org/w/index.php?title=Peter_Sinfield&oldid=1381885644,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,"Nació en Fulham, Londres."
+persona,106,https://en.wikipedia.org/w/index.php?title=Peter_Giles_(musician)&oldid=1372211048,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,La fuente no da fechas ni lugar de nacimiento.
+persona,107,https://en.wikipedia.org/w/index.php?title=Gordon_Haskell&oldid=1383069097,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,La fuente no da lugar de nacimiento.
+persona,108,https://en.wikipedia.org/w/index.php?title=Mel_Collins&oldid=1364105441,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,Nació en la Isla de Man (sin ciudad en la fuente).
+persona,109,https://en.wikipedia.org/w/index.php?title=Andrew_McCulloch_(drummer)&oldid=1370988656,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,Datos del texto inicial del artículo.
+persona,110,https://en.wikipedia.org/w/index.php?title=Boz_Burrell&oldid=1381978479,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,
+persona,111,https://en.wikipedia.org/w/index.php?title=Ian_Wallace_(drummer)&oldid=1380916687,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,
+persona,112,https://en.wikipedia.org/w/index.php?title=Jamie_Muir&oldid=1372525154,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,
+persona,113,https://en.wikipedia.org/w/index.php?title=John_Wetton&oldid=1383371582,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,"Willington, Derbyshire."
+persona,114,https://en.wikipedia.org/w/index.php?title=Bill_Bruford&oldid=1381039899,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,
+persona,115,https://en.wikipedia.org/w/index.php?title=David_Cross_(musician)&oldid=1368102474,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,La fuente no da un nombre de nacimiento distinto.
+persona,116,https://en.wikipedia.org/w/index.php?title=Adrian_Belew&oldid=1382823401,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,"Covington, Kentucky."
+persona,117,https://en.wikipedia.org/w/index.php?title=Tony_Levin&oldid=1382908876,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,"Boston, Massachusetts."
+persona,118,https://en.wikipedia.org/w/index.php?title=Trey_Gunn&oldid=1379712644,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,La fuente no da lugar de nacimiento.
+persona,119,https://en.wikipedia.org/w/index.php?title=Pat_Mastelotto&oldid=1382273411,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,"Chico, California."
+persona,120,https://en.wikipedia.org/w/index.php?title=Jakko_Jakszyk&oldid=1379429486,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,La fuente no da lugar de nacimiento.
+persona,121,https://en.wikipedia.org/w/index.php?title=Gavin_Harrison&oldid=1381215775,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,"Nació en Harrow (Middlesex), hoy distrito de Londres."
+persona,122,https://en.wikipedia.org/w/index.php?title=Bill_Rieflin&oldid=1368420517,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,Fecha de nacimiento del campo birth_date (la plantilla de fallecimiento dice 29 de septiembre).
+persona,123,https://en.wikipedia.org/w/index.php?title=Jeremy_Stacey&oldid=1376730402,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,La fuente no da lugar de nacimiento.
+persona,124,https://en.wikipedia.org/w/index.php?title=Richard_Palmer-James&oldid=1368771271,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,"Meyrick Park, Bournemouth."
+persona,125,https://en.wikipedia.org/w/index.php?title=Rhett_Davies&oldid=1379753762,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,Fecha aproximada: la fuente solo da el año (1949).
+persona,126,https://en.wikipedia.org/w/index.php?title=Vrooom&oldid=1371960023,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,Productor de VROOOM según el artículo del EP; no tiene artículo propio.
+artista,101,https://en.wikipedia.org/w/index.php?title=King_Crimson&oldid=1383406834,tipo;anio_formacion;anio_disolucion;ciudad_origen_id;generos,"Años activos: 1968–1974, 1981–1984, 1994–2008 y 2013–2021; disolución = último año activo. Géneros: post-progressive → Rock progresivo."
+membresia,101,https://en.wikipedia.org/w/index.php?title=List_of_King_Crimson_members&oldid=1383205382,rol;fecha_inicio;fecha_fin,Inicio: formación de la banda el 30 de noviembre de 1968 (artículo «King Crimson»). Periodo según la línea de tiempo de «List of King Crimson members».
+membresia,101,https://en.wikipedia.org/w/index.php?title=King_Crimson&oldid=1383406834,fecha_inicio,Formada el 30 de noviembre de 1968.
+membresia,102,https://en.wikipedia.org/w/index.php?title=List_of_King_Crimson_members&oldid=1383205382,rol;fecha_inicio;fecha_fin,Periodo según la línea de tiempo de «List of King Crimson members».
+membresia,103,https://en.wikipedia.org/w/index.php?title=List_of_King_Crimson_members&oldid=1383205382,rol;fecha_inicio;fecha_fin,Periodo según la línea de tiempo de «List of King Crimson members».
+membresia,104,https://en.wikipedia.org/w/index.php?title=List_of_King_Crimson_members&oldid=1383205382,rol;fecha_inicio;fecha_fin,"Fin: 31 de diciembre de 2021, fin de la línea de tiempo (último año activo: 2021).Periodo según la línea de tiempo de «List of King Crimson members»."
+membresia,105,https://en.wikipedia.org/w/index.php?title=List_of_King_Crimson_members&oldid=1383205382,rol;fecha_inicio;fecha_fin,Inicio: formación de la banda el 30 de noviembre de 1968 (artículo «King Crimson»). Periodo según la línea de tiempo de «List of King Crimson members».
+membresia,105,https://en.wikipedia.org/w/index.php?title=King_Crimson&oldid=1383406834,fecha_inicio,Formada el 30 de noviembre de 1968.
+membresia,106,https://en.wikipedia.org/w/index.php?title=List_of_King_Crimson_members&oldid=1383205382,rol;fecha_inicio;fecha_fin,Inicio: formación de la banda el 30 de noviembre de 1968 (artículo «King Crimson»). Periodo según la línea de tiempo de «List of King Crimson members».
+membresia,106,https://en.wikipedia.org/w/index.php?title=King_Crimson&oldid=1383406834,fecha_inicio,Formada el 30 de noviembre de 1968.
+membresia,107,https://en.wikipedia.org/w/index.php?title=List_of_King_Crimson_members&oldid=1383205382,rol;fecha_inicio;fecha_fin,Inicio: formación de la banda el 30 de noviembre de 1968 (artículo «King Crimson»). Periodo según la línea de tiempo de «List of King Crimson members».
+membresia,107,https://en.wikipedia.org/w/index.php?title=King_Crimson&oldid=1383406834,fecha_inicio,Formada el 30 de noviembre de 1968.
+membresia,108,https://en.wikipedia.org/w/index.php?title=List_of_King_Crimson_members&oldid=1383205382,rol;fecha_inicio;fecha_fin,Inicio: formación de la banda el 30 de noviembre de 1968 (artículo «King Crimson»). Periodo según la línea de tiempo de «List of King Crimson members».
+membresia,108,https://en.wikipedia.org/w/index.php?title=King_Crimson&oldid=1383406834,fecha_inicio,Formada el 30 de noviembre de 1968.
+membresia,109,https://en.wikipedia.org/w/index.php?title=List_of_King_Crimson_members&oldid=1383205382,rol;fecha_inicio;fecha_fin,Periodo según la línea de tiempo de «List of King Crimson members».
+membresia,110,https://en.wikipedia.org/w/index.php?title=List_of_King_Crimson_members&oldid=1383205382,rol;fecha_inicio;fecha_fin,Periodo según la línea de tiempo de «List of King Crimson members».
+membresia,111,https://en.wikipedia.org/w/index.php?title=List_of_King_Crimson_members&oldid=1383205382,rol;fecha_inicio;fecha_fin,"Fin: 31 de diciembre de 2021, fin de la línea de tiempo (último año activo: 2021).Periodo según la línea de tiempo de «List of King Crimson members»."
+membresia,112,https://en.wikipedia.org/w/index.php?title=List_of_King_Crimson_members&oldid=1383205382,rol;fecha_inicio;fecha_fin,Periodo según la línea de tiempo de «List of King Crimson members».
+membresia,113,https://en.wikipedia.org/w/index.php?title=List_of_King_Crimson_members&oldid=1383205382,rol;fecha_inicio;fecha_fin,Periodo según la línea de tiempo de «List of King Crimson members».
+membresia,114,https://en.wikipedia.org/w/index.php?title=List_of_King_Crimson_members&oldid=1383205382,rol;fecha_inicio;fecha_fin,Periodo según la línea de tiempo de «List of King Crimson members».
+membresia,115,https://en.wikipedia.org/w/index.php?title=List_of_King_Crimson_members&oldid=1383205382,rol;fecha_inicio;fecha_fin,Periodo según la línea de tiempo de «List of King Crimson members».
+membresia,116,https://en.wikipedia.org/w/index.php?title=List_of_King_Crimson_members&oldid=1383205382,rol;fecha_inicio;fecha_fin,Periodo según la línea de tiempo de «List of King Crimson members».
+membresia,117,https://en.wikipedia.org/w/index.php?title=List_of_King_Crimson_members&oldid=1383205382,rol;fecha_inicio;fecha_fin,Periodo según la línea de tiempo de «List of King Crimson members».
+membresia,118,https://en.wikipedia.org/w/index.php?title=List_of_King_Crimson_members&oldid=1383205382,rol;fecha_inicio;fecha_fin,Periodo según la línea de tiempo de «List of King Crimson members».
+membresia,119,https://en.wikipedia.org/w/index.php?title=List_of_King_Crimson_members&oldid=1383205382,rol;fecha_inicio;fecha_fin,Periodo según la línea de tiempo de «List of King Crimson members».
+membresia,120,https://en.wikipedia.org/w/index.php?title=List_of_King_Crimson_members&oldid=1383205382,rol;fecha_inicio;fecha_fin,Periodo según la línea de tiempo de «List of King Crimson members».
+membresia,121,https://en.wikipedia.org/w/index.php?title=List_of_King_Crimson_members&oldid=1383205382,rol;fecha_inicio;fecha_fin,Periodo según la línea de tiempo de «List of King Crimson members».
+membresia,122,https://en.wikipedia.org/w/index.php?title=List_of_King_Crimson_members&oldid=1383205382,rol;fecha_inicio;fecha_fin,Periodo según la línea de tiempo de «List of King Crimson members».
+membresia,123,https://en.wikipedia.org/w/index.php?title=List_of_King_Crimson_members&oldid=1383205382,rol;fecha_inicio;fecha_fin,Periodo según la línea de tiempo de «List of King Crimson members».
+membresia,124,https://en.wikipedia.org/w/index.php?title=List_of_King_Crimson_members&oldid=1383205382,rol;fecha_inicio;fecha_fin,Periodo según la línea de tiempo de «List of King Crimson members».
+membresia,125,https://en.wikipedia.org/w/index.php?title=List_of_King_Crimson_members&oldid=1383205382,rol;fecha_inicio;fecha_fin,Periodo según la línea de tiempo de «List of King Crimson members».
+membresia,126,https://en.wikipedia.org/w/index.php?title=List_of_King_Crimson_members&oldid=1383205382,rol;fecha_inicio;fecha_fin,Periodo según la línea de tiempo de «List of King Crimson members».
+membresia,127,https://en.wikipedia.org/w/index.php?title=List_of_King_Crimson_members&oldid=1383205382,rol;fecha_inicio;fecha_fin,"Fin: 31 de diciembre de 2021, fin de la línea de tiempo (último año activo: 2021).Periodo según la línea de tiempo de «List of King Crimson members»."
+membresia,128,https://en.wikipedia.org/w/index.php?title=List_of_King_Crimson_members&oldid=1383205382,rol;fecha_inicio;fecha_fin,Periodo según la línea de tiempo de «List of King Crimson members».
+membresia,129,https://en.wikipedia.org/w/index.php?title=List_of_King_Crimson_members&oldid=1383205382,rol;fecha_inicio;fecha_fin,Periodo según la línea de tiempo de «List of King Crimson members».
+membresia,130,https://en.wikipedia.org/w/index.php?title=List_of_King_Crimson_members&oldid=1383205382,rol;fecha_inicio;fecha_fin,"Fin: 31 de diciembre de 2021, fin de la línea de tiempo (último año activo: 2021).Periodo según la línea de tiempo de «List of King Crimson members»."
+membresia,131,https://en.wikipedia.org/w/index.php?title=List_of_King_Crimson_members&oldid=1383205382,rol;fecha_inicio;fecha_fin,Periodo según la línea de tiempo de «List of King Crimson members».
+membresia,132,https://en.wikipedia.org/w/index.php?title=List_of_King_Crimson_members&oldid=1383205382,rol;fecha_inicio;fecha_fin,"Fin: 31 de diciembre de 2021, fin de la línea de tiempo (último año activo: 2021).Periodo según la línea de tiempo de «List of King Crimson members»."
+membresia,133,https://en.wikipedia.org/w/index.php?title=List_of_King_Crimson_members&oldid=1383205382,rol;fecha_inicio;fecha_fin,"Fin: 31 de diciembre de 2021, fin de la línea de tiempo (último año activo: 2021).Periodo según la línea de tiempo de «List of King Crimson members»."
+membresia,134,https://en.wikipedia.org/w/index.php?title=List_of_King_Crimson_members&oldid=1383205382,rol;fecha_inicio;fecha_fin,Periodo según la línea de tiempo de «List of King Crimson members».
+membresia,135,https://en.wikipedia.org/w/index.php?title=List_of_King_Crimson_members&oldid=1383205382,rol;fecha_inicio;fecha_fin,Periodo según la línea de tiempo de «List of King Crimson members».
+membresia,136,https://en.wikipedia.org/w/index.php?title=List_of_King_Crimson_members&oldid=1383205382,rol;fecha_inicio;fecha_fin,Periodo según la línea de tiempo de «List of King Crimson members».
+membresia,137,https://en.wikipedia.org/w/index.php?title=List_of_King_Crimson_members&oldid=1383205382,rol;fecha_inicio;fecha_fin,"Fin: 31 de diciembre de 2021, fin de la línea de tiempo (último año activo: 2021).Periodo según la línea de tiempo de «List of King Crimson members»."
+album,101,https://musicbrainz.org/release/3b727dc0-49a5-4bd1-8ff3-d070995e0662,titulo;tipo;fecha_lanzamiento;sello_id;tracklist,Edición de referencia (MBID en la URL). Producción acreditada a «King Crimson»: se registran sus integrantes en la fecha de lanzamiento.
+album,101,https://en.wikipedia.org/w/index.php?title=In_the_Court_of_the_Crimson_King&oldid=1380873109,generos;productores;compositores;letristas,
+cancion,201,https://musicbrainz.org/release/3b727dc0-49a5-4bd1-8ff3-d070995e0662,titulo;duracion_seg,Grabación 7dd3f76d-504d-4621-8f64-9cbf6a3fd1e2.
+cancion,201,https://en.wikipedia.org/w/index.php?title=21st_Century_Schizoid_Man&oldid=1361078252,compositores;letristas;productores;generos,
+cancion,202,https://musicbrainz.org/release/3b727dc0-49a5-4bd1-8ff3-d070995e0662,titulo;duracion_seg,Grabación bba03961-9793-4fdc-aa14-2adba0c306d5.
+cancion,202,https://en.wikipedia.org/w/index.php?title=I_Talk_to_the_Wind&oldid=1377733315,compositores;letristas;productores;generos,
+cancion,203,https://musicbrainz.org/release/3b727dc0-49a5-4bd1-8ff3-d070995e0662,titulo;duracion_seg,Grabación 8987f84a-9cb8-4366-8e62-f5c61685b4d1.
+cancion,203,https://en.wikipedia.org/w/index.php?title=Epitaph_(song)&oldid=1381238689,compositores;letristas;productores;generos,
+cancion,204,https://musicbrainz.org/release/3b727dc0-49a5-4bd1-8ff3-d070995e0662,titulo;duracion_seg,Grabación 52d5d674-5c40-47ed-83d2-a70034a3c29b.
+cancion,204,https://en.wikipedia.org/w/index.php?title=Moonchild_(King_Crimson_song)&oldid=1366120925,compositores;letristas;productores;generos,
+cancion,205,https://musicbrainz.org/release/3b727dc0-49a5-4bd1-8ff3-d070995e0662,titulo;duracion_seg,Grabación ebf1a9cc-bdc8-47b3-866e-4603316e6cfa.
+cancion,205,https://en.wikipedia.org/w/index.php?title=The_Court_of_the_Crimson_King&oldid=1361077030,compositores;letristas;productores;generos,
+album,102,https://musicbrainz.org/release/097a5c3e-9210-3264-8e94-d33fe65021d6,titulo;tipo;fecha_lanzamiento;sello_id;tracklist,"Edición de referencia (MBID en la URL). MusicBrainz marca el release group también como «Compilation»; Wikipedia lo describe como álbum de estudio. Producción: Fripp, Wetton y Bruford (personal del álbum). Fecha según MusicBrainz."
+album,102,https://en.wikipedia.org/w/index.php?title=Red_(King_Crimson_album)&oldid=1383348979,generos;productores;compositores;letristas,
+cancion,206,https://musicbrainz.org/release/097a5c3e-9210-3264-8e94-d33fe65021d6,titulo;duracion_seg,Grabación 44d4d9e5-5295-48b6-b005-5f0e5b4a65b0.
+cancion,206,https://en.wikipedia.org/w/index.php?title=Red_(King_Crimson_album)&oldid=1383348979,compositores;letristas;productores,Créditos del álbum; sin género (sin artículo propio).
+cancion,207,https://musicbrainz.org/release/097a5c3e-9210-3264-8e94-d33fe65021d6,titulo;duracion_seg,Grabación a01d7c40-9624-4ea1-b345-d75df293c549.
+cancion,207,https://en.wikipedia.org/w/index.php?title=Fallen_Angel_(King_Crimson_song)&oldid=1383347868,compositores;letristas;productores;generos,
+cancion,208,https://musicbrainz.org/release/097a5c3e-9210-3264-8e94-d33fe65021d6,titulo;duracion_seg,Grabación dc0e58f4-1076-41dc-a267-bae0a7a41a1a.
+cancion,208,https://en.wikipedia.org/w/index.php?title=Red_(King_Crimson_album)&oldid=1383348979,compositores;letristas;productores,Créditos del álbum; sin género (sin artículo propio).
+cancion,209,https://musicbrainz.org/release/097a5c3e-9210-3264-8e94-d33fe65021d6,titulo;duracion_seg,Grabación 64e55161-97f8-4c95-917a-08586b2a6f58.
+cancion,209,https://en.wikipedia.org/w/index.php?title=Red_(King_Crimson_album)&oldid=1383348979,compositores;letristas;productores,Créditos del álbum; sin género (sin artículo propio).
+cancion,210,https://musicbrainz.org/release/097a5c3e-9210-3264-8e94-d33fe65021d6,titulo;duracion_seg,Grabación d0244237-b11a-4bf9-add9-f5f561a4d329.
+cancion,210,https://en.wikipedia.org/w/index.php?title=Starless&oldid=1383347710,compositores;letristas;productores;generos,
+album,103,https://musicbrainz.org/release/71c98230-3785-3169-980e-cd43cf1c6ae4,titulo;tipo;fecha_lanzamiento;sello_id;tracklist,Edición de referencia (MBID en la URL). Producción: «King Crimson» (sus integrantes) y Rhett Davies. Géneros: post-progressive → Rock progresivo; dance-rock se omite.
+album,103,https://en.wikipedia.org/w/index.php?title=Discipline_(King_Crimson_album)&oldid=1382807495,generos;productores;compositores;letristas,
+cancion,211,https://musicbrainz.org/release/71c98230-3785-3169-980e-cd43cf1c6ae4,titulo;duracion_seg,Grabación 96fd4363-749e-4a7b-9142-e8bfe0a2c24c.
+cancion,211,https://en.wikipedia.org/w/index.php?title=Discipline_(King_Crimson_album)&oldid=1382807495,compositores;letristas;productores,Créditos del álbum; sin género (sin artículo propio).
+cancion,212,https://musicbrainz.org/release/71c98230-3785-3169-980e-cd43cf1c6ae4,titulo;duracion_seg,Grabación bdf97518-4b1b-42ac-9d06-77abb4f9588b.
+cancion,212,https://en.wikipedia.org/w/index.php?title=Discipline_(King_Crimson_album)&oldid=1382807495,compositores;letristas;productores,Créditos del álbum; sin género (sin artículo propio).
+cancion,213,https://musicbrainz.org/release/71c98230-3785-3169-980e-cd43cf1c6ae4,titulo;duracion_seg,Grabación 5e65bce6-9c1d-4200-a56a-c250da45952b.
+cancion,213,https://en.wikipedia.org/w/index.php?title=Matte_Kudasai&oldid=1379331173,compositores;letristas;productores;generos,
+cancion,214,https://musicbrainz.org/release/71c98230-3785-3169-980e-cd43cf1c6ae4,titulo;duracion_seg,Grabación 35c3eac7-9a79-4f5f-9b51-a9301af7cee6.
+cancion,214,https://en.wikipedia.org/w/index.php?title=Discipline_(King_Crimson_album)&oldid=1382807495,compositores;letristas;productores,Créditos del álbum; sin género (sin artículo propio).
+cancion,215,https://musicbrainz.org/release/71c98230-3785-3169-980e-cd43cf1c6ae4,titulo;duracion_seg,Grabación b8488eec-28dd-4a84-baba-787e7adf7c6e.
+cancion,215,https://en.wikipedia.org/w/index.php?title=Thela_Hun_Ginjeet&oldid=1365490416,compositores;letristas;productores;generos,
+cancion,216,https://musicbrainz.org/release/71c98230-3785-3169-980e-cd43cf1c6ae4,titulo;duracion_seg,Grabación e3f0fbb1-a66a-43df-b104-e5ea1e9d9cb5.
+cancion,216,https://en.wikipedia.org/w/index.php?title=Discipline_(King_Crimson_album)&oldid=1382807495,compositores;letristas;productores,Créditos del álbum; sin género (sin artículo propio).
+cancion,217,https://musicbrainz.org/release/71c98230-3785-3169-980e-cd43cf1c6ae4,titulo;duracion_seg,Grabación a7ce5e32-ca2b-4257-b7a7-0ae8344e4ea9.
+cancion,217,https://en.wikipedia.org/w/index.php?title=Discipline_(King_Crimson_album)&oldid=1382807495,compositores;letristas;productores,Créditos del álbum; sin género (sin artículo propio).
+album,104,https://musicbrainz.org/release/e8116dc3-1be0-422f-851b-04e1c93eac4a,titulo;tipo;fecha_lanzamiento;sello_id;tracklist,Edición de referencia (MBID en la URL). Edición del Reino Unido. La primera pista es una pieza sin título de las ediciones originales (Wikipedia: «0:17 unlisted 'Intro' piece»); MusicBrainz la registra como «[untitled]». Producción: «King Crimson» (sus integrantes) y David Bottrill. Géneros: jazz metal → Heavy metal.
+album,104,https://en.wikipedia.org/w/index.php?title=Vrooom&oldid=1371960023,generos;productores;compositores;letristas,
+cancion,218,https://musicbrainz.org/release/e8116dc3-1be0-422f-851b-04e1c93eac4a,titulo;duracion_seg,Grabación 5b0f0459-d6dc-42ae-a63b-663be8cb28f7.
+cancion,218,https://en.wikipedia.org/w/index.php?title=Vrooom&oldid=1371960023,compositores;letristas;productores,Créditos del álbum; sin género (sin artículo propio).
+cancion,219,https://musicbrainz.org/release/e8116dc3-1be0-422f-851b-04e1c93eac4a,titulo;duracion_seg,Grabación 44477fee-ff58-4025-bc74-434d7d4145c8.
+cancion,219,https://en.wikipedia.org/w/index.php?title=Vrooom&oldid=1371960023,compositores;letristas;productores,Créditos del álbum; sin género (sin artículo propio).
+cancion,220,https://musicbrainz.org/release/e8116dc3-1be0-422f-851b-04e1c93eac4a,titulo;duracion_seg,Grabación 6322cdda-1357-4f2d-abf9-7e3603b522a9.
+cancion,220,https://en.wikipedia.org/w/index.php?title=Vrooom&oldid=1371960023,compositores;letristas;productores,Créditos del álbum; sin género (sin artículo propio).
+cancion,221,https://musicbrainz.org/release/e8116dc3-1be0-422f-851b-04e1c93eac4a,titulo;duracion_seg,Grabación 41756645-0649-4ab3-9303-8c8cde85b7e8.
+cancion,221,https://en.wikipedia.org/w/index.php?title=Vrooom&oldid=1371960023,compositores;letristas;productores,Créditos del álbum; sin género (sin artículo propio).
+cancion,222,https://musicbrainz.org/release/e8116dc3-1be0-422f-851b-04e1c93eac4a,titulo;duracion_seg,Grabación b619e2b9-0b8c-473f-9a10-f28411304436.
+cancion,222,https://en.wikipedia.org/w/index.php?title=Vrooom&oldid=1371960023,compositores;letristas;productores,Créditos del álbum; sin género (sin artículo propio).
+cancion,223,https://musicbrainz.org/release/e8116dc3-1be0-422f-851b-04e1c93eac4a,titulo;duracion_seg,Grabación d44726dc-62b3-4ddd-b8fb-fff7e31923eb.
+cancion,223,https://en.wikipedia.org/w/index.php?title=Vrooom&oldid=1371960023,compositores;letristas;productores,Créditos del álbum; sin género (sin artículo propio).
+cancion,224,https://musicbrainz.org/release/e8116dc3-1be0-422f-851b-04e1c93eac4a,titulo;duracion_seg,Grabación 7a0b3a17-2aae-4f8b-8f7f-774824535f72.
+cancion,224,https://en.wikipedia.org/w/index.php?title=Vrooom&oldid=1371960023,compositores;letristas;productores,Créditos del álbum; sin género (sin artículo propio).

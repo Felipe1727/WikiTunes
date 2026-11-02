@@ -371,7 +371,7 @@ New wave
     - No se incluyen otros proyectos de Fripp ni de los demás integrantes.
   - Depende de: `datos-beatles`
 
-- [ ] `arte-artistas` — Arte ASCII para cada artista de la demo.
+- [x] `arte-artistas` — Arte ASCII para cada artista de la demo.
   - Aceptación:
     - Cada artista tiene su `datos/arte/<nombre>.txt` y su fila en `datos/arte_artista.csv` con un
       `estilo` acorde.

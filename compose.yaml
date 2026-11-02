@@ -1,0 +1,29 @@
+# Base de datos local de WikiTunes (MySQL 8.4).
+# Los scripts de inicialización solo se ejecutan con el volumen vacío:
+# usa `docker compose down -v` para reinicializar.
+services:
+  bd:
+    image: mysql:8.4
+    environment:
+      MYSQL_ROOT_PASSWORD: ${WIKITUNES_BD_CLAVE_ROOT:-raiz_wikitunes}
+      WIKITUNES_BD_NOMBRE: ${WIKITUNES_BD_NOMBRE:-musica}
+      WIKITUNES_BD_USUARIO: ${WIKITUNES_BD_USUARIO:-wikitunes}
+      WIKITUNES_BD_CLAVE: ${WIKITUNES_BD_CLAVE:-wikitunes}
+    ports:
+      - "${WIKITUNES_BD_PUERTO:-3306}:3306"
+    volumes:
+      - datos_mysql:/var/lib/mysql
+      # `:z` es necesario en hosts con SELinux en modo Enforcing.
+      - ./Diagrama/musica_schema_mysql.sql:/docker-entrypoint-initdb.d/01_esquema.sql:ro,z
+      - ./procedimientos_almacenados/musica_procedimientos_mysql.sql:/docker-entrypoint-initdb.d/02_procedimientos.sql:ro,z
+      - ./bd/inicializacion/03_usuario_lectura.sh:/docker-entrypoint-initdb.d/03_usuario_lectura.sh:ro,z
+    healthcheck:
+      # Por TCP: durante la inicialización el servidor temporal no escucha en red.
+      test: ["CMD", "mysqladmin", "ping", "-h", "127.0.0.1", "--silent"]
+      interval: 3s
+      timeout: 5s
+      retries: 60
+      start_period: 10s
+
+volumes:
+  datos_mysql:

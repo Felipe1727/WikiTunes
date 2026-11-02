@@ -360,7 +360,7 @@ New wave
     - `sp_subgeneros('Rock')` recorre al menos tres niveles.
   - Depende de: `cargador-datos`
 
-- [ ] `datos-king-crimson` — Todas las formaciones de King Crimson y sus álbumes aprobados.
+- [x] `datos-king-crimson` — Todas las formaciones de King Crimson y sus álbumes aprobados.
   - Aceptación:
     - Están todas las membresías de King Crimson, con fechas de entrada y salida y su fuente.
     - Están *In the Court of the Crimson King*, *Red*, *Discipline* y *VROOOM* con su tracklist

@@ -1,0 +1,333 @@
+{
+  "text-representation": {
+    "script": "Latn",
+    "language": "eng"
+  },
+  "label-info": [
+    {
+      "label": {
+        "type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+        "label-code": 407,
+        "disambiguation": "imprint of Island Records, a division of Universal Music Group",
+        "name": "Island",
+        "id": "dfd92cd3-4888-46d2-b968-328b1feb2642",
+        "sort-name": "Island",
+        "type": "Imprint"
+      },
+      "catalog-number": "ILPS 9111"
+    }
+  ],
+  "status": "Official",
+  "id": "3b727dc0-49a5-4bd1-8ff3-d070995e0662",
+  "date": "1969-10-10",
+  "release-events": [
+    {
+      "area": {
+        "name": "United Kingdom",
+        "disambiguation": "",
+        "type-id": null,
+        "iso-3166-1-codes": [
+          "GB"
+        ],
+        "sort-name": "United Kingdom",
+        "type": null,
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+      },
+      "date": "1969-10-10"
+    }
+  ],
+  "asin": null,
+  "barcode": "",
+  "release-group": {
+    "primary-type": "Album",
+    "artist-credit": [
+      {
+        "name": "King Crimson",
+        "joinphrase": "",
+        "artist": {
+          "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+          "disambiguation": "",
+          "country": "GB",
+          "name": "King Crimson",
+          "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+          "type": "Group",
+          "sort-name": "King Crimson"
+        }
+      }
+    ],
+    "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+    "disambiguation": "",
+    "secondary-types": [],
+    "first-release-date": "1969-10-10",
+    "secondary-type-ids": [],
+    "title": "In the Court of the Crimson King",
+    "id": "a50636b5-5233-3329-a7f3-dba3d0e00ef7"
+  },
+  "disambiguation": "",
+  "quality": "normal",
+  "country": "GB",
+  "title": "In the Court of the Crimson King",
+  "media": [
+    {
+      "position": 1,
+      "track-count": 5,
+      "format": "12\" Vinyl",
+      "title": "",
+      "tracks": [
+        {
+          "length": 444106,
+          "id": "30df85c5-0fe9-3eeb-bcd4-48ae5f2ff26f",
+          "number": "A1",
+          "title": "21st Century Schizoid Man (including Mirrors)",
+          "position": 1,
+          "recording": {
+            "length": 444106,
+            "id": "7dd3f76d-504d-4621-8f64-9cbf6a3fd1e2",
+            "title": "21st Century Schizoid Man (including Mirrors)",
+            "video": false,
+            "first-release-date": "1969-10-10",
+            "disambiguation": "mono",
+            "artist-credit": [
+              {
+                "artist": {
+                  "country": "GB",
+                  "name": "King Crimson",
+                  "disambiguation": "",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "type": "Group",
+                  "sort-name": "King Crimson",
+                  "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3"
+                },
+                "joinphrase": "",
+                "name": "King Crimson"
+              }
+            ]
+          },
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "King Crimson",
+              "artist": {
+                "disambiguation": "",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "country": "GB",
+                "name": "King Crimson",
+                "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                "type": "Group",
+                "sort-name": "King Crimson"
+              }
+            }
+          ]
+        },
+        {
+          "recording": {
+            "first-release-date": "1969-10-10",
+            "title": "I Talk to the Wind",
+            "video": false,
+            "length": 365173,
+            "id": "bba03961-9793-4fdc-aa14-2adba0c306d5",
+            "artist-credit": [
+              {
+                "artist": {
+                  "sort-name": "King Crimson",
+                  "type": "Group",
+                  "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                  "name": "King Crimson",
+                  "country": "GB",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "disambiguation": ""
+                },
+                "name": "King Crimson",
+                "joinphrase": ""
+              }
+            ],
+            "disambiguation": "2009 stereo mix"
+          },
+          "artist-credit": [
+            {
+              "name": "King Crimson",
+              "joinphrase": "",
+              "artist": {
+                "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                "sort-name": "King Crimson",
+                "type": "Group",
+                "disambiguation": "",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "name": "King Crimson",
+                "country": "GB"
+              }
+            }
+          ],
+          "position": 2,
+          "title": "I Talk to the Wind",
+          "length": 365173,
+          "id": "e117854b-adf3-3521-9750-55d2d4ffafaf",
+          "number": "A2"
+        },
+        {
+          "position": 3,
+          "title": "Epitaph (including March for No Reason and Tomorrow and Tomorrow)",
+          "number": "A3",
+          "id": "3bc5e36d-add5-3473-bec6-df6e547b743a",
+          "length": 527600,
+          "artist-credit": [
+            {
+              "artist": {
+                "type": "Group",
+                "sort-name": "King Crimson",
+                "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                "country": "GB",
+                "name": "King Crimson",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "disambiguation": ""
+              },
+              "joinphrase": "",
+              "name": "King Crimson"
+            }
+          ],
+          "recording": {
+            "first-release-date": "1969-10-10",
+            "video": false,
+            "title": "Epitaph (including March for No Reason and Tomorrow and Tomorrow)",
+            "id": "8987f84a-9cb8-4366-8e62-f5c61685b4d1",
+            "length": 527600,
+            "artist-credit": [
+              {
+                "name": "King Crimson",
+                "joinphrase": "",
+                "artist": {
+                  "country": "GB",
+                  "name": "King Crimson",
+                  "disambiguation": "",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "type": "Group",
+                  "sort-name": "King Crimson",
+                  "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3"
+                }
+              }
+            ],
+            "disambiguation": ""
+          }
+        },
+        {
+          "artist-credit": [
+            {
+              "artist": {
+                "type": "Group",
+                "sort-name": "King Crimson",
+                "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                "country": "GB",
+                "name": "King Crimson",
+                "disambiguation": "",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+              },
+              "joinphrase": "",
+              "name": "King Crimson"
+            }
+          ],
+          "recording": {
+            "first-release-date": "1969-10-10",
+            "length": 732773,
+            "id": "52d5d674-5c40-47ed-83d2-a70034a3c29b",
+            "title": "Moonchild (including The Dream and The Illusion)",
+            "video": false,
+            "artist-credit": [
+              {
+                "name": "King Crimson",
+                "joinphrase": "",
+                "artist": {
+                  "name": "King Crimson",
+                  "country": "GB",
+                  "disambiguation": "",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "sort-name": "King Crimson",
+                  "type": "Group",
+                  "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3"
+                }
+              }
+            ],
+            "disambiguation": ""
+          },
+          "title": "Moonchild (including The Dream and The Illusion)",
+          "number": "B1",
+          "id": "c3d04ccf-1fdf-3da4-8052-a887f1462c23",
+          "length": 732773,
+          "position": 4
+        },
+        {
+          "position": 5,
+          "number": "B2",
+          "id": "943cb956-7190-32f1-bc83-1c688a89917b",
+          "length": 562560,
+          "title": "The Court of the Crimson King (including The Return of the Fire Witch and The Dance of the Puppets)",
+          "artist-credit": [
+            {
+              "name": "King Crimson",
+              "joinphrase": "",
+              "artist": {
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "disambiguation": "",
+                "name": "King Crimson",
+                "country": "GB",
+                "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                "sort-name": "King Crimson",
+                "type": "Group"
+              }
+            }
+          ],
+          "recording": {
+            "title": "The Court of the Crimson King (including The Return of the Fire Witch and The Dance of the Puppets)",
+            "video": false,
+            "id": "ebf1a9cc-bdc8-47b3-866e-4603316e6cfa",
+            "length": 562560,
+            "first-release-date": "1969-10-10",
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "artist": {
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "disambiguation": "",
+                  "name": "King Crimson",
+                  "country": "GB",
+                  "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                  "sort-name": "King Crimson",
+                  "type": "Group"
+                },
+                "name": "King Crimson",
+                "joinphrase": ""
+              }
+            ]
+          }
+        }
+      ],
+      "id": "576e7c2c-e08d-3f5d-9150-0fba7ee472c3",
+      "track-offset": 0,
+      "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64"
+    }
+  ],
+  "cover-art-archive": {
+    "darkened": false,
+    "count": 5,
+    "artwork": true,
+    "back": true,
+    "front": true
+  },
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "packaging-id": null,
+  "artist-credit": [
+    {
+      "artist": {
+        "name": "King Crimson",
+        "country": "GB",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "disambiguation": "",
+        "sort-name": "King Crimson",
+        "type": "Group",
+        "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3"
+      },
+      "name": "King Crimson",
+      "joinphrase": ""
+    }
+  ],
+  "packaging": null
+}

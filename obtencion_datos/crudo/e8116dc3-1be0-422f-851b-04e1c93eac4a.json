@@ -1,0 +1,423 @@
+{
+  "label-info": [
+    {
+      "label": {
+        "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+        "id": "4d1ac213-d9a2-4377-ab43-9d832281f3a9",
+        "label-code": 614,
+        "type": "Original Production",
+        "sort-name": "Discipline Global Mobile",
+        "disambiguation": "",
+        "name": "Discipline Global Mobile"
+      },
+      "catalog-number": "DGM 0004"
+    }
+  ],
+  "country": "GB",
+  "disambiguation": "",
+  "packaging": "Jewel Case",
+  "status": "Official",
+  "id": "e8116dc3-1be0-422f-851b-04e1c93eac4a",
+  "media": [
+    {
+      "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+      "format": "CD",
+      "tracks": [
+        {
+          "title": "[untitled]",
+          "number": "1",
+          "position": 1,
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "name": "King Crimson",
+                "country": "GB",
+                "disambiguation": "",
+                "sort-name": "King Crimson",
+                "type": "Group",
+                "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+              },
+              "name": "King Crimson"
+            }
+          ],
+          "length": 18626,
+          "id": "3e63de84-c8c3-3812-aead-299f2b92a833",
+          "recording": {
+            "length": 17760,
+            "id": "5b0f0459-d6dc-42ae-a63b-663be8cb28f7",
+            "artist-credit": [
+              {
+                "name": "King Crimson",
+                "joinphrase": "",
+                "artist": {
+                  "name": "King Crimson",
+                  "country": "GB",
+                  "disambiguation": "",
+                  "type": "Group",
+                  "sort-name": "King Crimson",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3"
+                }
+              }
+            ],
+            "first-release-date": "1994-11-08",
+            "disambiguation": "",
+            "title": "[untitled]",
+            "video": false
+          }
+        },
+        {
+          "id": "de725eac-d46d-30c8-ae69-6e648335822d",
+          "artist-credit": [
+            {
+              "name": "King Crimson",
+              "joinphrase": "",
+              "artist": {
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                "name": "King Crimson",
+                "disambiguation": "",
+                "country": "GB",
+                "type": "Group",
+                "sort-name": "King Crimson"
+              }
+            }
+          ],
+          "length": 436466,
+          "recording": {
+            "first-release-date": "1994-10-21",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "artist": {
+                  "name": "King Crimson",
+                  "disambiguation": "",
+                  "country": "GB",
+                  "sort-name": "King Crimson",
+                  "type": "Group",
+                  "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+                },
+                "name": "King Crimson"
+              }
+            ],
+            "id": "44477fee-ff58-4025-bc74-434d7d4145c8",
+            "length": 436666,
+            "video": false,
+            "title": "VROOOM",
+            "disambiguation": ""
+          },
+          "number": "2",
+          "position": 2,
+          "title": "VROOOM"
+        },
+        {
+          "position": 3,
+          "number": "3",
+          "artist-credit": [
+            {
+              "name": "King Crimson",
+              "joinphrase": "",
+              "artist": {
+                "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "country": "GB",
+                "disambiguation": "",
+                "sort-name": "King Crimson",
+                "type": "Group",
+                "name": "King Crimson"
+              }
+            }
+          ],
+          "length": 282133,
+          "id": "ccf22111-16d6-33b1-8f93-817aade82d4e",
+          "recording": {
+            "video": false,
+            "title": "Sex Sleep Eat Drink Dream",
+            "disambiguation": "",
+            "first-release-date": "1994-10-21",
+            "artist-credit": [
+              {
+                "name": "King Crimson",
+                "artist": {
+                  "name": "King Crimson",
+                  "type": "Group",
+                  "sort-name": "King Crimson",
+                  "disambiguation": "",
+                  "country": "GB",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3"
+                },
+                "joinphrase": ""
+              }
+            ],
+            "id": "6322cdda-1357-4f2d-abf9-7e3603b522a9",
+            "length": 282040
+          },
+          "title": "Sex Sleep Eat Drink Dream"
+        },
+        {
+          "recording": {
+            "disambiguation": "",
+            "video": false,
+            "title": "Cage",
+            "length": 95933,
+            "id": "41756645-0649-4ab3-9303-8c8cde85b7e8",
+            "artist-credit": [
+              {
+                "artist": {
+                  "type": "Group",
+                  "sort-name": "King Crimson",
+                  "disambiguation": "",
+                  "country": "GB",
+                  "name": "King Crimson",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3"
+                },
+                "joinphrase": "",
+                "name": "King Crimson"
+              }
+            ],
+            "first-release-date": "1994-10-21"
+          },
+          "artist-credit": [
+            {
+              "name": "King Crimson",
+              "joinphrase": "",
+              "artist": {
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                "country": "GB",
+                "disambiguation": "",
+                "type": "Group",
+                "sort-name": "King Crimson",
+                "name": "King Crimson"
+              }
+            }
+          ],
+          "length": 94773,
+          "id": "11ffb099-f55d-3eca-b3a3-f50678db8b33",
+          "number": "4",
+          "position": 4,
+          "title": "Cage"
+        },
+        {
+          "number": "5",
+          "position": 5,
+          "recording": {
+            "title": "Thrak",
+            "video": false,
+            "disambiguation": "",
+            "first-release-date": "1994-10-21",
+            "artist-credit": [
+              {
+                "name": "King Crimson",
+                "artist": {
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                  "disambiguation": "",
+                  "country": "GB",
+                  "type": "Group",
+                  "sort-name": "King Crimson",
+                  "name": "King Crimson"
+                },
+                "joinphrase": ""
+              }
+            ],
+            "id": "b619e2b9-0b8c-473f-9a10-f28411304436",
+            "length": 438933
+          },
+          "id": "c3ba3bce-3600-3aa4-9f3e-5e680ea7383f",
+          "artist-credit": [
+            {
+              "name": "King Crimson",
+              "joinphrase": "",
+              "artist": {
+                "name": "King Crimson",
+                "sort-name": "King Crimson",
+                "type": "Group",
+                "disambiguation": "",
+                "country": "GB",
+                "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+              }
+            }
+          ],
+          "length": 439226,
+          "title": "Thrak"
+        },
+        {
+          "recording": {
+            "disambiguation": "",
+            "title": "When I Say Stop, Continue",
+            "video": false,
+            "id": "d44726dc-62b3-4ddd-b8fb-fff7e31923eb",
+            "artist-credit": [
+              {
+                "name": "King Crimson",
+                "joinphrase": "",
+                "artist": {
+                  "name": "King Crimson",
+                  "disambiguation": "",
+                  "country": "GB",
+                  "type": "Group",
+                  "sort-name": "King Crimson",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3"
+                }
+              }
+            ],
+            "length": 320386,
+            "first-release-date": "1994-10-21"
+          },
+          "artist-credit": [
+            {
+              "name": "King Crimson",
+              "joinphrase": "",
+              "artist": {
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                "name": "King Crimson",
+                "type": "Group",
+                "sort-name": "King Crimson",
+                "disambiguation": "",
+                "country": "GB"
+              }
+            }
+          ],
+          "id": "a28338b3-12ce-351d-8df1-36242f48723d",
+          "length": 321333,
+          "position": 6,
+          "number": "6",
+          "title": "When I Say Stop, Continue"
+        },
+        {
+          "number": "7",
+          "position": 7,
+          "length": 268440,
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                "name": "King Crimson",
+                "country": "GB",
+                "disambiguation": "",
+                "type": "Group",
+                "sort-name": "King Crimson"
+              },
+              "name": "King Crimson"
+            }
+          ],
+          "id": "5b08bfe0-e7d3-3174-b0ac-2bac43f28f1a",
+          "recording": {
+            "id": "7a0b3a17-2aae-4f8b-8f7f-774824535f72",
+            "length": 267240,
+            "artist-credit": [
+              {
+                "name": "King Crimson",
+                "joinphrase": "",
+                "artist": {
+                  "disambiguation": "",
+                  "country": "GB",
+                  "sort-name": "King Crimson",
+                  "type": "Group",
+                  "name": "King Crimson",
+                  "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+                }
+              }
+            ],
+            "first-release-date": "1994-10-21",
+            "disambiguation": "",
+            "title": "One Time",
+            "video": false
+          },
+          "title": "One Time"
+        }
+      ],
+      "title": "",
+      "id": "59434641-37a5-3098-9bed-6ed9a86b49af",
+      "track-offset": 0,
+      "track-count": 7,
+      "position": 1
+    }
+  ],
+  "release-events": [
+    {
+      "area": {
+        "name": "United Kingdom",
+        "type": null,
+        "sort-name": "United Kingdom",
+        "disambiguation": "",
+        "type-id": null,
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "iso-3166-1-codes": [
+          "GB"
+        ]
+      },
+      "date": "1994-11-08"
+    }
+  ],
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+  "release-group": {
+    "artist-credit": [
+      {
+        "name": "King Crimson",
+        "artist": {
+          "name": "King Crimson",
+          "sort-name": "King Crimson",
+          "type": "Group",
+          "country": "GB",
+          "disambiguation": "",
+          "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+          "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+        },
+        "joinphrase": ""
+      }
+    ],
+    "id": "105c0572-9e78-341b-bf5c-28d3380b9268",
+    "first-release-date": "1994-10-21",
+    "secondary-type-ids": [],
+    "secondary-types": [],
+    "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+    "primary-type": "EP",
+    "disambiguation": "",
+    "title": "VROOOM"
+  },
+  "cover-art-archive": {
+    "count": 6,
+    "back": true,
+    "front": true,
+    "darkened": false,
+    "artwork": true
+  },
+  "text-representation": {
+    "language": "eng",
+    "script": "Latn"
+  },
+  "date": "1994-11-08",
+  "asin": "B000005OO6",
+  "title": "VROOOM",
+  "artist-credit": [
+    {
+      "joinphrase": "",
+      "artist": {
+        "disambiguation": "",
+        "country": "GB",
+        "type": "Group",
+        "sort-name": "King Crimson",
+        "name": "King Crimson",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3"
+      },
+      "name": "King Crimson"
+    }
+  ],
+  "quality": "normal",
+  "barcode": "5028676900016"
+}

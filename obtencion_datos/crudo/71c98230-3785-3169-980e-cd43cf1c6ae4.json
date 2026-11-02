@@ -1,0 +1,423 @@
+{
+  "id": "71c98230-3785-3169-980e-cd43cf1c6ae4",
+  "media": [
+    {
+      "track-count": 7,
+      "position": 1,
+      "id": "52a5af14-1e34-32d3-bff3-3214d96300fd",
+      "track-offset": 0,
+      "format": "12\" Vinyl",
+      "title": "",
+      "tracks": [
+        {
+          "recording": {
+            "disambiguation": "",
+            "title": "Elephant Talk",
+            "video": false,
+            "id": "96fd4363-749e-4a7b-9142-e8bfe0a2c24c",
+            "artist-credit": [
+              {
+                "artist": {
+                  "sort-name": "King Crimson",
+                  "type": "Group",
+                  "disambiguation": "",
+                  "country": "GB",
+                  "name": "King Crimson",
+                  "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+                },
+                "joinphrase": "",
+                "name": "King Crimson"
+              }
+            ],
+            "length": 283200,
+            "first-release-date": "1981-09-22"
+          },
+          "length": 282000,
+          "artist-credit": [
+            {
+              "name": "King Crimson",
+              "artist": {
+                "name": "King Crimson",
+                "disambiguation": "",
+                "country": "GB",
+                "sort-name": "King Crimson",
+                "type": "Group",
+                "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+              },
+              "joinphrase": ""
+            }
+          ],
+          "id": "af7ef138-84da-3268-9935-d3874f3685e8",
+          "position": 1,
+          "number": "A1",
+          "title": "Elephant Talk"
+        },
+        {
+          "number": "A2",
+          "position": 2,
+          "recording": {
+            "first-release-date": "1981-09-22",
+            "artist-credit": [
+              {
+                "artist": {
+                  "name": "King Crimson",
+                  "country": "GB",
+                  "disambiguation": "",
+                  "sort-name": "King Crimson",
+                  "type": "Group",
+                  "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+                },
+                "joinphrase": "",
+                "name": "King Crimson"
+              }
+            ],
+            "id": "bdf97518-4b1b-42ac-9d06-77abb4f9588b",
+            "length": 309906,
+            "video": false,
+            "title": "Frame by Frame",
+            "disambiguation": ""
+          },
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "name": "King Crimson",
+                "disambiguation": "",
+                "country": "GB",
+                "sort-name": "King Crimson",
+                "type": "Group"
+              },
+              "name": "King Crimson"
+            }
+          ],
+          "length": 308000,
+          "id": "2464c8be-cbd9-33ad-b46d-7445dfab6a34",
+          "title": "Frame by Frame"
+        },
+        {
+          "artist-credit": [
+            {
+              "name": "King Crimson",
+              "joinphrase": "",
+              "artist": {
+                "type": "Group",
+                "sort-name": "King Crimson",
+                "country": "GB",
+                "disambiguation": "",
+                "name": "King Crimson",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3"
+              }
+            }
+          ],
+          "id": "7c85e5df-2976-3100-b11d-39dd7a1117b5",
+          "length": 225000,
+          "recording": {
+            "title": "Matte Kudasai",
+            "video": false,
+            "disambiguation": "",
+            "first-release-date": "1981-09-22",
+            "length": 227293,
+            "id": "5e65bce6-9c1d-4200-a56a-c250da45952b",
+            "artist-credit": [
+              {
+                "artist": {
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                  "type": "Group",
+                  "sort-name": "King Crimson",
+                  "disambiguation": "",
+                  "country": "GB",
+                  "name": "King Crimson"
+                },
+                "joinphrase": "",
+                "name": "King Crimson"
+              }
+            ]
+          },
+          "position": 3,
+          "number": "A3",
+          "title": "Matte Kudasai"
+        },
+        {
+          "id": "f41fc94b-960a-3623-908f-e090acadb705",
+          "artist-credit": [
+            {
+              "name": "King Crimson",
+              "joinphrase": "",
+              "artist": {
+                "country": "GB",
+                "disambiguation": "",
+                "sort-name": "King Crimson",
+                "type": "Group",
+                "name": "King Crimson",
+                "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+              }
+            }
+          ],
+          "length": 271000,
+          "recording": {
+            "disambiguation": "",
+            "video": false,
+            "title": "Indiscipline",
+            "id": "35c3eac7-9a79-4f5f-9b51-a9301af7cee6",
+            "length": 273533,
+            "artist-credit": [
+              {
+                "artist": {
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                  "name": "King Crimson",
+                  "type": "Group",
+                  "sort-name": "King Crimson",
+                  "disambiguation": "",
+                  "country": "GB"
+                },
+                "joinphrase": "",
+                "name": "King Crimson"
+              }
+            ],
+            "first-release-date": "1981-09-22"
+          },
+          "number": "A4",
+          "position": 4,
+          "title": "Indiscipline"
+        },
+        {
+          "title": "Thela Hun Ginjeet",
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "name": "King Crimson",
+                "type": "Group",
+                "sort-name": "King Crimson",
+                "disambiguation": "",
+                "country": "GB",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3"
+              },
+              "name": "King Crimson"
+            }
+          ],
+          "length": 385000,
+          "id": "28bd0697-4e69-32f8-b1a1-2d14c4c9cc84",
+          "recording": {
+            "title": "Thela Hun Ginjeet",
+            "video": false,
+            "disambiguation": "",
+            "first-release-date": "1981-09-22",
+            "artist-credit": [
+              {
+                "name": "King Crimson",
+                "joinphrase": "",
+                "artist": {
+                  "disambiguation": "",
+                  "country": "GB",
+                  "type": "Group",
+                  "sort-name": "King Crimson",
+                  "name": "King Crimson",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3"
+                }
+              }
+            ],
+            "id": "b8488eec-28dd-4a84-baba-787e7adf7c6e",
+            "length": 386146
+          },
+          "position": 5,
+          "number": "B1"
+        },
+        {
+          "title": "The Sheltering Sky",
+          "length": 502000,
+          "artist-credit": [
+            {
+              "name": "King Crimson",
+              "artist": {
+                "disambiguation": "",
+                "country": "GB",
+                "type": "Group",
+                "sort-name": "King Crimson",
+                "name": "King Crimson",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3"
+              },
+              "joinphrase": ""
+            }
+          ],
+          "id": "6b471b93-4162-3a73-8510-83011e28c2b3",
+          "recording": {
+            "id": "e3f0fbb1-a66a-43df-b104-e5ea1e9d9cb5",
+            "artist-credit": [
+              {
+                "name": "King Crimson",
+                "joinphrase": "",
+                "artist": {
+                  "name": "King Crimson",
+                  "country": "GB",
+                  "disambiguation": "",
+                  "type": "Group",
+                  "sort-name": "King Crimson",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3"
+                }
+              }
+            ],
+            "length": 502666,
+            "first-release-date": "1981-09-22",
+            "disambiguation": "",
+            "title": "The Sheltering Sky",
+            "video": false
+          },
+          "number": "B2",
+          "position": 6
+        },
+        {
+          "title": "Discipline",
+          "number": "B3",
+          "position": 7,
+          "length": 302000,
+          "artist-credit": [
+            {
+              "name": "King Crimson",
+              "joinphrase": "",
+              "artist": {
+                "disambiguation": "",
+                "country": "GB",
+                "type": "Group",
+                "sort-name": "King Crimson",
+                "name": "King Crimson",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3"
+              }
+            }
+          ],
+          "id": "5c798e7c-26e2-347d-903c-64d16e268cb9",
+          "recording": {
+            "disambiguation": "",
+            "title": "Discipline",
+            "video": false,
+            "id": "a7ce5e32-ca2b-4257-b7a7-0ae8344e4ea9",
+            "artist-credit": [
+              {
+                "artist": {
+                  "name": "King Crimson",
+                  "type": "Group",
+                  "sort-name": "King Crimson",
+                  "disambiguation": "",
+                  "country": "GB",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3"
+                },
+                "joinphrase": "",
+                "name": "King Crimson"
+              }
+            ],
+            "length": 306773,
+            "first-release-date": "1981-09-22"
+          }
+        }
+      ],
+      "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64"
+    }
+  ],
+  "packaging": null,
+  "status": "Official",
+  "label-info": [
+    {
+      "label": {
+        "type": "Original Production",
+        "sort-name": "E’G",
+        "disambiguation": "British label",
+        "name": "E’G",
+        "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+        "id": "71ee312d-4081-4699-a332-ba837a54d200",
+        "label-code": 6907
+      },
+      "catalog-number": "EGLP 49"
+    }
+  ],
+  "country": "GB",
+  "disambiguation": "",
+  "quality": "normal",
+  "artist-credit": [
+    {
+      "name": "King Crimson",
+      "artist": {
+        "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "name": "King Crimson",
+        "sort-name": "King Crimson",
+        "type": "Group",
+        "country": "GB",
+        "disambiguation": ""
+      },
+      "joinphrase": ""
+    }
+  ],
+  "barcode": "",
+  "asin": null,
+  "date": "1981-09-22",
+  "title": "Discipline",
+  "packaging-id": null,
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "release-events": [
+    {
+      "date": "1981-09-22",
+      "area": {
+        "disambiguation": "",
+        "sort-name": "United Kingdom",
+        "type": null,
+        "name": "United Kingdom",
+        "iso-3166-1-codes": [
+          "GB"
+        ],
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type-id": null
+      }
+    }
+  ],
+  "text-representation": {
+    "script": "Latn",
+    "language": "eng"
+  },
+  "release-group": {
+    "title": "Discipline",
+    "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+    "primary-type": "Album",
+    "disambiguation": "",
+    "first-release-date": "1981-09-22",
+    "secondary-types": [],
+    "secondary-type-ids": [],
+    "id": "d498c31d-3b72-3748-a142-df0bf774a920",
+    "artist-credit": [
+      {
+        "artist": {
+          "sort-name": "King Crimson",
+          "type": "Group",
+          "disambiguation": "",
+          "country": "GB",
+          "name": "King Crimson",
+          "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+          "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+        },
+        "joinphrase": "",
+        "name": "King Crimson"
+      }
+    ]
+  },
+  "cover-art-archive": {
+    "artwork": true,
+    "darkened": false,
+    "front": true,
+    "back": false,
+    "count": 1
+  }
+}

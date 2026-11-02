@@ -394,7 +394,7 @@ New wave
     - Las pruebas de integración usan los datos de la demo.
   - Depende de: `arte-artistas`
 
-- [ ] `cli-arranque` — Comando `wikitunes`, animación del conejito y menú principal.
+- [x] `cli-arranque` — Comando `wikitunes`, animación del conejito y menú principal.
   - Aceptación:
     - `uv run wikitunes` muestra la animación del conejito con audífonos (2 a 3 segundos,
       saltable con una tecla) y termina en "¿Qué quieres consultar?".

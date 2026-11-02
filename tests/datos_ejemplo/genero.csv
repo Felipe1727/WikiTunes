@@ -1,0 +1,4 @@
+genero_id,nombre,genero_padre_id
+9001,Género raíz (ficticio),
+9002,Subgénero (ficticio),9001
+9003,Sub-subgénero (ficticio),9002

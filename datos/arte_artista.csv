@@ -1,0 +1,11 @@
+artista_id,archivo,estilo
+1,the_beatles.txt,bold white
+2,john_lennon.txt,bold bright_white
+3,paul_mccartney.txt,bold cyan
+4,george_harrison.txt,bold magenta
+5,ringo_starr.txt,bold yellow
+6,plastic_ono_band.txt,bold white
+7,wings.txt,bold bright_blue
+8,traveling_wilburys.txt,bold yellow
+9,billy_preston.txt,bold bright_magenta
+101,king_crimson.txt,bold red

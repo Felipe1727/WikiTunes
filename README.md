@@ -38,6 +38,19 @@ En el menú «¿Qué quieres consultar?» están las consultas:
 | Integrantes de un artista en una fecha | Quiénes eran integrantes ese día (`AAAA-MM-DD`) | Arte ASCII del artista |
 | Historial de integrantes | Todos los periodos de membresía | Arte ASCII del artista |
 
+Además hay tres fichas:
+
+| Ficha | Qué muestra |
+|---|---|
+| Artista | Arte ASCII, tipo, años, origen, géneros, discografía e historial de integrantes |
+| Persona | Nombre legal, nacimiento, fallecimiento y artistas de los que fue integrante |
+| Canción | Intérpretes, duración, géneros, créditos (compositores, productores...) y álbumes donde aparece |
+
+Después de cada resultado, el menú **«¿Y ahora?»** permite seguir navegando: de una canción a su
+álbum, de un integrante a sus otras bandas, de un género a sus artistas, del tracklist a una canción
+y de ahí a otro álbum donde aparece. «Volver» regresa a la pantalla anterior, y la línea gris
+`Menú › Paul McCartney › Wings` muestra el camino recorrido.
+
 Para elegir personas, artistas, álbumes o géneros no hace falta escribir ids: se escribe parte del
 nombre y el autocompletado sugiere opciones (sin importar mayúsculas, tildes ni comillas tipográficas).
 `Tab` muestra las sugerencias.

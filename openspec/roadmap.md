@@ -426,7 +426,7 @@ New wave
       género → artista; tracklist → canción → otro álbum en el que aparece.
   - Depende de: `cli-consultas`
 
-- [ ] `documentacion` — README completo en español.
+- [x] `documentacion` — README completo en español.
   - Aceptación:
     - El README cubre requisitos, instalación (`uv sync`), levantar la base y cargar los datos,
       uso de `wikitunes` con ejemplos, arquitectura, el modelo de datos (enlace al diagrama ER),

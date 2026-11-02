@@ -28,6 +28,20 @@ uv run wikitunes --sin-animacion  # directo a la portada
 uv run wikitunes --version
 ```
 
+En el menú «¿Qué quieres consultar?» están las consultas:
+
+| Consulta | Qué muestra | Encabezado |
+|---|---|---|
+| Canciones de una persona | En qué canciones participó, por qué vía (banda, solista o crédito propio) y con qué rol | Nombre con pyfiglet |
+| Árbol de un género | El género y todos sus subgéneros | Nombre con pyfiglet |
+| Tracklist de un álbum | Pistas, intérpretes, duraciones y duración total | Título con pyfiglet |
+| Integrantes de un artista en una fecha | Quiénes eran integrantes ese día (`AAAA-MM-DD`) | Arte ASCII del artista |
+| Historial de integrantes | Todos los periodos de membresía | Arte ASCII del artista |
+
+Para elegir personas, artistas, álbumes o géneros no hace falta escribir ids: se escribe parte del
+nombre y el autocompletado sugiere opciones (sin importar mayúsculas, tildes ni comillas tipográficas).
+`Tab` muestra las sugerencias.
+
 La animación dura unos dos segundos y medio y se salta con cualquier tecla. No se muestra si la
 salida no es una terminal o si está definida la variable `NO_COLOR`. Para salir, elige «Salir» o
 pulsa `Ctrl+C`.

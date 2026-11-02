@@ -11,8 +11,9 @@ from rich.panel import Panel
 from wikitunes import __version__
 from wikitunes.catalogo import Catalogo
 from wikitunes.conexion import ErrorDeBaseDeDatos, ErrorDeConexion, conectar
-from wikitunes.ui import menu
+from wikitunes.ui import consultas, menu
 from wikitunes.ui.arranque import mostrar_portada, reproducir_animacion
+from wikitunes.ui.preguntas import Preguntas
 
 Accion = Callable[[Console, Catalogo], None]
 
@@ -38,13 +39,16 @@ def mostrar_error(consola: Console, mensaje: str) -> None:
     consola.print(Panel(mensaje, title="No se pudo completar", border_style="red", expand=False))
 
 
-def accion_pendiente(consola: Console, _catalogo: Catalogo) -> None:
-    consola.print("[italic]Esta consulta todavía no está disponible.[/italic]")
-
-
-def acciones() -> dict[str, Accion]:
+def acciones(preguntas: Preguntas | None = None) -> dict[str, Accion]:
     """Acción de cada opción del menú principal."""
-    return {opcion.clave: accion_pendiente for opcion in menu.OPCIONES_PRINCIPALES}
+    preguntas = preguntas or Preguntas()
+    return {
+        "canciones_persona": lambda c, cat: consultas.canciones_de_persona(c, cat, preguntas),
+        "arbol_generos": lambda c, cat: consultas.arbol_de_genero(c, cat, preguntas),
+        "tracklist": lambda c, cat: consultas.tracklist_de_album(c, cat, preguntas),
+        "integrantes_fecha": lambda c, cat: consultas.integrantes_en_fecha(c, cat, preguntas),
+        "historial": lambda c, cat: consultas.historial_de_integrantes(c, cat, preguntas),
+    }
 
 
 def bucle_principal(consola: Console, catalogo: Catalogo) -> int:

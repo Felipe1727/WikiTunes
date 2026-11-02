@@ -1,0 +1,10 @@
+artista_id,nombre,tipo,anio_formacion,anio_disolucion,ciudad_origen_id
+1,The Beatles,Banda,1960,1970,1
+2,John Lennon,Solista,,,
+3,Paul McCartney,Solista,,,
+4,George Harrison,Solista,,,
+5,Ringo Starr,Solista,,,
+6,Plastic Ono Band,Banda,1968,2015,11
+7,Wings,Banda,1971,1981,11
+8,Traveling Wilburys,Banda,1988,1991,17
+9,Billy Preston,Solista,,,

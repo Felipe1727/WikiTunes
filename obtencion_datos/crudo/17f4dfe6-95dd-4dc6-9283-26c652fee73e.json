@@ -1,0 +1,198 @@
+{
+  "packaging": null,
+  "disambiguation": "",
+  "cover-art-archive": {
+    "front": false,
+    "back": false,
+    "darkened": false,
+    "artwork": false,
+    "count": 0
+  },
+  "release-events": [
+    {
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "disambiguation": "",
+        "type": null,
+        "type-id": null,
+        "iso-3166-1-codes": [
+          "GB"
+        ],
+        "sort-name": "United Kingdom",
+        "name": "United Kingdom"
+      },
+      "date": "1971-01-15"
+    }
+  ],
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "asin": null,
+  "packaging-id": null,
+  "id": "17f4dfe6-95dd-4dc6-9283-26c652fee73e",
+  "date": "1971-01-15",
+  "title": "My Sweet Lord",
+  "country": "GB",
+  "barcode": "",
+  "media": [
+    {
+      "track-offset": 0,
+      "id": "acce6913-9b23-34b7-9b96-147f801b0788",
+      "title": "",
+      "format-id": "1d5a48e4-e94a-36dc-84e2-0c5f9f880aa7",
+      "position": 1,
+      "tracks": [
+        {
+          "artist-credit": [
+            {
+              "name": "George Harrison",
+              "artist": {
+                "sort-name": "Harrison, George",
+                "name": "George Harrison",
+                "country": "GB",
+                "id": "42a8f507-8412-4611-854f-926571049fa0",
+                "type": "Person",
+                "disambiguation": "The Beatles",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+              },
+              "joinphrase": ""
+            }
+          ],
+          "recording": {
+            "title": "My Sweet Lord",
+            "id": "7571a56b-994e-4829-ae8b-71abb84809be",
+            "disambiguation": "original studio mix",
+            "artist-credit": [
+              {
+                "artist": {
+                  "country": "GB",
+                  "id": "42a8f507-8412-4611-854f-926571049fa0",
+                  "disambiguation": "The Beatles",
+                  "type": "Person",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "name": "George Harrison",
+                  "sort-name": "Harrison, George"
+                },
+                "joinphrase": "",
+                "name": "George Harrison"
+              }
+            ],
+            "first-release-date": "1970-10-23",
+            "video": false,
+            "length": 279000
+          },
+          "number": "A",
+          "id": "06f7346b-223f-4c84-a3b2-032d37cad122",
+          "title": "My Sweet Lord",
+          "position": 1,
+          "length": 279000
+        },
+        {
+          "recording": {
+            "disambiguation": "original studio mix",
+            "title": "What Is Life",
+            "id": "fefb3869-aec7-490d-a0da-b42436a571ac",
+            "video": false,
+            "length": 264000,
+            "artist-credit": [
+              {
+                "name": "George Harrison",
+                "joinphrase": "",
+                "artist": {
+                  "country": "GB",
+                  "id": "42a8f507-8412-4611-854f-926571049fa0",
+                  "type": "Person",
+                  "disambiguation": "The Beatles",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "name": "George Harrison",
+                  "sort-name": "Harrison, George"
+                }
+              }
+            ],
+            "first-release-date": "1970-11-27"
+          },
+          "number": "2",
+          "artist-credit": [
+            {
+              "artist": {
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "disambiguation": "The Beatles",
+                "type": "Person",
+                "id": "42a8f507-8412-4611-854f-926571049fa0",
+                "country": "GB",
+                "sort-name": "Harrison, George",
+                "name": "George Harrison"
+              },
+              "joinphrase": "",
+              "name": "George Harrison"
+            }
+          ],
+          "length": 264000,
+          "position": 2,
+          "title": "What Is Life",
+          "id": "88ec5a06-12b0-4df1-bb2d-4aafe1552297"
+        }
+      ],
+      "track-count": 2,
+      "format": "7\" Vinyl"
+    }
+  ],
+  "release-group": {
+    "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+    "artist-credit": [
+      {
+        "name": "George Harrison",
+        "joinphrase": "",
+        "artist": {
+          "type": "Person",
+          "disambiguation": "The Beatles",
+          "id": "42a8f507-8412-4611-854f-926571049fa0",
+          "country": "GB",
+          "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+          "name": "George Harrison",
+          "sort-name": "Harrison, George"
+        }
+      }
+    ],
+    "first-release-date": "1970-10-23",
+    "secondary-types": [],
+    "secondary-type-ids": [],
+    "title": "My Sweet Lord",
+    "id": "e5a2bdb8-f42f-351f-afb7-d24ab35967e8",
+    "primary-type": "Single",
+    "disambiguation": ""
+  },
+  "text-representation": {
+    "script": "Latn",
+    "language": "eng"
+  },
+  "quality": "normal",
+  "label-info": [
+    {
+      "catalog-number": "R 5884",
+      "label": {
+        "name": "Apple Records",
+        "sort-name": "Apple Records",
+        "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+        "label-code": 1074,
+        "id": "cf7fc5cf-e011-4ef4-b511-cd0188537910",
+        "disambiguation": "",
+        "type": "Original Production"
+      }
+    }
+  ],
+  "artist-credit": [
+    {
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "id": "42a8f507-8412-4611-854f-926571049fa0",
+        "type": "Person",
+        "disambiguation": "The Beatles",
+        "sort-name": "Harrison, George",
+        "name": "George Harrison"
+      },
+      "joinphrase": "",
+      "name": "George Harrison"
+    }
+  ],
+  "status": "Official"
+}

@@ -1,0 +1,198 @@
+{
+  "packaging-id": null,
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "packaging": null,
+  "artist-credit": [
+    {
+      "name": "The Plastic Ono Band",
+      "joinphrase": "",
+      "artist": {
+        "type": "Group",
+        "sort-name": "Plastic Ono Band",
+        "id": "84f81b32-8b3a-4914-9cff-017a52f9d16b",
+        "country": "GB",
+        "name": "Plastic Ono Band",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "disambiguation": ""
+      }
+    }
+  ],
+  "cover-art-archive": {
+    "count": 1,
+    "darkened": false,
+    "artwork": true,
+    "back": false,
+    "front": true
+  },
+  "title": "Give Peace a Chance / Remember Love",
+  "media": [
+    {
+      "track-offset": 0,
+      "format-id": "1d5a48e4-e94a-36dc-84e2-0c5f9f880aa7",
+      "title": "",
+      "tracks": [
+        {
+          "position": 1,
+          "length": 290000,
+          "number": "A",
+          "id": "2579ff29-959f-3b7c-9797-88e64c382e26",
+          "title": "Give Peace a Chance",
+          "recording": {
+            "first-release-date": "1969-07-04",
+            "video": false,
+            "title": "Give Peace a Chance",
+            "length": 292973,
+            "id": "1c778162-b7ae-4ec9-b430-012462a60660",
+            "artist-credit": [
+              {
+                "artist": {
+                  "sort-name": "Plastic Ono Band",
+                  "type": "Group",
+                  "id": "84f81b32-8b3a-4914-9cff-017a52f9d16b",
+                  "name": "Plastic Ono Band",
+                  "country": "GB",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "disambiguation": ""
+                },
+                "joinphrase": "",
+                "name": "The Plastic Ono Band"
+              }
+            ],
+            "disambiguation": "original studio master"
+          },
+          "artist-credit": [
+            {
+              "artist": {
+                "disambiguation": "",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "name": "Plastic Ono Band",
+                "country": "GB",
+                "id": "84f81b32-8b3a-4914-9cff-017a52f9d16b",
+                "sort-name": "Plastic Ono Band",
+                "type": "Group"
+              },
+              "joinphrase": "",
+              "name": "The Plastic Ono Band"
+            }
+          ]
+        },
+        {
+          "length": 240000,
+          "id": "62a84d2a-d0ab-391f-8e03-d55c3f0c898c",
+          "number": "B",
+          "title": "Remember Love",
+          "position": 2,
+          "recording": {
+            "length": 243133,
+            "id": "fec3ec06-a20d-44c2-893b-c0cbda6db797",
+            "video": false,
+            "title": "Remember Love",
+            "first-release-date": "1969-07-04",
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "artist": {
+                  "type": "Group",
+                  "sort-name": "Plastic Ono Band",
+                  "id": "84f81b32-8b3a-4914-9cff-017a52f9d16b",
+                  "country": "GB",
+                  "name": "Plastic Ono Band",
+                  "disambiguation": "",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+                },
+                "joinphrase": "",
+                "name": "Plastic Ono Band"
+              }
+            ]
+          },
+          "artist-credit": [
+            {
+              "artist": {
+                "id": "84f81b32-8b3a-4914-9cff-017a52f9d16b",
+                "sort-name": "Plastic Ono Band",
+                "type": "Group",
+                "disambiguation": "",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "name": "Plastic Ono Band",
+                "country": "GB"
+              },
+              "joinphrase": "",
+              "name": "The Plastic Ono Band"
+            }
+          ]
+        }
+      ],
+      "id": "43ca84be-2c7e-322e-9499-e35b81ea97a7",
+      "position": 1,
+      "track-count": 2,
+      "format": "7\" Vinyl"
+    }
+  ],
+  "disambiguation": "",
+  "release-group": {
+    "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+    "artist-credit": [
+      {
+        "artist": {
+          "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+          "disambiguation": "",
+          "country": "GB",
+          "name": "Plastic Ono Band",
+          "id": "84f81b32-8b3a-4914-9cff-017a52f9d16b",
+          "type": "Group",
+          "sort-name": "Plastic Ono Band"
+        },
+        "name": "The Plastic Ono Band",
+        "joinphrase": ""
+      }
+    ],
+    "primary-type": "Single",
+    "disambiguation": "",
+    "secondary-type-ids": [],
+    "first-release-date": "1969-07-04",
+    "secondary-types": [],
+    "id": "c8491d3d-78e4-349c-b686-c0d635ccff66",
+    "title": "Give Peace a Chance / Remember Love"
+  },
+  "barcode": null,
+  "asin": null,
+  "country": "GB",
+  "quality": "normal",
+  "id": "d4cf2ac1-aeb7-42e1-bc79-3df8f29aac51",
+  "status": "Official",
+  "text-representation": {
+    "language": "eng",
+    "script": "Latn"
+  },
+  "label-info": [
+    {
+      "catalog-number": "APPLE 13",
+      "label": {
+        "type": "Original Production",
+        "sort-name": "Apple Records",
+        "id": "cf7fc5cf-e011-4ef4-b511-cd0188537910",
+        "name": "Apple Records",
+        "disambiguation": "",
+        "label-code": 1074,
+        "type-id": "7aaa37fe-2def-3476-b359-80245850062d"
+      }
+    }
+  ],
+  "release-events": [
+    {
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "sort-name": "United Kingdom",
+        "type": null,
+        "iso-3166-1-codes": [
+          "GB"
+        ],
+        "type-id": null,
+        "disambiguation": "",
+        "name": "United Kingdom"
+      },
+      "date": "1969-07-04"
+    }
+  ],
+  "date": "1969-07-04"
+}

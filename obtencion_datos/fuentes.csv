@@ -1,1 +1,327 @@
 tabla,id,url,campos,nota
+album,1,https://musicbrainz.org/release/b44ba6dc-6789-488f-bc65-44d52fd4785f,titulo;tipo;fecha_lanzamiento;sello_id;tracklist,"Edición de referencia (MBID en la URL). EP doble del Reino Unido, edición estéreo. Géneros: psychedelia → Rock psicodélico; art pop → Pop."
+album,1,https://en.wikipedia.org/w/index.php?title=Magical_Mystery_Tour&oldid=1383403100,generos;productores;compositores,
+cancion,1,https://musicbrainz.org/release/b44ba6dc-6789-488f-bc65-44d52fd4785f,titulo;duracion_seg,Grabación 09c89a4b-248c-4f98-ac3e-860f8e95dcd9; duración de su primer lanzamiento en la demo.
+cancion,1,https://en.wikipedia.org/w/index.php?title=Magical_Mystery_Tour_(song)&oldid=1353694160,compositores;productores;generos,
+cancion,2,https://musicbrainz.org/release/b44ba6dc-6789-488f-bc65-44d52fd4785f,titulo;duracion_seg,Grabación 2de2ab27-6fcf-46ec-8cd2-2ef5d51e39e8; duración de su primer lanzamiento en la demo.
+cancion,2,https://en.wikipedia.org/w/index.php?title=Your_Mother_Should_Know&oldid=1380718118,compositores;productores;generos,
+cancion,3,https://musicbrainz.org/release/b44ba6dc-6789-488f-bc65-44d52fd4785f,titulo;duracion_seg,Grabación 3eb7efbb-8717-4034-a698-109c70798524; duración de su primer lanzamiento en la demo.
+cancion,3,https://en.wikipedia.org/w/index.php?title=I_Am_the_Walrus&oldid=1377992250,compositores;productores;generos,
+cancion,4,https://musicbrainz.org/release/b44ba6dc-6789-488f-bc65-44d52fd4785f,titulo;duracion_seg,Grabación 9a42a834-e258-4b05-af58-d71da0f84c0b; duración de su primer lanzamiento en la demo.
+cancion,4,https://en.wikipedia.org/w/index.php?title=The_Fool_on_the_Hill&oldid=1373031481,compositores;productores;generos,
+cancion,5,https://musicbrainz.org/release/b44ba6dc-6789-488f-bc65-44d52fd4785f,titulo;duracion_seg,Grabación e0276633-e7d0-45ba-9d28-011a5c953154; duración de su primer lanzamiento en la demo.
+cancion,5,https://en.wikipedia.org/w/index.php?title=Flying_(Beatles_instrumental)&oldid=1380543967,compositores;productores;generos,
+cancion,6,https://musicbrainz.org/release/b44ba6dc-6789-488f-bc65-44d52fd4785f,titulo;duracion_seg,Grabación d0248ce8-5db2-4739-ae7e-27f2a0bb9fb2; duración de su primer lanzamiento en la demo.
+cancion,6,https://en.wikipedia.org/w/index.php?title=Blue_Jay_Way&oldid=1382853551,compositores;productores;generos,
+album,2,https://musicbrainz.org/release/70cb7bb7-5454-46c8-a540-2854011138ce,titulo;tipo;fecha_lanzamiento;sello_id;tracklist,Edición de referencia (MBID en la URL). Acreditado a «The Beatles with Billy Preston». Géneros del artículo de la canción (blues se omite).
+album,2,https://en.wikipedia.org/w/index.php?title=Get_Back&oldid=1378537766,generos;productores;compositores,
+cancion,7,https://musicbrainz.org/release/70cb7bb7-5454-46c8-a540-2854011138ce,titulo;duracion_seg,Grabación beaf49d4-c864-4141-9ce0-162e16778d87; duración de su primer lanzamiento en la demo.
+cancion,7,https://en.wikipedia.org/w/index.php?title=Get_Back&oldid=1378537766,compositores;productores;generos,
+cancion,8,https://musicbrainz.org/release/70cb7bb7-5454-46c8-a540-2854011138ce,titulo;duracion_seg,Grabación 76a0136f-d130-4a63-81e9-f7a438a86442; duración de su primer lanzamiento en la demo.
+cancion,8,https://en.wikipedia.org/w/index.php?title=Don't_Let_Me_Down_(Beatles_song)&oldid=1378187017,compositores;productores;generos,
+album,3,https://musicbrainz.org/release/d4cf2ac1-aeb7-42e1-bc79-3df8f29aac51,titulo;tipo;fecha_lanzamiento;sello_id;tracklist,Edición de referencia (MBID en la URL). La fuente no indica género para el single.
+album,3,https://en.wikipedia.org/w/index.php?title=Give_Peace_a_Chance&oldid=1382013208,generos;productores;compositores,
+cancion,9,https://musicbrainz.org/release/d4cf2ac1-aeb7-42e1-bc79-3df8f29aac51,titulo;duracion_seg,Grabación 1c778162-b7ae-4ec9-b430-012462a60660; duración de su primer lanzamiento en la demo.
+cancion,9,https://en.wikipedia.org/w/index.php?title=Give_Peace_a_Chance&oldid=1382013208,compositores;productores;generos,
+cancion,10,https://musicbrainz.org/release/d4cf2ac1-aeb7-42e1-bc79-3df8f29aac51,titulo;duracion_seg,Grabación fec3ec06-a20d-44c2-893b-c0cbda6db797; duración de su primer lanzamiento en la demo.
+cancion,10,https://en.wikipedia.org/w/index.php?title=Remember_Love_(Yoko_Ono_song)&oldid=1360070745,compositores;productores;generos,
+album,4,https://musicbrainz.org/release/d6010be3-98f8-422c-a6c9-787e2e491e58,titulo;tipo;fecha_lanzamiento;sello_id;tracklist,Edición de referencia (MBID en la URL). 
+album,4,https://en.wikipedia.org/w/index.php?title=Abbey_Road&oldid=1382846581,generos;productores;compositores,
+cancion,11,https://musicbrainz.org/release/d6010be3-98f8-422c-a6c9-787e2e491e58,titulo;duracion_seg,Grabación 485bbe7f-d0f7-4ffe-8adb-0f1093dd2dbf; duración de su primer lanzamiento en la demo.
+cancion,11,https://en.wikipedia.org/w/index.php?title=Come_Together&oldid=1382858345,compositores;productores;generos,
+cancion,12,https://musicbrainz.org/release/d6010be3-98f8-422c-a6c9-787e2e491e58,titulo;duracion_seg,Grabación b849acd4-0638-49ea-8e40-7391613d4890; duración de su primer lanzamiento en la demo.
+cancion,12,https://en.wikipedia.org/w/index.php?title=Something_(Beatles_song)&oldid=1382898795,compositores;productores;generos,
+cancion,13,https://musicbrainz.org/release/d6010be3-98f8-422c-a6c9-787e2e491e58,titulo;duracion_seg,Grabación a92380e6-f10d-4407-aceb-5825b17fed5a; duración de su primer lanzamiento en la demo.
+cancion,13,https://en.wikipedia.org/w/index.php?title=Maxwell's_Silver_Hammer&oldid=1382248370,compositores;productores;generos,
+cancion,14,https://musicbrainz.org/release/d6010be3-98f8-422c-a6c9-787e2e491e58,titulo;duracion_seg,Grabación de896c41-463d-4eaa-8fe4-d826e2afa0f8; duración de su primer lanzamiento en la demo.
+cancion,14,https://en.wikipedia.org/w/index.php?title=Oh!_Darling&oldid=1381989734,compositores;productores;generos,
+cancion,15,https://musicbrainz.org/release/d6010be3-98f8-422c-a6c9-787e2e491e58,titulo;duracion_seg,Grabación 15127932-c879-466e-b0f8-a1c5022d16e7; duración de su primer lanzamiento en la demo.
+cancion,15,https://en.wikipedia.org/w/index.php?title=Octopus's_Garden&oldid=1372890980,compositores;productores;generos,
+cancion,16,https://musicbrainz.org/release/d6010be3-98f8-422c-a6c9-787e2e491e58,titulo;duracion_seg,Grabación a9a83384-3da3-4c84-af6d-33fcdb1c3e27; duración de su primer lanzamiento en la demo.
+cancion,16,https://en.wikipedia.org/w/index.php?title=I_Want_You_(She's_So_Heavy)&oldid=1382076850,compositores;productores;generos,
+cancion,17,https://musicbrainz.org/release/d6010be3-98f8-422c-a6c9-787e2e491e58,titulo;duracion_seg,Grabación 440f60e8-0b25-4ec4-abb1-c6beec624ab0; duración de su primer lanzamiento en la demo.
+cancion,17,https://en.wikipedia.org/w/index.php?title=Here_Comes_the_Sun&oldid=1382870296,compositores;productores;generos,
+cancion,18,https://musicbrainz.org/release/d6010be3-98f8-422c-a6c9-787e2e491e58,titulo;duracion_seg,Grabación 1e1d1f33-346c-4f9a-ad05-03aa715c2f37; duración de su primer lanzamiento en la demo.
+cancion,18,https://en.wikipedia.org/w/index.php?title=Because_(Beatles_song)&oldid=1365460701,compositores;productores;generos,
+cancion,19,https://musicbrainz.org/release/d6010be3-98f8-422c-a6c9-787e2e491e58,titulo;duracion_seg,Grabación 474546e9-0b30-4881-9269-c6c1c8bbf07b; duración de su primer lanzamiento en la demo.
+cancion,19,https://en.wikipedia.org/w/index.php?title=You_Never_Give_Me_Your_Money&oldid=1383205865,compositores;productores;generos,
+cancion,20,https://musicbrainz.org/release/d6010be3-98f8-422c-a6c9-787e2e491e58,titulo;duracion_seg,Grabación d057c75d-04eb-438f-be0b-74f629f2953c; duración de su primer lanzamiento en la demo.
+cancion,20,https://en.wikipedia.org/w/index.php?title=Sun_King_(song)&oldid=1379578314,compositores;productores;generos,
+cancion,21,https://musicbrainz.org/release/d6010be3-98f8-422c-a6c9-787e2e491e58,titulo;duracion_seg,Grabación 99c004fb-ba87-41be-afd4-e0157b40516a; duración de su primer lanzamiento en la demo.
+cancion,21,https://en.wikipedia.org/w/index.php?title=Mean_Mr._Mustard&oldid=1379369883,compositores;productores;generos,
+cancion,22,https://musicbrainz.org/release/d6010be3-98f8-422c-a6c9-787e2e491e58,titulo;duracion_seg,Grabación 65ca55c8-d857-4a3b-9246-835b1e54fe4d; duración de su primer lanzamiento en la demo.
+cancion,22,https://en.wikipedia.org/w/index.php?title=Polythene_Pam&oldid=1382591785,compositores;productores;generos,
+cancion,23,https://musicbrainz.org/release/d6010be3-98f8-422c-a6c9-787e2e491e58,titulo;duracion_seg,Grabación c19db4d3-6640-4732-a0b2-e358ed80c5c4; duración de su primer lanzamiento en la demo.
+cancion,23,https://en.wikipedia.org/w/index.php?title=She_Came_In_Through_the_Bathroom_Window&oldid=1383157269,compositores;productores;generos,
+cancion,24,https://musicbrainz.org/release/d6010be3-98f8-422c-a6c9-787e2e491e58,titulo;duracion_seg,Grabación 3d7f2000-123d-4cac-862b-e04ead24c5f2; duración de su primer lanzamiento en la demo.
+cancion,24,https://en.wikipedia.org/w/index.php?title=Golden_Slumbers&oldid=1378775378,compositores;productores;generos,
+cancion,25,https://musicbrainz.org/release/d6010be3-98f8-422c-a6c9-787e2e491e58,titulo;duracion_seg,Grabación daaee15a-8a4c-4275-a7c1-5b6211f0ec69; duración de su primer lanzamiento en la demo.
+cancion,25,https://en.wikipedia.org/w/index.php?title=Carry_That_Weight&oldid=1379270720,compositores;productores;generos,
+cancion,26,https://musicbrainz.org/release/d6010be3-98f8-422c-a6c9-787e2e491e58,titulo;duracion_seg,Grabación 5ad78393-77c2-451e-beb1-074df7e06e57; duración de su primer lanzamiento en la demo.
+cancion,26,https://en.wikipedia.org/w/index.php?title=The_End_(Beatles_song)&oldid=1379392030,compositores;productores;generos,
+cancion,27,https://musicbrainz.org/release/d6010be3-98f8-422c-a6c9-787e2e491e58,titulo;duracion_seg,Grabación ed8d1b3b-8757-447a-baba-3efe027f2765; duración de su primer lanzamiento en la demo.
+cancion,27,https://en.wikipedia.org/w/index.php?title=Her_Majesty_(song)&oldid=1381295748,compositores;productores;generos,
+album,5,https://musicbrainz.org/release/8d5347a5-9ecb-44be-a213-860aaaf5d0b8,titulo;tipo;fecha_lanzamiento;sello_id;tracklist,Edición de referencia (MBID en la URL). 
+album,5,https://en.wikipedia.org/w/index.php?title=Let_It_Be_(album)&oldid=1377438697,generos;productores;compositores,
+cancion,28,https://musicbrainz.org/release/8d5347a5-9ecb-44be-a213-860aaaf5d0b8,titulo;duracion_seg,Grabación 4576371a-a0d6-4dbf-b3b7-8f1e1b58ec43; duración de su primer lanzamiento en la demo.
+cancion,28,https://en.wikipedia.org/w/index.php?title=Two_of_Us_(Beatles_song)&oldid=1366092887,compositores;productores;generos,
+cancion,29,https://musicbrainz.org/release/8d5347a5-9ecb-44be-a213-860aaaf5d0b8,titulo;duracion_seg,Grabación 4131e00c-13c5-4f92-a2ff-73c2edaf420c; duración de su primer lanzamiento en la demo.
+cancion,29,https://en.wikipedia.org/w/index.php?title=Dig_a_Pony&oldid=1368194779,compositores;productores;generos,
+cancion,30,https://musicbrainz.org/release/8d5347a5-9ecb-44be-a213-860aaaf5d0b8,titulo;duracion_seg,Grabación 90aa777f-5c69-4ed6-8ef9-6a576423e6a2; duración de su primer lanzamiento en la demo.
+cancion,30,https://en.wikipedia.org/w/index.php?title=Across_the_Universe&oldid=1383196595,compositores;productores;generos,
+cancion,31,https://musicbrainz.org/release/8d5347a5-9ecb-44be-a213-860aaaf5d0b8,titulo;duracion_seg,Grabación b62ccbb7-bd69-468f-a95f-2f6a4604cc26; duración de su primer lanzamiento en la demo.
+cancion,31,https://en.wikipedia.org/w/index.php?title=I_Me_Mine&oldid=1377220725,compositores;productores;generos,
+cancion,32,https://musicbrainz.org/release/8d5347a5-9ecb-44be-a213-860aaaf5d0b8,titulo;duracion_seg,Grabación 906836d9-b363-405d-a52c-e780a6cb5f24; duración de su primer lanzamiento en la demo.
+cancion,32,https://en.wikipedia.org/w/index.php?title=Dig_It_(Beatles_song)&oldid=1380617481,compositores;productores;generos,
+cancion,33,https://musicbrainz.org/release/8d5347a5-9ecb-44be-a213-860aaaf5d0b8,titulo;duracion_seg,Grabación 0cdc9b5b-b16b-4ff1-9f16-5b4ba76f1c17; duración de su primer lanzamiento en la demo.
+cancion,33,https://en.wikipedia.org/w/index.php?title=Let_It_Be_(song)&oldid=1382954344,compositores;productores;generos,
+cancion,34,https://musicbrainz.org/release/8d5347a5-9ecb-44be-a213-860aaaf5d0b8,titulo;duracion_seg,Grabación 342a7655-887f-4e3f-95a1-d45f8e2df166; duración de su primer lanzamiento en la demo.
+cancion,34,https://en.wikipedia.org/w/index.php?title=Maggie_May_(folk_song)&oldid=1340022032,compositores;productores;generos,
+cancion,35,https://musicbrainz.org/release/8d5347a5-9ecb-44be-a213-860aaaf5d0b8,titulo;duracion_seg,Grabación 30b9d279-e8aa-499d-aa89-130fba800696; duración de su primer lanzamiento en la demo.
+cancion,35,https://en.wikipedia.org/w/index.php?title=I've_Got_a_Feeling&oldid=1363219986,compositores;productores;generos,
+cancion,36,https://musicbrainz.org/release/8d5347a5-9ecb-44be-a213-860aaaf5d0b8,titulo;duracion_seg,Grabación e1f05d06-06ad-4f22-9c81-c94c0f44fe41; duración de su primer lanzamiento en la demo.
+cancion,36,https://en.wikipedia.org/w/index.php?title=One_After_909&oldid=1368490376,compositores;productores;generos,
+cancion,37,https://musicbrainz.org/release/8d5347a5-9ecb-44be-a213-860aaaf5d0b8,titulo;duracion_seg,Grabación 2df46dec-b453-4444-91b9-5fa5d7515fd9; duración de su primer lanzamiento en la demo.
+cancion,37,https://en.wikipedia.org/w/index.php?title=The_Long_and_Winding_Road&oldid=1383072050,compositores;productores;generos,
+cancion,38,https://musicbrainz.org/release/8d5347a5-9ecb-44be-a213-860aaaf5d0b8,titulo;duracion_seg,Grabación e3f3b880-32e7-401c-8879-9e477b1a6d73; duración de su primer lanzamiento en la demo.
+cancion,38,https://en.wikipedia.org/w/index.php?title=For_You_Blue&oldid=1364043652,compositores;productores;generos,
+cancion,39,https://musicbrainz.org/release/8d5347a5-9ecb-44be-a213-860aaaf5d0b8,titulo;duracion_seg,Grabación a52c2553-1670-4262-9193-6ecd6713741a; duración de su primer lanzamiento en la demo.
+cancion,39,https://en.wikipedia.org/w/index.php?title=Get_Back&oldid=1378537766,compositores;productores;generos,
+album,6,https://musicbrainz.org/release/17f4dfe6-95dd-4dc6-9283-26c652fee73e,titulo;tipo;fecha_lanzamiento;sello_id;tracklist,Edición de referencia (MBID en la URL). Edición del Reino Unido (cara B: What Is Life). Géneros del artículo de la canción (gospel se omite).
+album,6,https://en.wikipedia.org/w/index.php?title=My_Sweet_Lord&oldid=1381134287,generos;productores;compositores,
+cancion,40,https://musicbrainz.org/release/17f4dfe6-95dd-4dc6-9283-26c652fee73e,titulo;duracion_seg,Grabación 7571a56b-994e-4829-ae8b-71abb84809be; duración de su primer lanzamiento en la demo.
+cancion,40,https://en.wikipedia.org/w/index.php?title=My_Sweet_Lord&oldid=1381134287,compositores;productores;generos,
+cancion,41,https://musicbrainz.org/release/17f4dfe6-95dd-4dc6-9283-26c652fee73e,titulo;duracion_seg,Grabación fefb3869-aec7-490d-a0da-b42436a571ac; duración de su primer lanzamiento en la demo.
+cancion,41,https://en.wikipedia.org/w/index.php?title=What_Is_Life&oldid=1382912396,compositores;productores;generos,
+album,7,https://musicbrainz.org/release/1cf21e95-62db-4148-a176-6f3569f65350,titulo;tipo;fecha_lanzamiento;sello_id;tracklist,Edición de referencia (MBID en la URL). Géneros del artículo de la canción.
+album,7,https://en.wikipedia.org/w/index.php?title=Another_Day_(Paul_McCartney_song)&oldid=1378912948,generos;productores;compositores,
+cancion,42,https://musicbrainz.org/release/1cf21e95-62db-4148-a176-6f3569f65350,titulo;duracion_seg,Grabación 21019556-5888-40ff-b75e-5571da2e7a6d; duración de su primer lanzamiento en la demo.
+cancion,42,https://en.wikipedia.org/w/index.php?title=Another_Day_(Paul_McCartney_song)&oldid=1378912948,compositores;productores;generos,
+cancion,43,https://musicbrainz.org/release/1cf21e95-62db-4148-a176-6f3569f65350,titulo;duracion_seg,Grabación 02897033-fc2b-42cd-9138-00ebe8e54e8d; duración de su primer lanzamiento en la demo.
+cancion,43,"https://en.wikipedia.org/w/index.php?title=Oh_Woman,_Oh_Why&oldid=1378658308",compositores;productores;generos,
+album,8,https://musicbrainz.org/release/a6083174-371e-4b25-a8bb-269b36d344cd,titulo;tipo;fecha_lanzamiento;sello_id;tracklist,Edición de referencia (MBID en la URL). Edición del Reino Unido (8 de octubre de 1971).
+album,8,https://en.wikipedia.org/w/index.php?title=Imagine_(John_Lennon_album)&oldid=1382872258,generos;productores;compositores,
+cancion,44,https://musicbrainz.org/release/a6083174-371e-4b25-a8bb-269b36d344cd,titulo;duracion_seg,Grabación ec04e3c5-0548-4e73-bfc3-19a26108f302; duración de su primer lanzamiento en la demo.
+cancion,44,https://en.wikipedia.org/w/index.php?title=Imagine_(song)&oldid=1382952965,compositores;productores;generos,
+cancion,45,https://musicbrainz.org/release/a6083174-371e-4b25-a8bb-269b36d344cd,titulo;duracion_seg,Grabación 728cff82-8b98-4909-8303-d9ff5e37a246; duración de su primer lanzamiento en la demo.
+cancion,45,https://en.wikipedia.org/w/index.php?title=Crippled_Inside&oldid=1342252945,compositores;productores;generos,
+cancion,46,https://musicbrainz.org/release/a6083174-371e-4b25-a8bb-269b36d344cd,titulo;duracion_seg,Grabación ec9d6d9f-cc79-4090-b38b-5f5d25611137; duración de su primer lanzamiento en la demo.
+cancion,46,https://en.wikipedia.org/w/index.php?title=Jealous_Guy&oldid=1380134786,compositores;productores;generos,
+cancion,47,https://musicbrainz.org/release/a6083174-371e-4b25-a8bb-269b36d344cd,titulo;duracion_seg,Grabación 98368867-85df-461a-81c5-cae9c89b2762; duración de su primer lanzamiento en la demo.
+cancion,47,https://en.wikipedia.org/w/index.php?title=It's_So_Hard&oldid=1360070715,compositores;productores;generos,
+cancion,48,https://musicbrainz.org/release/a6083174-371e-4b25-a8bb-269b36d344cd,titulo;duracion_seg,Grabación 13787cd3-214f-4d06-b5b9-78b65c31803b; duración de su primer lanzamiento en la demo.
+cancion,48,https://en.wikipedia.org/w/index.php?title=I_Don't_Wanna_Be_a_Soldier&oldid=1342253045,compositores;productores;generos,
+cancion,49,https://musicbrainz.org/release/a6083174-371e-4b25-a8bb-269b36d344cd,titulo;duracion_seg,Grabación 04913868-2b04-4fa1-a737-bb1383d3ffa3; duración de su primer lanzamiento en la demo.
+cancion,49,https://en.wikipedia.org/w/index.php?title=Gimme_Some_Truth&oldid=1381403132,compositores;productores;generos,
+cancion,50,https://musicbrainz.org/release/a6083174-371e-4b25-a8bb-269b36d344cd,titulo;duracion_seg,Grabación 3e3c8753-1e1d-4cbb-89d7-1b96b2403c84; duración de su primer lanzamiento en la demo.
+cancion,50,https://en.wikipedia.org/w/index.php?title=Oh_My_Love&oldid=1342253116,compositores;productores;generos,
+cancion,51,https://musicbrainz.org/release/a6083174-371e-4b25-a8bb-269b36d344cd,titulo;duracion_seg,Grabación fa2c45a0-8746-41f0-804c-b45c0723f1bd; duración de su primer lanzamiento en la demo.
+cancion,51,https://en.wikipedia.org/w/index.php?title=How_Do_You_Sleep?_(John_Lennon_song)&oldid=1383278037,compositores;productores;generos,
+cancion,52,https://musicbrainz.org/release/a6083174-371e-4b25-a8bb-269b36d344cd,titulo;duracion_seg,Grabación 55ca9593-361d-445e-aa09-02f6589d6152; duración de su primer lanzamiento en la demo.
+cancion,52,https://en.wikipedia.org/w/index.php?title=How?_(song)&oldid=1342253322,compositores;productores;generos,
+cancion,53,https://musicbrainz.org/release/a6083174-371e-4b25-a8bb-269b36d344cd,titulo;duracion_seg,Grabación a1466f00-a848-4d93-90af-cc9026ff03ec; duración de su primer lanzamiento en la demo.
+cancion,53,https://en.wikipedia.org/w/index.php?title=Oh_Yoko!&oldid=1342253357,compositores;productores;generos,
+album,9,https://musicbrainz.org/release/c50995bf-b631-4326-9f07-9a68341089b1,titulo;tipo;fecha_lanzamiento;sello_id;tracklist,Edición de referencia (MBID en la URL). 
+album,9,https://en.wikipedia.org/w/index.php?title=Ringo_(album)&oldid=1378556671,generos;productores;compositores,
+cancion,54,https://musicbrainz.org/release/c50995bf-b631-4326-9f07-9a68341089b1,titulo;duracion_seg,Grabación 7bf95a85-cff9-41a0-9d1a-91cd057efa38; duración de su primer lanzamiento en la demo.
+cancion,54,https://en.wikipedia.org/w/index.php?title=I'm_the_Greatest&oldid=1378999286,compositores;productores;generos,
+cancion,55,https://musicbrainz.org/release/c50995bf-b631-4326-9f07-9a68341089b1,titulo;duracion_seg,Grabación 78e560a4-a53b-42a1-9bfb-2aa0ff3fe71c; duración de su primer lanzamiento en la demo.
+cancion,55,https://en.wikipedia.org/w/index.php?title=Ringo_(album)&oldid=1378556671,compositores;productores,Sin artículo propio: créditos del álbum; sin género.
+cancion,56,https://musicbrainz.org/release/c50995bf-b631-4326-9f07-9a68341089b1,titulo;duracion_seg,Grabación 370ebb14-e79b-4aa4-b40e-b5fdf5ad5d1d; duración de su primer lanzamiento en la demo.
+cancion,56,https://en.wikipedia.org/w/index.php?title=Photograph_(Ringo_Starr_song)&oldid=1374976565,compositores;productores;generos,
+cancion,57,https://musicbrainz.org/release/c50995bf-b631-4326-9f07-9a68341089b1,titulo;duracion_seg,Grabación 7395092a-e6d1-4164-b574-c227f2822bc9; duración de su primer lanzamiento en la demo.
+cancion,57,https://en.wikipedia.org/w/index.php?title=Sunshine_Life_for_Me_(Sail_Away_Raymond)&oldid=1335883724,compositores;productores;generos,
+cancion,58,https://musicbrainz.org/release/c50995bf-b631-4326-9f07-9a68341089b1,titulo;duracion_seg,Grabación 0ad67f25-fedd-4677-8734-e459d9f95add; duración de su primer lanzamiento en la demo.
+cancion,58,https://en.wikipedia.org/w/index.php?title=Ringo_(album)&oldid=1378556671,compositores;productores,Sin artículo propio: créditos del álbum; sin género.
+cancion,59,https://musicbrainz.org/release/c50995bf-b631-4326-9f07-9a68341089b1,titulo;duracion_seg,Grabación c6658afb-80fd-4ab0-8a98-5a81ca64cc3d; duración de su primer lanzamiento en la demo.
+cancion,59,https://en.wikipedia.org/w/index.php?title=Oh_My_My_(Ringo_Starr_song)&oldid=1379579645,compositores;productores;generos,
+cancion,60,https://musicbrainz.org/release/c50995bf-b631-4326-9f07-9a68341089b1,titulo;duracion_seg,Grabación 4aae974c-9574-4279-ad6e-abaababc50ba; duración de su primer lanzamiento en la demo.
+cancion,60,https://en.wikipedia.org/w/index.php?title=Ringo_(album)&oldid=1378556671,compositores;productores,Sin artículo propio: créditos del álbum; sin género.
+cancion,61,https://musicbrainz.org/release/c50995bf-b631-4326-9f07-9a68341089b1,titulo;duracion_seg,Grabación 64e52927-407f-474b-9a65-0ae32275b337; duración de su primer lanzamiento en la demo.
+cancion,61,https://en.wikipedia.org/w/index.php?title=Six_O'Clock&oldid=1364843965,compositores;productores;generos,
+cancion,62,https://musicbrainz.org/release/c50995bf-b631-4326-9f07-9a68341089b1,titulo;duracion_seg,Grabación 93e99bd8-6d8e-4c25-8c1a-727ece81cbf5; duración de su primer lanzamiento en la demo.
+cancion,62,https://en.wikipedia.org/w/index.php?title=Ringo_(album)&oldid=1378556671,compositores;productores,Sin artículo propio: créditos del álbum; sin género.
+cancion,63,https://musicbrainz.org/release/c50995bf-b631-4326-9f07-9a68341089b1,titulo;duracion_seg,Grabación 98fe8c82-b11e-4e8f-980b-6ddcb04c7749; duración de su primer lanzamiento en la demo.
+cancion,63,https://en.wikipedia.org/w/index.php?title=You_and_Me_(Babe)&oldid=1247952647,compositores;productores;generos,
+album,10,https://musicbrainz.org/release/498a6e7a-da0f-4739-94a2-11e5873956d3,titulo;tipo;fecha_lanzamiento;sello_id;tracklist,Edición de referencia (MBID en la URL). Acreditado a «Paul McCartney and Wings»: se usa el artista Wings (convención de créditos con nombre variante). Edición del Reino Unido sin «Helen Wheels».
+album,10,https://en.wikipedia.org/w/index.php?title=Band_on_the_Run&oldid=1381587824,generos;productores;compositores,
+cancion,64,https://musicbrainz.org/release/498a6e7a-da0f-4739-94a2-11e5873956d3,titulo;duracion_seg,Grabación db6c7347-34e9-4023-acf4-a1ce6d0f409b; duración de su primer lanzamiento en la demo.
+cancion,64,https://en.wikipedia.org/w/index.php?title=Band_on_the_Run_(song)&oldid=1378525628,compositores;productores;generos,
+cancion,65,https://musicbrainz.org/release/498a6e7a-da0f-4739-94a2-11e5873956d3,titulo;duracion_seg,Grabación 32809cb7-a074-4e6d-92d7-ef5625bc530f; duración de su primer lanzamiento en la demo.
+cancion,65,https://en.wikipedia.org/w/index.php?title=Jet_(song)&oldid=1380080547,compositores;productores;generos,
+cancion,66,https://musicbrainz.org/release/498a6e7a-da0f-4739-94a2-11e5873956d3,titulo;duracion_seg,Grabación ab9f9811-36d8-4845-a10e-1babca4f547a; duración de su primer lanzamiento en la demo.
+cancion,66,https://en.wikipedia.org/w/index.php?title=Bluebird_(Paul_McCartney_and_Wings_song)&oldid=1373957853,compositores;productores;generos,
+cancion,67,https://musicbrainz.org/release/498a6e7a-da0f-4739-94a2-11e5873956d3,titulo;duracion_seg,Grabación dc4a9d72-4e55-4ad7-8792-5b943770119e; duración de su primer lanzamiento en la demo.
+cancion,67,https://en.wikipedia.org/w/index.php?title=Mrs._Vandebilt&oldid=1368121749,compositores;productores;generos,
+cancion,68,https://musicbrainz.org/release/498a6e7a-da0f-4739-94a2-11e5873956d3,titulo;duracion_seg,Grabación 01f610a3-7667-431e-93b4-7632d9f3ef1b; duración de su primer lanzamiento en la demo.
+cancion,68,https://en.wikipedia.org/w/index.php?title=Let_Me_Roll_It&oldid=1364304437,compositores;productores;generos,
+cancion,69,https://musicbrainz.org/release/498a6e7a-da0f-4739-94a2-11e5873956d3,titulo;duracion_seg,Grabación 3e47441d-63a7-4863-b26e-ecdf030cefb6; duración de su primer lanzamiento en la demo.
+cancion,69,https://en.wikipedia.org/w/index.php?title=Mamunia&oldid=1364305042,compositores;productores;generos,
+cancion,70,https://musicbrainz.org/release/498a6e7a-da0f-4739-94a2-11e5873956d3,titulo;duracion_seg,Grabación 80e69805-9bae-447a-befd-af9e0624621b; duración de su primer lanzamiento en la demo.
+cancion,70,https://en.wikipedia.org/w/index.php?title=No_Words&oldid=1364305527,compositores;productores;generos,
+cancion,71,https://musicbrainz.org/release/498a6e7a-da0f-4739-94a2-11e5873956d3,titulo;duracion_seg,Grabación cfca0a63-3b0d-458d-bc35-ea220b6c342d; duración de su primer lanzamiento en la demo.
+cancion,71,https://en.wikipedia.org/w/index.php?title=Picasso's_Last_Words_(Drink_to_Me)&oldid=1345444279,compositores;productores;generos,
+cancion,72,https://musicbrainz.org/release/498a6e7a-da0f-4739-94a2-11e5873956d3,titulo;duracion_seg,Grabación 7db57fbb-dbcd-485a-ba31-943764135615; duración de su primer lanzamiento en la demo.
+cancion,72,https://en.wikipedia.org/w/index.php?title=Nineteen_Hundred_and_Eighty-Five&oldid=1364306722,compositores;productores;generos,
+album,11,https://musicbrainz.org/release/d4ae122c-ada6-39a8-9f1a-77c991b15acb,titulo;tipo;fecha_lanzamiento;sello_id;tracklist,Edición de referencia (MBID en la URL). No hubo edición original del Reino Unido en 1988: se usa la de EE. UU. (país de origen de la banda: Los Ángeles). Géneros: country rock → Roots rock.
+album,11,https://en.wikipedia.org/w/index.php?title=Traveling_Wilburys_Vol._1&oldid=1366555721,generos;productores;compositores,
+cancion,73,https://musicbrainz.org/release/d4ae122c-ada6-39a8-9f1a-77c991b15acb,titulo;duracion_seg,Grabación ea5d3599-55ef-49d4-9244-731f1f9a3ec2; duración de su primer lanzamiento en la demo.
+cancion,73,https://en.wikipedia.org/w/index.php?title=Handle_with_Care_(song)&oldid=1371297074,compositores;productores;generos,
+cancion,74,https://musicbrainz.org/release/d4ae122c-ada6-39a8-9f1a-77c991b15acb,titulo;duracion_seg,Grabación be427811-0d77-4558-9ce7-58c95944515b; duración de su primer lanzamiento en la demo.
+cancion,74,https://en.wikipedia.org/w/index.php?title=Traveling_Wilburys_Vol._1&oldid=1366555721,compositores;productores,Sin artículo propio: créditos del álbum; sin género.
+cancion,75,https://musicbrainz.org/release/d4ae122c-ada6-39a8-9f1a-77c991b15acb,titulo;duracion_seg,Grabación ad5619a5-b7bd-4a08-b4a9-5d4ca940d69e; duración de su primer lanzamiento en la demo.
+cancion,75,https://en.wikipedia.org/w/index.php?title=Traveling_Wilburys_Vol._1&oldid=1366555721,compositores;productores,Sin artículo propio: créditos del álbum; sin género.
+cancion,76,https://musicbrainz.org/release/d4ae122c-ada6-39a8-9f1a-77c991b15acb,titulo;duracion_seg,Grabación e69cdec4-8920-4131-91fc-0b85f5bb6218; duración de su primer lanzamiento en la demo.
+cancion,76,https://en.wikipedia.org/w/index.php?title=Traveling_Wilburys_Vol._1&oldid=1366555721,compositores;productores,Sin artículo propio: créditos del álbum; sin género.
+cancion,77,https://musicbrainz.org/release/d4ae122c-ada6-39a8-9f1a-77c991b15acb,titulo;duracion_seg,Grabación 0849bb67-bc39-465b-b76e-a5ec9fdeccb6; duración de su primer lanzamiento en la demo.
+cancion,77,https://en.wikipedia.org/w/index.php?title=Not_Alone_Any_More&oldid=1373386403,compositores;productores;generos,
+cancion,78,https://musicbrainz.org/release/d4ae122c-ada6-39a8-9f1a-77c991b15acb,titulo;duracion_seg,Grabación 55f298b5-ef1d-4624-9e81-9f0c1ad2484b; duración de su primer lanzamiento en la demo.
+cancion,78,https://en.wikipedia.org/w/index.php?title=Congratulations_(Traveling_Wilburys_song)&oldid=1367956554,compositores;productores;generos,
+cancion,79,https://musicbrainz.org/release/d4ae122c-ada6-39a8-9f1a-77c991b15acb,titulo;duracion_seg,Grabación 6c25563c-a4d4-4a06-82d5-e620bc6e9ac1; duración de su primer lanzamiento en la demo.
+cancion,79,https://en.wikipedia.org/w/index.php?title=Heading_for_the_Light&oldid=1350832890,compositores;productores;generos,
+cancion,80,https://musicbrainz.org/release/d4ae122c-ada6-39a8-9f1a-77c991b15acb,titulo;duracion_seg,Grabación f73f38a7-fa20-4ec7-80da-22ee96edf8cd; duración de su primer lanzamiento en la demo.
+cancion,80,https://en.wikipedia.org/w/index.php?title=Traveling_Wilburys_Vol._1&oldid=1366555721,compositores;productores,Sin artículo propio: créditos del álbum; sin género.
+cancion,81,https://musicbrainz.org/release/d4ae122c-ada6-39a8-9f1a-77c991b15acb,titulo;duracion_seg,Grabación 1f786ce6-bdab-470c-8f2e-df67e12cb4f6; duración de su primer lanzamiento en la demo.
+cancion,81,https://en.wikipedia.org/w/index.php?title=Tweeter_and_the_Monkey_Man&oldid=1372696811,compositores;productores;generos,
+cancion,82,https://musicbrainz.org/release/d4ae122c-ada6-39a8-9f1a-77c991b15acb,titulo;duracion_seg,Grabación c6bb675e-f161-4b07-ae5c-a85d02796215; duración de su primer lanzamiento en la demo.
+cancion,82,https://en.wikipedia.org/w/index.php?title=End_of_the_Line_(Traveling_Wilburys_song)&oldid=1376246208,compositores;productores;generos,
+album,12,https://musicbrainz.org/release/91a07ae5-2790-3af8-b91e-1b1b2d272bd1,titulo;tipo;fecha_lanzamiento;sello_id;tracklist,Edición de referencia (MBID en la URL). Sellos en la edición: EMI y Apple Records; se registra Apple Records.
+album,12,https://en.wikipedia.org/w/index.php?title=1_(Beatles_album)&oldid=1379935523,generos;productores;compositores,
+cancion,83,https://musicbrainz.org/release/91a07ae5-2790-3af8-b91e-1b1b2d272bd1,titulo;duracion_seg,Grabación 1f518811-7cf9-4bdc-a656-0958e130f312; duración de su primer lanzamiento en la demo.
+cancion,83,https://en.wikipedia.org/w/index.php?title=Love_Me_Do&oldid=1377752468,compositores;productores;generos,
+cancion,84,https://musicbrainz.org/release/91a07ae5-2790-3af8-b91e-1b1b2d272bd1,titulo;duracion_seg,Grabación dc87225b-46bc-4a5d-837f-14e7eb8f2ca2; duración de su primer lanzamiento en la demo.
+cancion,84,https://en.wikipedia.org/w/index.php?title=From_Me_to_You&oldid=1366969140,compositores;productores;generos,
+cancion,85,https://musicbrainz.org/release/91a07ae5-2790-3af8-b91e-1b1b2d272bd1,titulo;duracion_seg,Grabación 21047249-7b3f-4651-acca-246669c081fd; duración de su primer lanzamiento en la demo.
+cancion,85,https://en.wikipedia.org/w/index.php?title=She_Loves_You&oldid=1380960491,compositores;productores;generos,
+cancion,86,https://musicbrainz.org/release/91a07ae5-2790-3af8-b91e-1b1b2d272bd1,titulo;duracion_seg,Grabación fa811bd6-1886-4768-b09c-b67a05504f64; duración de su primer lanzamiento en la demo.
+cancion,86,https://en.wikipedia.org/w/index.php?title=I_Want_to_Hold_Your_Hand&oldid=1382952822,compositores;productores;generos,
+cancion,87,https://musicbrainz.org/release/91a07ae5-2790-3af8-b91e-1b1b2d272bd1,titulo;duracion_seg,Grabación 7abb39cc-19d3-4f51-b10c-82186c968179; duración de su primer lanzamiento en la demo.
+cancion,87,https://en.wikipedia.org/w/index.php?title=Can't_Buy_Me_Love&oldid=1383425123,compositores;productores;generos,
+cancion,88,https://musicbrainz.org/release/91a07ae5-2790-3af8-b91e-1b1b2d272bd1,titulo;duracion_seg,Grabación c1d63906-f64a-4cd1-9873-9f3a9f98883c; duración de su primer lanzamiento en la demo.
+cancion,88,https://en.wikipedia.org/w/index.php?title=A_Hard_Day's_Night_(song)&oldid=1381215963,compositores;productores;generos,
+cancion,89,https://musicbrainz.org/release/91a07ae5-2790-3af8-b91e-1b1b2d272bd1,titulo;duracion_seg,Grabación c4676f4b-0557-4fd8-8ad9-29047b6043f3; duración de su primer lanzamiento en la demo.
+cancion,89,https://en.wikipedia.org/w/index.php?title=I_Feel_Fine&oldid=1378542200,compositores;productores;generos,
+cancion,90,https://musicbrainz.org/release/91a07ae5-2790-3af8-b91e-1b1b2d272bd1,titulo;duracion_seg,Grabación 63dd7ef6-6d6e-44d5-a4d9-190e49223077; duración de su primer lanzamiento en la demo.
+cancion,90,https://en.wikipedia.org/w/index.php?title=Eight_Days_a_Week&oldid=1379399321,compositores;productores;generos,
+cancion,91,https://musicbrainz.org/release/91a07ae5-2790-3af8-b91e-1b1b2d272bd1,titulo;duracion_seg,Grabación b8759150-f1a1-4619-9c4b-0d74af33782d; duración de su primer lanzamiento en la demo.
+cancion,91,https://en.wikipedia.org/w/index.php?title=Ticket_to_Ride_(song)&oldid=1381475606,compositores;productores;generos,
+cancion,92,https://musicbrainz.org/release/91a07ae5-2790-3af8-b91e-1b1b2d272bd1,titulo;duracion_seg,Grabación 4416d38e-0f68-4c75-93b9-c1a793fccb49; duración de su primer lanzamiento en la demo.
+cancion,92,https://en.wikipedia.org/w/index.php?title=Help!_(song)&oldid=1378676258,compositores;productores;generos,
+cancion,93,https://musicbrainz.org/release/91a07ae5-2790-3af8-b91e-1b1b2d272bd1,titulo;duracion_seg,Grabación c05194a3-f6f0-4f52-b78a-13fb5580bc0f; duración de su primer lanzamiento en la demo.
+cancion,93,https://en.wikipedia.org/w/index.php?title=Yesterday_(song)&oldid=1383200281,compositores;productores;generos,
+cancion,94,https://musicbrainz.org/release/91a07ae5-2790-3af8-b91e-1b1b2d272bd1,titulo;duracion_seg,Grabación 70bd5ba7-321d-4caa-925a-ee0c5b6ba895; duración de su primer lanzamiento en la demo.
+cancion,94,https://en.wikipedia.org/w/index.php?title=Day_Tripper&oldid=1381515473,compositores;productores;generos,
+cancion,95,https://musicbrainz.org/release/91a07ae5-2790-3af8-b91e-1b1b2d272bd1,titulo;duracion_seg,Grabación e432f23f-4fad-4780-ba3d-9b33240dfd10; duración de su primer lanzamiento en la demo.
+cancion,95,https://en.wikipedia.org/w/index.php?title=We_Can_Work_It_Out&oldid=1383215845,compositores;productores;generos,
+cancion,96,https://musicbrainz.org/release/91a07ae5-2790-3af8-b91e-1b1b2d272bd1,titulo;duracion_seg,Grabación f28b465d-7adb-479d-a363-0c49368e59d3; duración de su primer lanzamiento en la demo.
+cancion,96,https://en.wikipedia.org/w/index.php?title=Paperback_Writer&oldid=1378672640,compositores;productores;generos,
+cancion,97,https://musicbrainz.org/release/91a07ae5-2790-3af8-b91e-1b1b2d272bd1,titulo;duracion_seg,Grabación b2181aae-5cba-496c-bb0c-b4cc0109ebf8; duración de su primer lanzamiento en la demo.
+cancion,97,https://en.wikipedia.org/w/index.php?title=Yellow_Submarine_(song)&oldid=1379315024,compositores;productores;generos,
+cancion,98,https://musicbrainz.org/release/91a07ae5-2790-3af8-b91e-1b1b2d272bd1,titulo;duracion_seg,Grabación 424c10aa-a857-4dc6-872e-2a8fb0b707f3; duración de su primer lanzamiento en la demo.
+cancion,98,https://en.wikipedia.org/w/index.php?title=Eleanor_Rigby&oldid=1381079213,compositores;productores;generos,
+cancion,99,https://musicbrainz.org/release/91a07ae5-2790-3af8-b91e-1b1b2d272bd1,titulo;duracion_seg,Grabación e8137501-c9bd-41ed-a74b-3babc18dec23; duración de su primer lanzamiento en la demo.
+cancion,99,https://en.wikipedia.org/w/index.php?title=Penny_Lane&oldid=1382957414,compositores;productores;generos,
+cancion,100,https://musicbrainz.org/release/91a07ae5-2790-3af8-b91e-1b1b2d272bd1,titulo;duracion_seg,Grabación 5098d0a8-d3c3-424e-9367-1f2610724410; duración de su primer lanzamiento en la demo.
+cancion,100,https://en.wikipedia.org/w/index.php?title=All_You_Need_Is_Love&oldid=1380384546,compositores;productores;generos,
+cancion,101,https://musicbrainz.org/release/91a07ae5-2790-3af8-b91e-1b1b2d272bd1,titulo;duracion_seg,Grabación 8f76f968-0691-4556-a908-85956b4f4fe4; duración de su primer lanzamiento en la demo.
+cancion,101,"https://en.wikipedia.org/w/index.php?title=Hello,_Goodbye&oldid=1376537086",compositores;productores;generos,
+cancion,102,https://musicbrainz.org/release/91a07ae5-2790-3af8-b91e-1b1b2d272bd1,titulo;duracion_seg,Grabación 3f5bdf50-dea7-428d-917f-3b212f15ade6; duración de su primer lanzamiento en la demo.
+cancion,102,https://en.wikipedia.org/w/index.php?title=Lady_Madonna&oldid=1371096588,compositores;productores;generos,
+cancion,103,https://musicbrainz.org/release/91a07ae5-2790-3af8-b91e-1b1b2d272bd1,titulo;duracion_seg,Grabación 0acc282b-c4db-44b2-a6ae-3c037fa3255a; duración de su primer lanzamiento en la demo.
+cancion,103,https://en.wikipedia.org/w/index.php?title=Hey_Jude&oldid=1382951354,compositores;productores;generos,
+cancion,7,https://en.wikipedia.org/w/index.php?title=Get_Back&oldid=1378537766,reutilizacion,"1 incluye la versión del single (misma grabación, remasterizada); MusicBrainz la registra con otro id de grabación."
+cancion,104,https://musicbrainz.org/release/91a07ae5-2790-3af8-b91e-1b1b2d272bd1,titulo;duracion_seg,Grabación 02690387-dbd9-4d24-bbf5-1d2d7ca103ac; duración de su primer lanzamiento en la demo.
+cancion,104,https://en.wikipedia.org/w/index.php?title=The_Ballad_of_John_and_Yoko&oldid=1381988748,compositores;productores;generos,
+cancion,105,https://musicbrainz.org/release/91a07ae5-2790-3af8-b91e-1b1b2d272bd1,titulo;duracion_seg,Grabación c3ab18e7-e17a-4064-a352-834b67513f33; duración de su primer lanzamiento en la demo.
+cancion,105,https://en.wikipedia.org/w/index.php?title=Let_It_Be_(song)&oldid=1382954344,compositores;productores;generos,
+genero,1,https://es.wikipedia.org/wiki/Rock,nombre,Árbol aprobado en el roadmap; nombre según Wikipedia en español.
+genero,2,https://es.wikipedia.org/wiki/Rock_and_roll,nombre,Árbol aprobado en el roadmap; nombre según Wikipedia en español.
+genero,3,https://es.wikipedia.org/wiki/Pop_rock,nombre,Árbol aprobado en el roadmap; nombre según Wikipedia en español.
+genero,4,https://es.wikipedia.org/wiki/Rock_psicodélico,nombre,Árbol aprobado en el roadmap; nombre según Wikipedia en español.
+genero,5,https://es.wikipedia.org/wiki/Folk_rock,nombre,Árbol aprobado en el roadmap; nombre según Wikipedia en español.
+genero,6,https://es.wikipedia.org/wiki/Roots_rock,nombre,Árbol aprobado en el roadmap; nombre según Wikipedia en español.
+genero,7,https://es.wikipedia.org/wiki/Heartland_rock,nombre,Árbol aprobado en el roadmap; nombre según Wikipedia en español.
+genero,8,https://es.wikipedia.org/wiki/Hard_rock,nombre,Árbol aprobado en el roadmap; nombre según Wikipedia en español.
+genero,9,https://es.wikipedia.org/wiki/Heavy_metal,nombre,Árbol aprobado en el roadmap; nombre según Wikipedia en español.
+genero,10,https://es.wikipedia.org/wiki/Art_rock,nombre,Árbol aprobado en el roadmap; nombre según Wikipedia en español.
+genero,11,https://es.wikipedia.org/wiki/Rock_experimental,nombre,Árbol aprobado en el roadmap; nombre según Wikipedia en español.
+genero,12,https://es.wikipedia.org/wiki/Rock_progresivo,nombre,Árbol aprobado en el roadmap; nombre según Wikipedia en español.
+genero,13,https://es.wikipedia.org/wiki/Rock_sinfónico,nombre,Árbol aprobado en el roadmap; nombre según Wikipedia en español.
+genero,14,https://es.wikipedia.org/wiki/Metal_progresivo,nombre,Árbol aprobado en el roadmap; nombre según Wikipedia en español.
+genero,15,https://es.wikipedia.org/wiki/Pop,nombre,Árbol aprobado en el roadmap; nombre según Wikipedia en español.
+genero,16,https://es.wikipedia.org/wiki/Pop_psicodélico,nombre,Árbol aprobado en el roadmap; nombre según Wikipedia en español.
+genero,17,https://es.wikipedia.org/wiki/Pop_barroco,nombre,Árbol aprobado en el roadmap; nombre según Wikipedia en español.
+genero,18,https://es.wikipedia.org/wiki/New_wave,nombre,Árbol aprobado en el roadmap; nombre según Wikipedia en español.
+sello,1,https://en.wikipedia.org/w/index.php?title=Warner_Music_Group&oldid=1382046658,pais_id;anio_fundacion,
+sello,2,https://en.wikipedia.org/w/index.php?title=Parlophone&oldid=1382057480,anio_fundacion;sello_padre_id,Padre actual: Warner Music Group (2013–presente). La fuente no indica país.
+sello,3,https://en.wikipedia.org/w/index.php?title=Apple_Records&oldid=1381622045,pais_id;anio_fundacion,Su empresa matriz (Apple Corps) no es un sello y no se registra.
+sello,4,https://musicbrainz.org/release/d4ae122c-ada6-39a8-9f1a-77c991b15acb,nombre,Sello que figura en MusicBrainz para Traveling Wilburys Vol. 1; sin más datos en las fuentes.
+persona,1,https://en.wikipedia.org/w/index.php?title=John_Lennon&oldid=1383377989,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,
+persona,2,https://en.wikipedia.org/w/index.php?title=Paul_McCartney&oldid=1382240112,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,
+persona,3,https://en.wikipedia.org/w/index.php?title=George_Harrison&oldid=1381514547,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,La fuente no da un nombre de nacimiento distinto.
+persona,4,https://en.wikipedia.org/w/index.php?title=Ringo_Starr&oldid=1383303804,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,
+persona,5,https://en.wikipedia.org/w/index.php?title=Pete_Best&oldid=1382240110,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,"Nació en Madrás, India británica."
+persona,6,https://en.wikipedia.org/w/index.php?title=Stuart_Sutcliffe&oldid=1382460036,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,
+persona,7,https://en.wikipedia.org/w/index.php?title=Billy_Preston&oldid=1380274106,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,
+persona,8,https://en.wikipedia.org/w/index.php?title=Yoko_Ono&oldid=1383056285,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,La fuente no da un nombre de nacimiento distinto.
+persona,9,https://en.wikipedia.org/w/index.php?title=Linda_McCartney&oldid=1382293258,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,
+persona,10,https://en.wikipedia.org/w/index.php?title=Denny_Laine&oldid=1379364361,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,"Nació en Tyseley, Birmingham (algunas fuentes discrepan; se usa el infobox)."
+persona,11,https://en.wikipedia.org/w/index.php?title=Denny_Seiwell&oldid=1350867034,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,La fuente no da un nombre de nacimiento distinto.
+persona,12,https://en.wikipedia.org/w/index.php?title=Henry_McCullough&oldid=1376308143,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,
+persona,13,https://en.wikipedia.org/w/index.php?title=Jimmy_McCulloch&oldid=1381834937,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,
+persona,14,https://en.wikipedia.org/w/index.php?title=Geoff_Britton&oldid=1383331332,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,"Nació en Lewisham, Londres."
+persona,15,https://en.wikipedia.org/w/index.php?title=Joe_English_(musician)&oldid=1367701864,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,"La fuente no da un nombre de nacimiento distinto. Rochester, Nueva York."
+persona,16,https://en.wikipedia.org/w/index.php?title=Laurence_Juber&oldid=1356368528,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,"Nació en Stepney, Londres."
+persona,17,https://en.wikipedia.org/w/index.php?title=Steve_Holley&oldid=1370990029,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,
+persona,18,https://en.wikipedia.org/w/index.php?title=Bob_Dylan&oldid=1383414264,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,
+persona,19,https://en.wikipedia.org/w/index.php?title=Jeff_Lynne&oldid=1376500133,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,
+persona,20,https://en.wikipedia.org/w/index.php?title=Roy_Orbison&oldid=1378438890,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,"Vernon, Texas."
+persona,21,https://en.wikipedia.org/w/index.php?title=Tom_Petty&oldid=1381630083,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,
+persona,22,https://en.wikipedia.org/w/index.php?title=George_Martin&oldid=1382030203,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,
+persona,23,https://en.wikipedia.org/w/index.php?title=Phil_Spector&oldid=1383212266,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,
+persona,24,https://en.wikipedia.org/w/index.php?title=Glyn_Johns&oldid=1375275654,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,
+persona,25,https://en.wikipedia.org/w/index.php?title=Richard_Perry&oldid=1352394158,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,
+persona,26,https://en.wikipedia.org/w/index.php?title=Le_Studio&oldid=1383076114,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,La fuente no da fecha ni lugar de nacimiento.
+persona,27,https://en.wikipedia.org/w/index.php?title=Randy_Newman&oldid=1380839732,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,
+persona,28,https://en.wikipedia.org/w/index.php?title=Robert_B._Sherman&oldid=1376867515,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,
+persona,29,https://en.wikipedia.org/w/index.php?title=Richard_M._Sherman&oldid=1376867585,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,
+persona,30,https://en.wikipedia.org/w/index.php?title=Vini_Poncia&oldid=1285065479,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,
+persona,31,https://en.wikipedia.org/w/index.php?title=Mal_Evans&oldid=1372947061,nombre_legal;fecha_nacimiento;fecha_fallecimiento;ciudad_nacimiento_id,
+artista,1,https://en.wikipedia.org/w/index.php?title=The_Beatles&oldid=1383388302,tipo;anio_formacion;anio_disolucion;ciudad_origen_id;generos,Géneros: beat → Pop rock; psychedelia → Rock psicodélico.
+artista,2,https://en.wikipedia.org/w/index.php?title=John_Lennon&oldid=1383377989,tipo;anio_formacion;anio_disolucion;ciudad_origen_id;generos,Géneros: experimental → Rock experimental; skiffle se omite (sin nodo cercano).
+artista,3,https://en.wikipedia.org/w/index.php?title=Paul_McCartney&oldid=1382240112,tipo;anio_formacion;anio_disolucion;ciudad_origen_id;generos,Géneros: classical y electronic se omiten (sin nodo cercano).
+artista,4,https://en.wikipedia.org/w/index.php?title=George_Harrison&oldid=1381514547,tipo;anio_formacion;anio_disolucion;ciudad_origen_id;generos,Géneros: Indian classical se omite (sin nodo cercano).
+artista,5,https://en.wikipedia.org/w/index.php?title=Ringo_Starr&oldid=1383303804,tipo;anio_formacion;anio_disolucion;ciudad_origen_id;generos,Géneros: country se omite (sin nodo cercano).
+artista,6,https://en.wikipedia.org/w/index.php?title=Plastic_Ono_Band&oldid=1369444527,tipo;anio_formacion;anio_disolucion;ciudad_origen_id;generos,Años activos según el infobox: 1968–1974 y 2009–2015. Géneros: conceptual art y avant-garde se omiten.
+artista,7,https://en.wikipedia.org/w/index.php?title=Paul_McCartney_and_Wings&oldid=1382239986,tipo;anio_formacion;anio_disolucion;ciudad_origen_id;generos,Géneros: soft rock → Pop rock.
+artista,8,https://en.wikipedia.org/w/index.php?title=Traveling_Wilburys&oldid=1380650648,tipo;anio_formacion;anio_disolucion;ciudad_origen_id;generos,
+artista,9,https://en.wikipedia.org/w/index.php?title=Billy_Preston&oldid=1380274106,tipo;anio_formacion;anio_disolucion;ciudad_origen_id;generos,"Géneros: R&B, soul, funk y gospel se omiten (sin nodo cercano)."
+membresia,1,https://en.wikipedia.org/w/index.php?title=The_Beatles&oldid=1383388302,rol;fecha_inicio;fecha_fin,"Inicio aproximado: solo año (banda formada en 1960). Fin: 1970-04-10, anuncio público de la separación por Paul McCartney (convención del roadmap; ver README). Lennon comunicó su salida en privado en septiembre de 1969."
+membresia,2,https://en.wikipedia.org/w/index.php?title=The_Beatles&oldid=1383388302,rol;fecha_inicio;fecha_fin,"Inicio aproximado: solo año. Fin: 1970-04-10, anuncio público de la separación por Paul McCartney (convención del roadmap; ver README)."
+membresia,3,https://en.wikipedia.org/w/index.php?title=The_Beatles&oldid=1383388302,rol;fecha_inicio;fecha_fin,"Inicio aproximado: solo año. Fin: 1970-04-10, anuncio público de la separación por Paul McCartney (convención del roadmap; ver README)."
+membresia,4,https://en.wikipedia.org/w/index.php?title=Ringo_Starr&oldid=1383303804,rol;fecha_inicio;fecha_fin,"Primera actuación como integrante: 18 de agosto de 1962. Fin: 1970-04-10, anuncio público de la separación por Paul McCartney (convención del roadmap; ver README)."
+membresia,5,https://en.wikipedia.org/w/index.php?title=Stuart_Sutcliffe&oldid=1382460036,rol;fecha_inicio;fecha_fin,"Entró en enero de 1960 (The Beatles) y dejó el grupo en julio de 1961: fechas aproximadas, solo mes."
+membresia,6,https://en.wikipedia.org/w/index.php?title=Pete_Best&oldid=1382240110,rol;fecha_inicio;fecha_fin,Invitado a unirse el 12 de agosto de 1960; reemplazado el 16 de agosto de 1962.
+membresia,7,https://en.wikipedia.org/w/index.php?title=John_Lennon&oldid=1383377989,rol;fecha_inicio;fecha_fin,Artista solista: la persona es el artista.
+membresia,8,https://en.wikipedia.org/w/index.php?title=Paul_McCartney&oldid=1382240112,rol;fecha_inicio;fecha_fin,Artista solista: la persona es el artista.
+membresia,9,https://en.wikipedia.org/w/index.php?title=George_Harrison&oldid=1381514547,rol;fecha_inicio;fecha_fin,Artista solista: la persona es el artista.
+membresia,10,https://en.wikipedia.org/w/index.php?title=Ringo_Starr&oldid=1383303804,rol;fecha_inicio;fecha_fin,Artista solista: la persona es el artista.
+membresia,11,https://en.wikipedia.org/w/index.php?title=Billy_Preston&oldid=1380274106,rol;fecha_inicio;fecha_fin,Artista solista: la persona es el artista.
+membresia,12,https://en.wikipedia.org/w/index.php?title=List_of_Plastic_Ono_Band_line-ups&oldid=1368563029,rol;fecha_inicio;fecha_fin,Integrante permanente de la etapa original (1969–1974). Fechas aproximadas: solo año.
+membresia,13,https://en.wikipedia.org/w/index.php?title=List_of_Plastic_Ono_Band_line-ups&oldid=1368563029,rol;fecha_inicio;fecha_fin,Integrante permanente de la etapa original (1969–1974). Fechas aproximadas: solo año. Los músicos invitados de cada formación no se registran como integrantes.
+membresia,14,https://en.wikipedia.org/w/index.php?title=Paul_McCartney_and_Wings&oldid=1382239986,rol;fecha_inicio;fecha_fin,Fechas aproximadas: solo año (1971–1981).
+membresia,15,https://en.wikipedia.org/w/index.php?title=Paul_McCartney_and_Wings&oldid=1382239986,rol;fecha_inicio;fecha_fin,Fechas aproximadas: solo año (1971–1981).
+membresia,16,https://en.wikipedia.org/w/index.php?title=Paul_McCartney_and_Wings&oldid=1382239986,rol;fecha_inicio;fecha_fin,Fechas aproximadas: solo año (1971–1981).
+membresia,17,https://en.wikipedia.org/w/index.php?title=Paul_McCartney_and_Wings&oldid=1382239986,rol;fecha_inicio;fecha_fin,Fechas aproximadas: solo año (1971–1973).
+membresia,18,https://en.wikipedia.org/w/index.php?title=Paul_McCartney_and_Wings&oldid=1382239986,rol;fecha_inicio;fecha_fin,Fechas aproximadas: solo año (1972–1973).
+membresia,19,https://en.wikipedia.org/w/index.php?title=Paul_McCartney_and_Wings&oldid=1382239986,rol;fecha_inicio;fecha_fin,Fechas aproximadas: solo año (1974–1977).
+membresia,20,https://en.wikipedia.org/w/index.php?title=Paul_McCartney_and_Wings&oldid=1382239986,rol;fecha_inicio;fecha_fin,Fechas aproximadas: solo año (1974–1975).
+membresia,21,https://en.wikipedia.org/w/index.php?title=Paul_McCartney_and_Wings&oldid=1382239986,rol;fecha_inicio;fecha_fin,Fechas aproximadas: solo año (1975–1977).
+membresia,22,https://en.wikipedia.org/w/index.php?title=Paul_McCartney_and_Wings&oldid=1382239986,rol;fecha_inicio;fecha_fin,Fechas aproximadas: solo año (1978–1981).
+membresia,23,https://en.wikipedia.org/w/index.php?title=Paul_McCartney_and_Wings&oldid=1382239986,rol;fecha_inicio;fecha_fin,Fechas aproximadas: solo año (1978–1981).
+membresia,24,https://en.wikipedia.org/w/index.php?title=Traveling_Wilburys&oldid=1380650648,rol;fecha_inicio;fecha_fin,Banda formada en abril de 1988 (aprox.: solo mes); activa hasta 1991 (aprox.: solo año). Roles: personal de Vol. 1.
+membresia,25,https://en.wikipedia.org/w/index.php?title=Traveling_Wilburys&oldid=1380650648,rol;fecha_inicio;fecha_fin,Formada en abril de 1988; activa hasta 1991 (fechas aproximadas). Roles: personal de Vol. 1.
+membresia,26,https://en.wikipedia.org/w/index.php?title=Traveling_Wilburys&oldid=1380650648,rol;fecha_inicio;fecha_fin,Formada en abril de 1988 (aprox.). Fin: fallecimiento de Orbison.
+membresia,27,https://en.wikipedia.org/w/index.php?title=Traveling_Wilburys&oldid=1380650648,rol;fecha_inicio;fecha_fin,Formada en abril de 1988; activa hasta 1991 (fechas aproximadas). Roles: personal de Vol. 1.
+membresia,28,https://en.wikipedia.org/w/index.php?title=Traveling_Wilburys&oldid=1380650648,rol;fecha_inicio;fecha_fin,Formada en abril de 1988; activa hasta 1991 (fechas aproximadas). Roles: personal de Vol. 1.
+membresia,1,https://en.wikipedia.org/w/index.php?title=Paul_McCartney&oldid=1382240112,fecha_fin,Anuncio de la separación: 10 de abril de 1970.

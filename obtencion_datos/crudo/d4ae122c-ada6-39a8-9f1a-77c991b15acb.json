@@ -1,0 +1,558 @@
+{
+  "label-info": [
+    {
+      "label": {
+        "id": "3b62043e-6c5e-42bd-886f-0452d1f04033",
+        "type": "Original Production",
+        "disambiguation": "",
+        "label-code": null,
+        "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+        "name": "Wilbury Records",
+        "sort-name": "Wilbury Records"
+      },
+      "catalog-number": "W2 25796"
+    }
+  ],
+  "status": "Official",
+  "artist-credit": [
+    {
+      "name": "Traveling Wilburys",
+      "joinphrase": "",
+      "artist": {
+        "id": "4387b544-e4d0-4f18-b74e-d4a5ba1582ab",
+        "country": "US",
+        "disambiguation": "",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Traveling Wilburys",
+        "name": "Traveling Wilburys"
+      }
+    }
+  ],
+  "id": "d4ae122c-ada6-39a8-9f1a-77c991b15acb",
+  "date": "1988-10-18",
+  "title": "Traveling Wilburys, Vol. 1",
+  "country": "US",
+  "media": [
+    {
+      "track-offset": 0,
+      "id": "d161874f-4228-3f52-992d-6aafd38e204b",
+      "title": "",
+      "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+      "position": 1,
+      "tracks": [
+        {
+          "position": 1,
+          "id": "41f59f65-1abd-3d9c-81e5-e78f60434b39",
+          "title": "Handle With Care",
+          "length": 199200,
+          "recording": {
+            "title": "Handle With Care",
+            "id": "ea5d3599-55ef-49d4-9244-731f1f9a3ec2",
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "artist": {
+                  "type": "Group",
+                  "disambiguation": "",
+                  "id": "4387b544-e4d0-4f18-b74e-d4a5ba1582ab",
+                  "country": "US",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "name": "Traveling Wilburys",
+                  "sort-name": "Traveling Wilburys"
+                },
+                "joinphrase": "",
+                "name": "Traveling Wilburys"
+              }
+            ],
+            "first-release-date": "1988-10-18",
+            "video": false,
+            "length": 199200
+          },
+          "number": "1",
+          "artist-credit": [
+            {
+              "name": "Traveling Wilburys",
+              "artist": {
+                "name": "Traveling Wilburys",
+                "sort-name": "Traveling Wilburys",
+                "disambiguation": "",
+                "type": "Group",
+                "id": "4387b544-e4d0-4f18-b74e-d4a5ba1582ab",
+                "country": "US",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+              },
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "id": "04129ce3-05da-39d3-b423-e8963759d37e",
+          "title": "Dirty World",
+          "position": 2,
+          "length": 209493,
+          "artist-credit": [
+            {
+              "artist": {
+                "name": "Traveling Wilburys",
+                "sort-name": "Traveling Wilburys",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "disambiguation": "",
+                "type": "Group",
+                "country": "US",
+                "id": "4387b544-e4d0-4f18-b74e-d4a5ba1582ab"
+              },
+              "joinphrase": "",
+              "name": "Traveling Wilburys"
+            }
+          ],
+          "recording": {
+            "disambiguation": "",
+            "title": "Dirty World",
+            "id": "be427811-0d77-4558-9ce7-58c95944515b",
+            "video": false,
+            "length": 209493,
+            "artist-credit": [
+              {
+                "artist": {
+                  "sort-name": "Traveling Wilburys",
+                  "name": "Traveling Wilburys",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "id": "4387b544-e4d0-4f18-b74e-d4a5ba1582ab",
+                  "country": "US",
+                  "type": "Group",
+                  "disambiguation": ""
+                },
+                "joinphrase": "",
+                "name": "Traveling Wilburys"
+              }
+            ],
+            "first-release-date": "1988-10-18"
+          },
+          "number": "2"
+        },
+        {
+          "artist-credit": [
+            {
+              "artist": {
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "disambiguation": "",
+                "type": "Group",
+                "country": "US",
+                "id": "4387b544-e4d0-4f18-b74e-d4a5ba1582ab",
+                "name": "Traveling Wilburys",
+                "sort-name": "Traveling Wilburys"
+              },
+              "joinphrase": "",
+              "name": "Traveling Wilburys"
+            }
+          ],
+          "recording": {
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "artist": {
+                  "name": "Traveling Wilburys",
+                  "sort-name": "Traveling Wilburys",
+                  "disambiguation": "",
+                  "type": "Group",
+                  "country": "US",
+                  "id": "4387b544-e4d0-4f18-b74e-d4a5ba1582ab",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+                },
+                "name": "Traveling Wilburys"
+              }
+            ],
+            "first-release-date": "1988-10-18",
+            "video": false,
+            "length": 179200,
+            "title": "Rattled",
+            "id": "ad5619a5-b7bd-4a08-b4a9-5d4ca940d69e",
+            "disambiguation": ""
+          },
+          "number": "3",
+          "title": "Rattled",
+          "id": "a723eb49-d00a-383f-be9c-9cec02e24c2e",
+          "position": 3,
+          "length": 179200
+        },
+        {
+          "title": "Last Night",
+          "id": "4e626247-be9a-3c70-86fe-625de0314e62",
+          "position": 4,
+          "length": 231400,
+          "artist-credit": [
+            {
+              "name": "Traveling Wilburys",
+              "joinphrase": "",
+              "artist": {
+                "type": "Group",
+                "disambiguation": "",
+                "id": "4387b544-e4d0-4f18-b74e-d4a5ba1582ab",
+                "country": "US",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "sort-name": "Traveling Wilburys",
+                "name": "Traveling Wilburys"
+              }
+            }
+          ],
+          "recording": {
+            "length": 231240,
+            "video": false,
+            "first-release-date": "1988-10-18",
+            "artist-credit": [
+              {
+                "name": "Traveling Wilburys",
+                "joinphrase": "",
+                "artist": {
+                  "name": "Traveling Wilburys",
+                  "sort-name": "Traveling Wilburys",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "disambiguation": "",
+                  "type": "Group",
+                  "id": "4387b544-e4d0-4f18-b74e-d4a5ba1582ab",
+                  "country": "US"
+                }
+              }
+            ],
+            "disambiguation": "",
+            "id": "e69cdec4-8920-4131-91fc-0b85f5bb6218",
+            "title": "Last Night"
+          },
+          "number": "4"
+        },
+        {
+          "length": 205040,
+          "id": "eb75cef1-5dfe-304d-8697-00b4121a1e2b",
+          "title": "Not Alone Any More",
+          "position": 5,
+          "artist-credit": [
+            {
+              "name": "Traveling Wilburys",
+              "artist": {
+                "sort-name": "Traveling Wilburys",
+                "name": "Traveling Wilburys",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "country": "US",
+                "id": "4387b544-e4d0-4f18-b74e-d4a5ba1582ab",
+                "type": "Group",
+                "disambiguation": ""
+              },
+              "joinphrase": ""
+            }
+          ],
+          "recording": {
+            "first-release-date": "1988-10-18",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "artist": {
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "country": "US",
+                  "id": "4387b544-e4d0-4f18-b74e-d4a5ba1582ab",
+                  "type": "Group",
+                  "disambiguation": "",
+                  "sort-name": "Traveling Wilburys",
+                  "name": "Traveling Wilburys"
+                },
+                "name": "Traveling Wilburys"
+              }
+            ],
+            "video": false,
+            "length": 205000,
+            "id": "0849bb67-bc39-465b-b76e-a5ec9fdeccb6",
+            "title": "Not Alone Any More",
+            "disambiguation": ""
+          },
+          "number": "5"
+        },
+        {
+          "artist-credit": [
+            {
+              "name": "Traveling Wilburys",
+              "joinphrase": "",
+              "artist": {
+                "sort-name": "Traveling Wilburys",
+                "name": "Traveling Wilburys",
+                "disambiguation": "",
+                "type": "Group",
+                "country": "US",
+                "id": "4387b544-e4d0-4f18-b74e-d4a5ba1582ab",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+              }
+            }
+          ],
+          "number": "6",
+          "recording": {
+            "length": 209533,
+            "video": false,
+            "artist-credit": [
+              {
+                "artist": {
+                  "id": "4387b544-e4d0-4f18-b74e-d4a5ba1582ab",
+                  "country": "US",
+                  "type": "Group",
+                  "disambiguation": "",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "sort-name": "Traveling Wilburys",
+                  "name": "Traveling Wilburys"
+                },
+                "joinphrase": "",
+                "name": "Traveling Wilburys"
+              }
+            ],
+            "first-release-date": "1988-10-18",
+            "disambiguation": "",
+            "title": "Congratulations",
+            "id": "55f298b5-ef1d-4624-9e81-9f0c1ad2484b"
+          },
+          "length": 209533,
+          "id": "719713d8-4909-3598-84b0-4345cf596e87",
+          "title": "Congratulations",
+          "position": 6
+        },
+        {
+          "position": 7,
+          "title": "Heading for the Light",
+          "id": "2c8c232f-0ded-3322-922c-4d117c199813",
+          "length": 216493,
+          "recording": {
+            "length": 216693,
+            "video": false,
+            "first-release-date": "1988-10-18",
+            "artist-credit": [
+              {
+                "artist": {
+                  "sort-name": "Traveling Wilburys",
+                  "name": "Traveling Wilburys",
+                  "id": "4387b544-e4d0-4f18-b74e-d4a5ba1582ab",
+                  "country": "US",
+                  "disambiguation": "",
+                  "type": "Group",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+                },
+                "joinphrase": "",
+                "name": "Traveling Wilburys"
+              }
+            ],
+            "disambiguation": "",
+            "id": "6c25563c-a4d4-4a06-82d5-e620bc6e9ac1",
+            "title": "Heading for the Light"
+          },
+          "number": "7",
+          "artist-credit": [
+            {
+              "artist": {
+                "name": "Traveling Wilburys",
+                "sort-name": "Traveling Wilburys",
+                "type": "Group",
+                "disambiguation": "",
+                "id": "4387b544-e4d0-4f18-b74e-d4a5ba1582ab",
+                "country": "US",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+              },
+              "joinphrase": "",
+              "name": "Traveling Wilburys"
+            }
+          ]
+        },
+        {
+          "title": "Margarita",
+          "id": "c98e03d0-efcf-3020-bd0d-58d9988d71c8",
+          "position": 8,
+          "length": 196306,
+          "artist-credit": [
+            {
+              "name": "Traveling Wilburys",
+              "joinphrase": "",
+              "artist": {
+                "sort-name": "Traveling Wilburys",
+                "name": "Traveling Wilburys",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "disambiguation": "",
+                "type": "Group",
+                "country": "US",
+                "id": "4387b544-e4d0-4f18-b74e-d4a5ba1582ab"
+              }
+            }
+          ],
+          "recording": {
+            "artist-credit": [
+              {
+                "artist": {
+                  "disambiguation": "",
+                  "type": "Group",
+                  "country": "US",
+                  "id": "4387b544-e4d0-4f18-b74e-d4a5ba1582ab",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "name": "Traveling Wilburys",
+                  "sort-name": "Traveling Wilburys"
+                },
+                "joinphrase": "",
+                "name": "Traveling Wilburys"
+              }
+            ],
+            "first-release-date": "1988-10-18",
+            "length": 196306,
+            "video": false,
+            "title": "Margarita",
+            "id": "f73f38a7-fa20-4ec7-80da-22ee96edf8cd",
+            "disambiguation": ""
+          },
+          "number": "8"
+        },
+        {
+          "length": 327626,
+          "position": 9,
+          "title": "Tweeter and the Monkey Man",
+          "id": "555226c0-89c2-3182-a690-cfeb3931d5ab",
+          "recording": {
+            "artist-credit": [
+              {
+                "name": "Traveling Wilburys",
+                "artist": {
+                  "sort-name": "Traveling Wilburys",
+                  "name": "Traveling Wilburys",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "type": "Group",
+                  "disambiguation": "",
+                  "country": "US",
+                  "id": "4387b544-e4d0-4f18-b74e-d4a5ba1582ab"
+                },
+                "joinphrase": ""
+              }
+            ],
+            "first-release-date": "1988-10-18",
+            "video": false,
+            "length": 327716,
+            "title": "Tweeter and the Monkey Man",
+            "id": "1f786ce6-bdab-470c-8f2e-df67e12cb4f6",
+            "disambiguation": ""
+          },
+          "number": "9",
+          "artist-credit": [
+            {
+              "name": "Traveling Wilburys",
+              "joinphrase": "",
+              "artist": {
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "type": "Group",
+                "disambiguation": "",
+                "id": "4387b544-e4d0-4f18-b74e-d4a5ba1582ab",
+                "country": "US",
+                "name": "Traveling Wilburys",
+                "sort-name": "Traveling Wilburys"
+              }
+            }
+          ]
+        },
+        {
+          "artist-credit": [
+            {
+              "name": "Traveling Wilburys",
+              "artist": {
+                "name": "Traveling Wilburys",
+                "sort-name": "Traveling Wilburys",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "country": "US",
+                "id": "4387b544-e4d0-4f18-b74e-d4a5ba1582ab",
+                "disambiguation": "",
+                "type": "Group"
+              },
+              "joinphrase": ""
+            }
+          ],
+          "recording": {
+            "title": "End of the Line",
+            "id": "c6bb675e-f161-4b07-ae5c-a85d02796215",
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "artist": {
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "id": "4387b544-e4d0-4f18-b74e-d4a5ba1582ab",
+                  "country": "US",
+                  "type": "Group",
+                  "disambiguation": "",
+                  "name": "Traveling Wilburys",
+                  "sort-name": "Traveling Wilburys"
+                },
+                "name": "Traveling Wilburys"
+              }
+            ],
+            "first-release-date": "1988-10-18",
+            "length": 207000,
+            "video": false
+          },
+          "number": "10",
+          "length": 206066,
+          "title": "End of the Line",
+          "id": "761b1aa0-77f4-3b53-a580-bd0a5469be83",
+          "position": 10
+        }
+      ],
+      "track-count": 10,
+      "format": "CD"
+    }
+  ],
+  "barcode": "075992579629",
+  "release-group": {
+    "disambiguation": "",
+    "primary-type": "Album",
+    "id": "7bfb7661-aef3-3f43-b625-542726cb078d",
+    "title": "Traveling Wilburys, Vol. 1",
+    "secondary-type-ids": [],
+    "secondary-types": [],
+    "first-release-date": "1988-10-18",
+    "artist-credit": [
+      {
+        "joinphrase": "",
+        "artist": {
+          "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+          "disambiguation": "",
+          "type": "Group",
+          "id": "4387b544-e4d0-4f18-b74e-d4a5ba1582ab",
+          "country": "US",
+          "sort-name": "Traveling Wilburys",
+          "name": "Traveling Wilburys"
+        },
+        "name": "Traveling Wilburys"
+      }
+    ],
+    "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+  },
+  "text-representation": {
+    "language": "eng",
+    "script": "Latn"
+  },
+  "quality": "normal",
+  "asin": "B000008LOV",
+  "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+  "packaging": "Jewel Case",
+  "disambiguation": "",
+  "cover-art-archive": {
+    "count": 1,
+    "artwork": true,
+    "darkened": false,
+    "front": true,
+    "back": false
+  },
+  "release-events": [
+    {
+      "area": {
+        "type-id": null,
+        "type": null,
+        "disambiguation": "",
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "sort-name": "United States",
+        "name": "United States",
+        "iso-3166-1-codes": [
+          "US"
+        ]
+      },
+      "date": "1988-10-18"
+    }
+  ],
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe"
+}

@@ -1,0 +1,32 @@
+persona_id,nombre_legal,nombre_conocido,fecha_nacimiento,fecha_fallecimiento,ciudad_nacimiento_id
+1,John Winston Lennon,John Lennon,1940-10-09,1980-12-08,1
+2,James Paul McCartney,Paul McCartney,1942-06-18,,1
+3,George Harrison,George Harrison,1943-02-25,2001-11-29,1
+4,Richard Starkey,Ringo Starr,1940-07-07,,1
+5,Randolph Peter Best,Pete Best,1941-11-24,,3
+6,Stuart Fergusson Victor Sutcliffe,Stuart Sutcliffe,1940-06-23,1962-04-10,2
+7,William Everett Preston,Billy Preston,1946-09-02,2006-06-06,4
+8,Yoko Ono,Yoko Ono,1933-02-18,,5
+9,Linda Louise Eastman,Linda McCartney,1941-09-24,1998-04-17,6
+10,Brian Frederick Hines,Denny Laine,1944-10-29,2023-12-05,7
+11,Denny Seiwell,Denny Seiwell,1943-07-10,,8
+12,Henry Campbell Liken McCullough,Henry McCullough,1943-07-21,2016-06-14,9
+13,James McCulloch,Jimmy McCulloch,1953-06-04,1979-09-27,10
+14,Geoffrey Britton,Geoff Britton,1943-08-01,,11
+15,Joe English,Joe English,1949-07-02,,12
+16,Laurence Juber,Laurence Juber,1952-11-12,,11
+17,Stephen Jeffrey Holley,Steve Holley,1953-08-24,,11
+18,Robert Allen Zimmerman,Bob Dylan,1941-05-24,,13
+19,Jeffrey Lynne,Jeff Lynne,1947-12-30,,7
+20,Roy Kelton Orbison,Roy Orbison,1936-04-23,1988-12-06,14
+21,Thomas Earl Petty,Tom Petty,1950-10-20,2017-10-02,15
+22,George Henry Martin,George Martin,1926-01-03,2016-03-08,11
+23,Harvey Philip Spector,Phil Spector,1939-12-26,2021-01-16,16
+24,Glyn Thomas Johns,Glyn Johns,1942-02-15,,19
+25,Richard Van Perry,Richard Perry,1942-06-18,2024-12-24,16
+26,André Perry,André Perry,,,
+27,Randall Stuart Newman,Randy Newman,1943-11-28,,17
+28,Robert Bernard Sherman,Robert B. Sherman,1925-12-19,2012-03-06,16
+29,Richard Morton Sherman,Richard M. Sherman,1928-06-12,2024-05-25,16
+30,Vincent Poncia Jr.,Vini Poncia,1942-04-29,,18
+31,Malcolm Frederick Evans,Mal Evans,1935-05-27,1976-01-04,1

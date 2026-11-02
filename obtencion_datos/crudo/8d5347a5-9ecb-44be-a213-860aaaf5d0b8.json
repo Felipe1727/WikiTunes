@@ -1,0 +1,648 @@
+{
+  "disambiguation": "",
+  "cover-art-archive": {
+    "darkened": false,
+    "front": true,
+    "back": true,
+    "count": 96,
+    "artwork": true
+  },
+  "packaging": null,
+  "release-events": [
+    {
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "disambiguation": "",
+        "type": null,
+        "type-id": null,
+        "iso-3166-1-codes": [
+          "GB"
+        ],
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom"
+      },
+      "date": "1970-05-08"
+    }
+  ],
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "asin": null,
+  "packaging-id": null,
+  "media": [
+    {
+      "track-offset": 0,
+      "position": 1,
+      "title": "",
+      "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+      "id": "95f0ec73-02eb-35d8-b5cb-ea595940b686",
+      "format": "12\" Vinyl",
+      "track-count": 12,
+      "tracks": [
+        {
+          "recording": {
+            "first-release-date": "1970-05-08",
+            "artist-credit": [
+              {
+                "artist": {
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "country": "GB",
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "type": "Group",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "sort-name": "Beatles, The",
+                  "name": "The Beatles"
+                },
+                "joinphrase": "",
+                "name": "The Beatles"
+              }
+            ],
+            "video": false,
+            "length": 216000,
+            "id": "4576371a-a0d6-4dbf-b3b7-8f1e1b58ec43",
+            "title": "Two of Us",
+            "disambiguation": "original studio mix"
+          },
+          "number": "A1",
+          "artist-credit": [
+            {
+              "artist": {
+                "sort-name": "Beatles, The",
+                "name": "The Beatles",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "type": "Group",
+                "disambiguation": "UK rock band, “The Fab Four”",
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "country": "GB"
+              },
+              "joinphrase": "",
+              "name": "The Beatles"
+            }
+          ],
+          "length": 216000,
+          "position": 1,
+          "id": "e2861b55-b477-385b-b308-200593a11416",
+          "title": "Two of Us"
+        },
+        {
+          "id": "3fce4ab3-bf1a-3b8b-8cc0-ee66912e897c",
+          "title": "Dig a Pony",
+          "position": 2,
+          "length": 234000,
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "name": "The Beatles",
+                "sort-name": "Beatles, The",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "country": "GB",
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "type": "Group",
+                "disambiguation": "UK rock band, “The Fab Four”"
+              },
+              "name": "The Beatles"
+            }
+          ],
+          "recording": {
+            "video": false,
+            "length": 234400,
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "artist": {
+                  "sort-name": "Beatles, The",
+                  "name": "The Beatles",
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "country": "GB",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "type": "Group",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+                },
+                "name": "The Beatles"
+              }
+            ],
+            "first-release-date": "1970-05-08",
+            "disambiguation": "original studio mix",
+            "title": "Dig a Pony",
+            "id": "4131e00c-13c5-4f92-a2ff-73c2edaf420c"
+          },
+          "number": "A2"
+        },
+        {
+          "position": 3,
+          "title": "Across the Universe",
+          "id": "c863b88b-a089-38b7-bd03-e57cabf8d26c",
+          "length": 227000,
+          "number": "A3",
+          "recording": {
+            "disambiguation": "original studio mix",
+            "id": "90aa777f-5c69-4ed6-8ef9-6a576423e6a2",
+            "title": "Across the Universe",
+            "length": 227000,
+            "video": false,
+            "first-release-date": "1970-05-08",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "artist": {
+                  "sort-name": "Beatles, The",
+                  "name": "The Beatles",
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "country": "GB",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "type": "Group",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+                },
+                "name": "The Beatles"
+              }
+            ]
+          },
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "country": "GB",
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "type": "Group",
+                "disambiguation": "UK rock band, “The Fab Four”",
+                "sort-name": "Beatles, The",
+                "name": "The Beatles"
+              },
+              "name": "The Beatles"
+            }
+          ]
+        },
+        {
+          "number": "A4",
+          "recording": {
+            "title": "I Me Mine",
+            "id": "b62ccbb7-bd69-468f-a95f-2f6a4604cc26",
+            "disambiguation": "original studio mix",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "artist": {
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "type": "Group",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "country": "GB",
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "sort-name": "Beatles, The",
+                  "name": "The Beatles"
+                },
+                "name": "The Beatles"
+              }
+            ],
+            "first-release-date": "1970-05-08",
+            "length": 146000,
+            "video": false
+          },
+          "artist-credit": [
+            {
+              "name": "The Beatles",
+              "joinphrase": "",
+              "artist": {
+                "name": "The Beatles",
+                "sort-name": "Beatles, The",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "disambiguation": "UK rock band, “The Fab Four”",
+                "type": "Group",
+                "country": "GB",
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d"
+              }
+            }
+          ],
+          "position": 4,
+          "title": "I Me Mine",
+          "id": "ab469c77-1d33-357c-9465-c8a29543841e",
+          "length": 146000
+        },
+        {
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "name": "The Beatles",
+                "sort-name": "Beatles, The",
+                "disambiguation": "UK rock band, “The Fab Four”",
+                "type": "Group",
+                "country": "GB",
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+              },
+              "name": "The Beatles"
+            }
+          ],
+          "recording": {
+            "video": false,
+            "length": 50000,
+            "first-release-date": "1970-05-08",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "artist": {
+                  "name": "The Beatles",
+                  "sort-name": "Beatles, The",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "type": "Group",
+                  "country": "GB",
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d"
+                },
+                "name": "The Beatles"
+              }
+            ],
+            "disambiguation": "original studio mix",
+            "id": "906836d9-b363-405d-a52c-e780a6cb5f24",
+            "title": "Dig It"
+          },
+          "number": "A5",
+          "length": 50000,
+          "title": "Dig It",
+          "id": "99ebf109-2485-3dc7-a2c7-2efaab196153",
+          "position": 5
+        },
+        {
+          "recording": {
+            "title": "Let It Be",
+            "id": "0cdc9b5b-b16b-4ff1-9f16-5b4ba76f1c17",
+            "disambiguation": "original studio album mix",
+            "artist-credit": [
+              {
+                "name": "The Beatles",
+                "artist": {
+                  "country": "GB",
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "type": "Group",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "sort-name": "Beatles, The",
+                  "name": "The Beatles"
+                },
+                "joinphrase": ""
+              }
+            ],
+            "first-release-date": "1970-03-06",
+            "video": false,
+            "length": 243000
+          },
+          "number": "A6",
+          "artist-credit": [
+            {
+              "name": "The Beatles",
+              "joinphrase": "",
+              "artist": {
+                "type": "Group",
+                "disambiguation": "UK rock band, “The Fab Four”",
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "country": "GB",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "name": "The Beatles",
+                "sort-name": "Beatles, The"
+              }
+            }
+          ],
+          "position": 6,
+          "id": "fdd2ad71-49b3-30b7-8ea2-4f2707ce57b5",
+          "title": "Let It Be",
+          "length": 243000
+        },
+        {
+          "title": "Maggie Mae",
+          "id": "384ea8e0-ed9b-3283-9229-4b40420ce22f",
+          "position": 7,
+          "length": 40000,
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "disambiguation": "UK rock band, “The Fab Four”",
+                "type": "Group",
+                "country": "GB",
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "name": "The Beatles",
+                "sort-name": "Beatles, The"
+              },
+              "name": "The Beatles"
+            }
+          ],
+          "recording": {
+            "disambiguation": "original studio mix",
+            "id": "342a7655-887f-4e3f-95a1-d45f8e2df166",
+            "title": "Maggie Mae",
+            "video": false,
+            "length": 40000,
+            "first-release-date": "1970-05-08",
+            "artist-credit": [
+              {
+                "name": "The Beatles",
+                "joinphrase": "",
+                "artist": {
+                  "name": "The Beatles",
+                  "sort-name": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "type": "Group",
+                  "country": "GB",
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+                }
+              }
+            ]
+          },
+          "number": "A7"
+        },
+        {
+          "artist-credit": [
+            {
+              "artist": {
+                "name": "The Beatles",
+                "sort-name": "Beatles, The",
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "country": "GB",
+                "disambiguation": "UK rock band, “The Fab Four”",
+                "type": "Group",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+              },
+              "joinphrase": "",
+              "name": "The Beatles"
+            }
+          ],
+          "recording": {
+            "first-release-date": "1970-05-08",
+            "artist-credit": [
+              {
+                "artist": {
+                  "sort-name": "Beatles, The",
+                  "name": "The Beatles",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "type": "Group",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "country": "GB"
+                },
+                "joinphrase": "",
+                "name": "The Beatles"
+              }
+            ],
+            "video": false,
+            "length": 217066,
+            "id": "30b9d279-e8aa-499d-aa89-130fba800696",
+            "title": "I’ve Got a Feeling",
+            "disambiguation": "original studio mix"
+          },
+          "number": "B1",
+          "length": 217000,
+          "title": "I’ve Got a Feeling",
+          "id": "e65701e6-3567-32cf-90ee-2b1d68e29a6e",
+          "position": 8
+        },
+        {
+          "length": 173000,
+          "id": "2b15d889-e60a-3022-bea4-6bf24be7a195",
+          "title": "One After 909",
+          "position": 9,
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "country": "GB",
+                "disambiguation": "UK rock band, “The Fab Four”",
+                "type": "Group",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "sort-name": "Beatles, The",
+                "name": "The Beatles"
+              },
+              "name": "The Beatles"
+            }
+          ],
+          "number": "B2",
+          "recording": {
+            "disambiguation": "original studio mix",
+            "title": "One After 909",
+            "id": "e1f05d06-06ad-4f22-9c81-c94c0f44fe41",
+            "length": 173000,
+            "video": false,
+            "artist-credit": [
+              {
+                "name": "The Beatles",
+                "artist": {
+                  "sort-name": "Beatles, The",
+                  "name": "The Beatles",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "type": "Group",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "country": "GB",
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d"
+                },
+                "joinphrase": ""
+              }
+            ],
+            "first-release-date": "1970-05-08"
+          }
+        },
+        {
+          "position": 10,
+          "id": "8f2320cf-edaa-3177-9247-9a73599e41ca",
+          "title": "The Long and Winding Road",
+          "length": 218000,
+          "recording": {
+            "length": 218000,
+            "video": false,
+            "first-release-date": "1970-05-08",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "artist": {
+                  "name": "The Beatles",
+                  "sort-name": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "type": "Group",
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "country": "GB",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+                },
+                "name": "The Beatles"
+              }
+            ],
+            "disambiguation": "original studio mix",
+            "id": "2df46dec-b453-4444-91b9-5fa5d7515fd9",
+            "title": "The Long and Winding Road"
+          },
+          "number": "B3",
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "sort-name": "Beatles, The",
+                "name": "The Beatles",
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "country": "GB",
+                "disambiguation": "UK rock band, “The Fab Four”",
+                "type": "Group",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+              },
+              "name": "The Beatles"
+            }
+          ]
+        },
+        {
+          "artist-credit": [
+            {
+              "name": "The Beatles",
+              "artist": {
+                "sort-name": "Beatles, The",
+                "name": "The Beatles",
+                "type": "Group",
+                "disambiguation": "UK rock band, “The Fab Four”",
+                "country": "GB",
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+              },
+              "joinphrase": ""
+            }
+          ],
+          "recording": {
+            "id": "e3f3b880-32e7-401c-8879-9e477b1a6d73",
+            "title": "For You Blue",
+            "disambiguation": "original studio mix",
+            "first-release-date": "1970-05-08",
+            "artist-credit": [
+              {
+                "name": "The Beatles",
+                "artist": {
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "country": "GB",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "type": "Group",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "name": "The Beatles",
+                  "sort-name": "Beatles, The"
+                },
+                "joinphrase": ""
+              }
+            ],
+            "video": false,
+            "length": 152000
+          },
+          "number": "B4",
+          "length": 152000,
+          "id": "bb3d363b-9378-39d1-a948-06d031114d72",
+          "title": "For You Blue",
+          "position": 11
+        },
+        {
+          "position": 12,
+          "title": "Get Back",
+          "id": "a633af0d-1709-3a9a-aaa3-56524c6320c6",
+          "length": 187000,
+          "recording": {
+            "length": 187000,
+            "video": false,
+            "first-release-date": "1970-05-08",
+            "artist-credit": [
+              {
+                "name": "The Beatles",
+                "artist": {
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "country": "GB",
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "type": "Group",
+                  "sort-name": "Beatles, The",
+                  "name": "The Beatles"
+                },
+                "joinphrase": ""
+              }
+            ],
+            "disambiguation": "original stereo studio album mix",
+            "id": "a52c2553-1670-4262-9193-6ecd6713741a",
+            "title": "Get Back"
+          },
+          "number": "B5",
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "type": "Group",
+                "disambiguation": "UK rock band, “The Fab Four”",
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "country": "GB",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "sort-name": "Beatles, The",
+                "name": "The Beatles"
+              },
+              "name": "The Beatles"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "barcode": null,
+  "date": "1970-05-08",
+  "id": "8d5347a5-9ecb-44be-a213-860aaaf5d0b8",
+  "title": "Let It Be",
+  "country": "GB",
+  "text-representation": {
+    "language": "eng",
+    "script": "Latn"
+  },
+  "quality": "normal",
+  "release-group": {
+    "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+    "artist-credit": [
+      {
+        "artist": {
+          "sort-name": "Beatles, The",
+          "name": "The Beatles",
+          "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+          "country": "GB",
+          "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+          "type": "Group",
+          "disambiguation": "UK rock band, “The Fab Four”"
+        },
+        "joinphrase": "",
+        "name": "The Beatles"
+      }
+    ],
+    "first-release-date": "1970-05-08",
+    "secondary-types": [],
+    "secondary-type-ids": [],
+    "title": "Let It Be",
+    "id": "bff544a7-56e0-3ed6-9e0f-3b676cca9111",
+    "primary-type": "Album",
+    "disambiguation": ""
+  },
+  "label-info": [
+    {
+      "catalog-number": "PXS 1",
+      "label": {
+        "name": "Apple Records",
+        "sort-name": "Apple Records",
+        "label-code": 1074,
+        "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+        "type": "Original Production",
+        "disambiguation": "",
+        "id": "cf7fc5cf-e011-4ef4-b511-cd0188537910"
+      }
+    }
+  ],
+  "artist-credit": [
+    {
+      "joinphrase": "",
+      "artist": {
+        "sort-name": "Beatles, The",
+        "name": "The Beatles",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+        "country": "GB",
+        "type": "Group",
+        "disambiguation": "UK rock band, “The Fab Four”"
+      },
+      "name": "The Beatles"
+    }
+  ],
+  "status": "Official"
+}

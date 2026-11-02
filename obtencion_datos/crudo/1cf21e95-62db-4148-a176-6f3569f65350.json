@@ -1,0 +1,198 @@
+{
+  "status": "Official",
+  "artist-credit": [
+    {
+      "artist": {
+        "sort-name": "McCartney, Paul",
+        "name": "Paul McCartney",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+        "country": "GB",
+        "type": "Person",
+        "disambiguation": "The Beatles"
+      },
+      "joinphrase": "",
+      "name": "Paul McCartney"
+    }
+  ],
+  "label-info": [
+    {
+      "label": {
+        "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+        "label-code": 1074,
+        "id": "cf7fc5cf-e011-4ef4-b511-cd0188537910",
+        "type": "Original Production",
+        "disambiguation": "",
+        "sort-name": "Apple Records",
+        "name": "Apple Records"
+      },
+      "catalog-number": "R 5889"
+    }
+  ],
+  "quality": "normal",
+  "text-representation": {
+    "script": "Latn",
+    "language": "eng"
+  },
+  "release-group": {
+    "secondary-types": [],
+    "secondary-type-ids": [],
+    "title": "Another Day / Oh Woman, Oh Why",
+    "primary-type": "Single",
+    "id": "a9b6cb37-3168-3f58-91e9-52de3fb5476f",
+    "disambiguation": "",
+    "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+    "artist-credit": [
+      {
+        "joinphrase": "",
+        "artist": {
+          "name": "Paul McCartney",
+          "sort-name": "McCartney, Paul",
+          "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+          "country": "GB",
+          "type": "Person",
+          "disambiguation": "The Beatles",
+          "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+        },
+        "name": "Paul McCartney"
+      }
+    ],
+    "first-release-date": "1971-02-19"
+  },
+  "media": [
+    {
+      "track-offset": 0,
+      "position": 1,
+      "title": "",
+      "format-id": "1d5a48e4-e94a-36dc-84e2-0c5f9f880aa7",
+      "id": "0012640f-d61c-3252-95e2-d6878c0a5847",
+      "format": "7\" Vinyl",
+      "track-count": 2,
+      "tracks": [
+        {
+          "position": 1,
+          "title": "Another Day",
+          "id": "2c80a034-1ad4-42c6-b8f0-f0339b5d4ccd",
+          "length": null,
+          "recording": {
+            "first-release-date": "1971-02-19",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "artist": {
+                  "name": "Paul McCartney",
+                  "sort-name": "McCartney, Paul",
+                  "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                  "country": "GB",
+                  "disambiguation": "The Beatles",
+                  "type": "Person",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+                },
+                "name": "Paul McCartney"
+              }
+            ],
+            "video": false,
+            "length": 223000,
+            "id": "21019556-5888-40ff-b75e-5571da2e7a6d",
+            "title": "Another Day",
+            "disambiguation": "original stereo studio mix"
+          },
+          "number": "A",
+          "artist-credit": [
+            {
+              "name": "Paul McCartney",
+              "artist": {
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "country": "GB",
+                "disambiguation": "The Beatles",
+                "type": "Person",
+                "sort-name": "McCartney, Paul",
+                "name": "Paul McCartney"
+              },
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "B",
+          "recording": {
+            "video": false,
+            "length": 275600,
+            "artist-credit": [
+              {
+                "artist": {
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                  "country": "GB",
+                  "disambiguation": "The Beatles",
+                  "type": "Person",
+                  "name": "Paul McCartney",
+                  "sort-name": "McCartney, Paul"
+                },
+                "joinphrase": "",
+                "name": "Paul McCartney"
+              }
+            ],
+            "first-release-date": "1971-02-19",
+            "disambiguation": "original stereo studio mix",
+            "title": "Oh Woman, Oh Why",
+            "id": "02897033-fc2b-42cd-9138-00ebe8e54e8d"
+          },
+          "artist-credit": [
+            {
+              "name": "Paul McCartney",
+              "artist": {
+                "type": "Person",
+                "disambiguation": "The Beatles",
+                "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "country": "GB",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "name": "Paul McCartney",
+                "sort-name": "McCartney, Paul"
+              },
+              "joinphrase": ""
+            }
+          ],
+          "length": null,
+          "position": 2,
+          "id": "6919f270-ae12-41ce-9a3f-778c65061621",
+          "title": "Oh Woman, Oh Why"
+        }
+      ]
+    }
+  ],
+  "barcode": "",
+  "id": "1cf21e95-62db-4148-a176-6f3569f65350",
+  "date": "1971-02-19",
+  "country": "GB",
+  "title": "Another Day / Oh Woman, Oh Why",
+  "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+  "asin": null,
+  "release-events": [
+    {
+      "date": "1971-02-19",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": null,
+        "disambiguation": "",
+        "type-id": null,
+        "iso-3166-1-codes": [
+          "GB"
+        ],
+        "sort-name": "United Kingdom",
+        "name": "United Kingdom"
+      }
+    }
+  ],
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "disambiguation": "",
+  "cover-art-archive": {
+    "artwork": true,
+    "count": 4,
+    "front": true,
+    "back": false,
+    "darkened": false
+  },
+  "packaging": "Cardboard/Paper Sleeve"
+}

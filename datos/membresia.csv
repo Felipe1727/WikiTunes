@@ -1,0 +1,29 @@
+membresia_id,persona_id,artista_id,rol,fecha_inicio,fecha_fin
+1,1,1,"Voz, guitarras, teclados, armónica, bajo",1960-01-01,1970-04-10
+2,2,1,"Voz, bajo, guitarras, teclados, batería",1960-01-01,1970-04-10
+3,3,1,"Guitarras, voz, sitar, teclados, bajo",1960-01-01,1970-04-10
+4,4,1,"Batería, percusión, voz",1962-08-18,1970-04-10
+5,6,1,"Bajo, voz",1960-01-01,1961-07-01
+6,5,1,"Batería, voz",1960-08-12,1962-08-16
+7,1,2,Solista,,
+8,2,3,Solista,,
+9,3,4,Solista,,
+10,4,5,Solista,,
+11,7,9,Solista,,
+12,1,6,"Voz, guitarra rítmica, teclados",1969-01-01,1974-01-01
+13,8,6,"Voz, teclados, percusión",1969-01-01,1974-01-01
+14,2,7,"Voz, bajo, guitarras, piano, teclados, batería",1971-01-01,1981-01-01
+15,9,7,"Voz, teclados, piano, percusión",1971-01-01,1981-01-01
+16,10,7,"Voz, guitarras, bajo, piano, armónica",1971-01-01,1981-01-01
+17,11,7,"Batería, percusión, trompeta",1971-01-01,1973-01-01
+18,12,7,"Guitarra, coros, percusión",1972-01-01,1973-01-01
+19,13,7,"Guitarra, voz, bajo",1974-01-01,1977-01-01
+20,14,7,"Batería, percusión",1974-01-01,1975-01-01
+21,15,7,"Batería, percusión, voz",1975-01-01,1977-01-01
+22,16,7,"Guitarra, coros",1978-01-01,1981-01-01
+23,17,7,"Batería, percusión, coros",1978-01-01,1981-01-01
+24,3,8,"Guitarras eléctrica y acústica, guitarra slide, dobro, voz",1988-04-01,1991-01-01
+25,19,8,"Guitarras, bajo, teclados, voz",1988-04-01,1991-01-01
+26,20,8,"Guitarra acústica, voz",1988-04-01,1988-12-06
+27,21,8,"Guitarra acústica, voz",1988-04-01,1991-01-01
+28,18,8,"Guitarra acústica de 12 cuerdas, armónica, voz",1988-04-01,1991-01-01

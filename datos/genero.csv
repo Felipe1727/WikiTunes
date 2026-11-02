@@ -1,0 +1,19 @@
+genero_id,nombre,genero_padre_id
+1,Rock,
+2,Rock and roll,1
+3,Pop rock,1
+4,Rock psicodélico,1
+5,Folk rock,1
+6,Roots rock,1
+7,Heartland rock,6
+8,Hard rock,1
+9,Heavy metal,8
+10,Art rock,1
+11,Rock experimental,10
+12,Rock progresivo,1
+13,Rock sinfónico,12
+14,Metal progresivo,12
+15,Pop,
+16,Pop psicodélico,15
+17,Pop barroco,15
+18,New wave,

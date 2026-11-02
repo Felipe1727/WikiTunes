@@ -1,0 +1,570 @@
+{
+  "packaging": "Cardboard/Paper Sleeve",
+  "country": "GB",
+  "release-events": [
+    {
+      "date": "1971-10-08",
+      "area": {
+        "sort-name": "United Kingdom",
+        "iso-3166-1-codes": [
+          "GB"
+        ],
+        "type": null,
+        "name": "United Kingdom",
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "disambiguation": "",
+        "type-id": null
+      }
+    }
+  ],
+  "title": "Imagine",
+  "cover-art-archive": {
+    "count": 1,
+    "back": false,
+    "front": true,
+    "darkened": false,
+    "artwork": true
+  },
+  "text-representation": {
+    "language": "eng",
+    "script": "Latn"
+  },
+  "release-group": {
+    "secondary-types": [],
+    "disambiguation": "",
+    "artist-credit": [
+      {
+        "name": "John Lennon",
+        "artist": {
+          "sort-name": "Lennon, John",
+          "type": "Person",
+          "name": "John Lennon",
+          "country": "GB",
+          "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+          "disambiguation": "The Beatles",
+          "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+        },
+        "joinphrase": ""
+      }
+    ],
+    "secondary-type-ids": [],
+    "title": "Imagine",
+    "id": "f242f304-0f1f-33a5-81a2-7a965b30e3b5",
+    "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+    "primary-type": "Album",
+    "first-release-date": "1971-09-09"
+  },
+  "status": "Official",
+  "media": [
+    {
+      "position": 1,
+      "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+      "id": "9d35ea47-eaef-36f3-96a9-be707d3fd6f2",
+      "track-count": 10,
+      "track-offset": 0,
+      "format": "12\" Vinyl",
+      "title": "",
+      "tracks": [
+        {
+          "recording": {
+            "title": "Imagine",
+            "video": false,
+            "artist-credit": [
+              {
+                "name": "John Lennon",
+                "artist": {
+                  "sort-name": "Lennon, John",
+                  "type": "Person",
+                  "disambiguation": "The Beatles",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "name": "John Lennon",
+                  "country": "GB",
+                  "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9"
+                },
+                "joinphrase": ""
+              }
+            ],
+            "disambiguation": "original studio mix",
+            "length": 184000,
+            "first-release-date": "1971-09-09",
+            "id": "ec04e3c5-0548-4e73-bfc3-19a26108f302"
+          },
+          "title": "Imagine",
+          "position": 1,
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "disambiguation": "The Beatles",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "name": "John Lennon",
+                "country": "GB",
+                "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "sort-name": "Lennon, John",
+                "type": "Person"
+              },
+              "name": "John Lennon"
+            }
+          ],
+          "length": 182933,
+          "number": "A1",
+          "id": "9b952859-062c-4cd2-bbe2-1e13c3dcb5f0"
+        },
+        {
+          "length": 227906,
+          "number": "A2",
+          "id": "ce7157f8-5f84-4ab4-84a8-062c34132ec0",
+          "artist-credit": [
+            {
+              "artist": {
+                "disambiguation": "The Beatles",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "name": "John Lennon",
+                "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "country": "GB",
+                "sort-name": "Lennon, John",
+                "type": "Person"
+              },
+              "name": "John Lennon",
+              "joinphrase": ""
+            }
+          ],
+          "recording": {
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "John Lennon",
+                "artist": {
+                  "type": "Person",
+                  "sort-name": "Lennon, John",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "disambiguation": "The Beatles",
+                  "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                  "country": "GB",
+                  "name": "John Lennon"
+                }
+              }
+            ],
+            "video": false,
+            "title": "Crippled Inside",
+            "length": 229000,
+            "disambiguation": "original studio mix",
+            "first-release-date": "1971-09-09",
+            "id": "728cff82-8b98-4909-8303-d9ff5e37a246"
+          },
+          "position": 2,
+          "title": "Crippled Inside"
+        },
+        {
+          "position": 3,
+          "title": "Jealous Guy",
+          "recording": {
+            "disambiguation": "original studio mix",
+            "length": 255186,
+            "title": "Jealous Guy",
+            "video": false,
+            "artist-credit": [
+              {
+                "artist": {
+                  "name": "John Lennon",
+                  "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                  "country": "GB",
+                  "disambiguation": "The Beatles",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "sort-name": "Lennon, John",
+                  "type": "Person"
+                },
+                "name": "John Lennon",
+                "joinphrase": ""
+              }
+            ],
+            "id": "ec9d6d9f-cc79-4090-b38b-5f5d25611137",
+            "first-release-date": "1971-09-09"
+          },
+          "artist-credit": [
+            {
+              "name": "John Lennon",
+              "artist": {
+                "sort-name": "Lennon, John",
+                "type": "Person",
+                "disambiguation": "The Beatles",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "name": "John Lennon",
+                "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "country": "GB"
+              },
+              "joinphrase": ""
+            }
+          ],
+          "number": "A3",
+          "id": "40489fe9-c3e2-4dab-b759-bcae551eaab7",
+          "length": 254773
+        },
+        {
+          "length": 146306,
+          "id": "aee8ad7f-9f12-4cfe-be6e-531a4439ae60",
+          "number": "A4",
+          "recording": {
+            "first-release-date": "1971-09-09",
+            "id": "98368867-85df-461a-81c5-cae9c89b2762",
+            "video": false,
+            "artist-credit": [
+              {
+                "name": "John Lennon",
+                "artist": {
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "disambiguation": "The Beatles",
+                  "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                  "country": "GB",
+                  "name": "John Lennon",
+                  "type": "Person",
+                  "sort-name": "Lennon, John"
+                },
+                "joinphrase": ""
+              }
+            ],
+            "title": "It’s So Hard",
+            "length": 148000,
+            "disambiguation": "original studio mix"
+          },
+          "position": 4,
+          "title": "It's So Hard",
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "name": "John Lennon",
+                "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "country": "GB",
+                "disambiguation": "The Beatles",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "sort-name": "Lennon, John",
+                "type": "Person"
+              },
+              "name": "John Lennon"
+            }
+          ]
+        },
+        {
+          "position": 5,
+          "title": "I Don't Wanna Be a Soldier Mama I Don't Wanna Die",
+          "recording": {
+            "disambiguation": "original studio mix",
+            "length": 368000,
+            "title": "I Don’t Wanna Be a Soldier Mama I Don’t Wanna Die",
+            "video": false,
+            "artist-credit": [
+              {
+                "name": "John Lennon",
+                "artist": {
+                  "type": "Person",
+                  "sort-name": "Lennon, John",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "disambiguation": "The Beatles",
+                  "country": "GB",
+                  "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                  "name": "John Lennon"
+                },
+                "joinphrase": ""
+              }
+            ],
+            "id": "13787cd3-214f-4d06-b5b9-78b65c31803b",
+            "first-release-date": "1971-09-09"
+          },
+          "artist-credit": [
+            {
+              "artist": {
+                "name": "John Lennon",
+                "country": "GB",
+                "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "disambiguation": "The Beatles",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "sort-name": "Lennon, John",
+                "type": "Person"
+              },
+              "name": "John Lennon",
+              "joinphrase": ""
+            }
+          ],
+          "number": "A5",
+          "id": "21ce764e-2145-4493-b0e0-b4be36062577",
+          "length": 365840
+        },
+        {
+          "title": "Gimme Some Truth",
+          "position": 6,
+          "recording": {
+            "disambiguation": "original studio mix",
+            "length": 195333,
+            "title": "Gimme Some Truth",
+            "video": false,
+            "artist-credit": [
+              {
+                "name": "John Lennon",
+                "artist": {
+                  "type": "Person",
+                  "sort-name": "Lennon, John",
+                  "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                  "country": "GB",
+                  "name": "John Lennon",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "disambiguation": "The Beatles"
+                },
+                "joinphrase": ""
+              }
+            ],
+            "id": "04913868-2b04-4fa1-a737-bb1383d3ffa3",
+            "first-release-date": "1971-09-09"
+          },
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "disambiguation": "The Beatles",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "name": "John Lennon",
+                "country": "GB",
+                "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "sort-name": "Lennon, John",
+                "type": "Person"
+              },
+              "name": "John Lennon"
+            }
+          ],
+          "id": "ce6972cd-0900-4145-97e1-220225cb1e11",
+          "number": "B1",
+          "length": 195333
+        },
+        {
+          "recording": {
+            "disambiguation": "original studio mix",
+            "length": 166000,
+            "title": "Oh My Love",
+            "artist-credit": [
+              {
+                "name": "John Lennon",
+                "artist": {
+                  "type": "Person",
+                  "sort-name": "Lennon, John",
+                  "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                  "country": "GB",
+                  "name": "John Lennon",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "disambiguation": "The Beatles"
+                },
+                "joinphrase": ""
+              }
+            ],
+            "video": false,
+            "id": "3e3c8753-1e1d-4cbb-89d7-1b96b2403c84",
+            "first-release-date": "1971-09-09"
+          },
+          "position": 7,
+          "title": "Oh My Love",
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "type": "Person",
+                "sort-name": "Lennon, John",
+                "country": "GB",
+                "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "name": "John Lennon",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "disambiguation": "The Beatles"
+              },
+              "name": "John Lennon"
+            }
+          ],
+          "length": 163200,
+          "number": "B2",
+          "id": "216261a0-d8ae-41b0-9adf-b671190917d6"
+        },
+        {
+          "length": 334106,
+          "id": "1899bd2d-c9ad-4e4a-8392-bfe16647cd64",
+          "number": "B3",
+          "recording": {
+            "title": "How Do You Sleep?",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "John Lennon",
+                "artist": {
+                  "type": "Person",
+                  "sort-name": "Lennon, John",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "disambiguation": "The Beatles",
+                  "country": "GB",
+                  "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                  "name": "John Lennon"
+                }
+              }
+            ],
+            "video": false,
+            "disambiguation": "original studio mix",
+            "length": 335573,
+            "first-release-date": "1971-09-09",
+            "id": "fa2c45a0-8746-41f0-804c-b45c0723f1bd"
+          },
+          "title": "How Do You Sleep?",
+          "position": 8,
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "John Lennon",
+              "artist": {
+                "type": "Person",
+                "sort-name": "Lennon, John",
+                "country": "GB",
+                "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "name": "John Lennon",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "disambiguation": "The Beatles"
+              }
+            }
+          ]
+        },
+        {
+          "recording": {
+            "id": "55ca9593-361d-445e-aa09-02f6589d6152",
+            "first-release-date": "1971-09-09",
+            "length": 223866,
+            "disambiguation": "original studio mix",
+            "video": false,
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "artist": {
+                  "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                  "country": "GB",
+                  "name": "John Lennon",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "disambiguation": "The Beatles",
+                  "type": "Person",
+                  "sort-name": "Lennon, John"
+                },
+                "name": "John Lennon"
+              }
+            ],
+            "title": "How?"
+          },
+          "title": "How?",
+          "position": 9,
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "country": "GB",
+                "name": "John Lennon",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "disambiguation": "The Beatles",
+                "type": "Person",
+                "sort-name": "Lennon, John"
+              },
+              "name": "John Lennon"
+            }
+          ],
+          "length": 221400,
+          "id": "ed32ebd3-5470-4b94-a1e9-b0b26e9f579a",
+          "number": "B4"
+        },
+        {
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "name": "John Lennon",
+                "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "country": "GB",
+                "disambiguation": "The Beatles",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "sort-name": "Lennon, John",
+                "type": "Person"
+              },
+              "name": "John Lennon"
+            }
+          ],
+          "recording": {
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "artist": {
+                  "type": "Person",
+                  "sort-name": "Lennon, John",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "disambiguation": "The Beatles",
+                  "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                  "country": "GB",
+                  "name": "John Lennon"
+                },
+                "name": "John Lennon"
+              }
+            ],
+            "video": false,
+            "title": "Oh Yoko!",
+            "length": 257040,
+            "disambiguation": "original studio mix",
+            "first-release-date": "1971-09-09",
+            "id": "a1466f00-a848-4d93-90af-cc9026ff03ec"
+          },
+          "title": "Oh Yoko!",
+          "position": 10,
+          "length": 256986,
+          "id": "fba589a3-bc4e-4401-8f3d-bcd04d411676",
+          "number": "B5"
+        }
+      ]
+    }
+  ],
+  "disambiguation": "The inner sleeve & label titles this release \"Imagine: John Lennon and the Plastic Ono Band (With The Flux Fiddlers*)\"",
+  "barcode": "",
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "artist-credit": [
+    {
+      "joinphrase": "",
+      "artist": {
+        "sort-name": "Lennon, John",
+        "type": "Person",
+        "disambiguation": "The Beatles",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "John Lennon",
+        "country": "GB",
+        "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9"
+      },
+      "name": "John Lennon"
+    }
+  ],
+  "asin": null,
+  "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+  "label-info": [
+    {
+      "catalog-number": "1E 064 ◦ 04914",
+      "label": {
+        "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+        "disambiguation": "",
+        "id": "cf7fc5cf-e011-4ef4-b511-cd0188537910",
+        "name": "Apple Records",
+        "label-code": 1074,
+        "type": "Original Production",
+        "sort-name": "Apple Records"
+      }
+    },
+    {
+      "catalog-number": "PAS 10004",
+      "label": {
+        "label-code": 1074,
+        "sort-name": "Apple Records",
+        "type": "Original Production",
+        "disambiguation": "",
+        "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+        "name": "Apple Records",
+        "id": "cf7fc5cf-e011-4ef4-b511-cd0188537910"
+      }
+    }
+  ],
+  "quality": "normal",
+  "id": "a6083174-371e-4b25-a8bb-269b36d344cd",
+  "date": "1971-10-08"
+}

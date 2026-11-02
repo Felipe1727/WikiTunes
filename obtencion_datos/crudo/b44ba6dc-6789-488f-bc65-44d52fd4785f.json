@@ -1,0 +1,389 @@
+{
+  "disambiguation": "stereo",
+  "barcode": "",
+  "release-group": {
+    "title": "Magical Mystery Tour",
+    "id": "9d445733-9f7d-3653-aed8-8099e5c9d1e8",
+    "secondary-types": [],
+    "first-release-date": "1967-12-08",
+    "secondary-type-ids": [],
+    "disambiguation": "",
+    "primary-type": "EP",
+    "artist-credit": [
+      {
+        "artist": {
+          "sort-name": "Beatles, The",
+          "type": "Group",
+          "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+          "name": "The Beatles",
+          "country": "GB",
+          "disambiguation": "UK rock band, “The Fab Four”",
+          "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+        },
+        "name": "The Beatles",
+        "joinphrase": ""
+      }
+    ],
+    "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf"
+  },
+  "asin": null,
+  "country": "GB",
+  "quality": "normal",
+  "status": "Official",
+  "id": "b44ba6dc-6789-488f-bc65-44d52fd4785f",
+  "label-info": [
+    {
+      "label": {
+        "name": "Parlophone",
+        "disambiguation": "",
+        "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+        "label-code": 299,
+        "type": "Original Production",
+        "sort-name": "Parlophone",
+        "id": "df7d1c7f-ef95-425f-8eef-445b3d7bcbd9"
+      },
+      "catalog-number": "SMMT-1"
+    }
+  ],
+  "text-representation": {
+    "script": "Latn",
+    "language": "eng"
+  },
+  "release-events": [
+    {
+      "date": "1967-12-08",
+      "area": {
+        "name": "United Kingdom",
+        "type-id": null,
+        "iso-3166-1-codes": [
+          "GB"
+        ],
+        "disambiguation": "",
+        "sort-name": "United Kingdom",
+        "type": null,
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+      }
+    }
+  ],
+  "date": "1967-12-08",
+  "packaging-id": "e724a489-a7e8-30a1-a17c-30dfd6831202",
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "artist-credit": [
+    {
+      "joinphrase": "",
+      "name": "The Beatles",
+      "artist": {
+        "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+        "type": "Group",
+        "sort-name": "Beatles, The",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "disambiguation": "UK rock band, “The Fab Four”",
+        "country": "GB",
+        "name": "The Beatles"
+      }
+    }
+  ],
+  "packaging": "Gatefold Cover",
+  "cover-art-archive": {
+    "front": true,
+    "back": true,
+    "count": 36,
+    "darkened": false,
+    "artwork": true
+  },
+  "title": "Magical Mystery Tour",
+  "media": [
+    {
+      "id": "306881f9-aa17-308e-a5a4-4aaa0c833d7f",
+      "tracks": [
+        {
+          "title": "Magical Mystery Tour",
+          "length": 159000,
+          "id": "94f24bf8-08e4-3a14-a60e-7e5b8f342258",
+          "number": "A1",
+          "position": 1,
+          "recording": {
+            "artist-credit": [
+              {
+                "artist": {
+                  "sort-name": "Beatles, The",
+                  "type": "Group",
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "country": "GB",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "disambiguation": "UK rock band, “The Fab Four”"
+                },
+                "name": "The Beatles",
+                "joinphrase": ""
+              }
+            ],
+            "disambiguation": "original stereo studio mix",
+            "first-release-date": "1967-11-27",
+            "length": 171000,
+            "id": "09c89a4b-248c-4f98-ac3e-860f8e95dcd9",
+            "title": "Magical Mystery Tour",
+            "video": false
+          },
+          "artist-credit": [
+            {
+              "artist": {
+                "country": "GB",
+                "name": "The Beatles",
+                "disambiguation": "UK rock band, “The Fab Four”",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "type": "Group",
+                "sort-name": "Beatles, The",
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d"
+              },
+              "name": "The Beatles",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "A2",
+          "id": "1990cdb6-62db-3a13-80d6-440757d4bf82",
+          "length": 143000,
+          "title": "Your Mother Should Know",
+          "position": 2,
+          "artist-credit": [
+            {
+              "artist": {
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "disambiguation": "UK rock band, “The Fab Four”",
+                "name": "The Beatles",
+                "country": "GB",
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "sort-name": "Beatles, The",
+                "type": "Group"
+              },
+              "name": "The Beatles",
+              "joinphrase": ""
+            }
+          ],
+          "recording": {
+            "disambiguation": "original stereo studio mix",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "The Beatles",
+                "artist": {
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "country": "GB",
+                  "name": "The Beatles",
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "type": "Group",
+                  "sort-name": "Beatles, The"
+                }
+              }
+            ],
+            "video": false,
+            "title": "Your Mother Should Know",
+            "length": 149432,
+            "id": "2de2ab27-6fcf-46ec-8cd2-2ef5d51e39e8",
+            "first-release-date": "1967-11-27"
+          }
+        },
+        {
+          "recording": {
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "The Beatles",
+                "artist": {
+                  "type": "Group",
+                  "sort-name": "Beatles, The",
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "country": "GB",
+                  "name": "The Beatles",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+                }
+              }
+            ],
+            "disambiguation": "original stereo studio mix",
+            "first-release-date": "1967-12-08",
+            "title": "I Am the Walrus",
+            "video": false,
+            "length": 276000,
+            "id": "3eb7efbb-8717-4034-a698-109c70798524"
+          },
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "The Beatles",
+              "artist": {
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "sort-name": "Beatles, The",
+                "type": "Group",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "disambiguation": "UK rock band, “The Fab Four”",
+                "name": "The Beatles",
+                "country": "GB"
+              }
+            }
+          ],
+          "length": 268000,
+          "id": "eddd01c0-3482-319d-9d40-7cae9ec2e68b",
+          "number": "B",
+          "title": "I Am the Walrus",
+          "position": 3
+        }
+      ],
+      "title": "",
+      "track-count": 3,
+      "format": "7\" Vinyl",
+      "position": 1,
+      "format-id": "1d5a48e4-e94a-36dc-84e2-0c5f9f880aa7",
+      "track-offset": 0
+    },
+    {
+      "track-offset": 0,
+      "format-id": "1d5a48e4-e94a-36dc-84e2-0c5f9f880aa7",
+      "position": 2,
+      "format": "7\" Vinyl",
+      "track-count": 3,
+      "title": "",
+      "id": "15d28327-5a45-3a48-bedd-df3c2dd70290",
+      "tracks": [
+        {
+          "recording": {
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "The Beatles",
+                "artist": {
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "type": "Group",
+                  "sort-name": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "country": "GB",
+                  "name": "The Beatles"
+                }
+              }
+            ],
+            "disambiguation": "original stereo studio mix",
+            "first-release-date": "1967-11-27",
+            "video": false,
+            "title": "The Fool on the Hill",
+            "id": "9a42a834-e258-4b05-af58-d71da0f84c0b",
+            "length": 180160
+          },
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "The Beatles",
+              "artist": {
+                "disambiguation": "UK rock band, “The Fab Four”",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "name": "The Beatles",
+                "country": "GB",
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "sort-name": "Beatles, The",
+                "type": "Group"
+              }
+            }
+          ],
+          "length": 177000,
+          "number": "C1",
+          "id": "36b1a368-ccf2-3b10-ab4a-c0bc3d7cfe94",
+          "title": "The Fool on the Hill",
+          "position": 1
+        },
+        {
+          "artist-credit": [
+            {
+              "name": "The Beatles",
+              "joinphrase": "",
+              "artist": {
+                "sort-name": "Beatles, The",
+                "type": "Group",
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "name": "The Beatles",
+                "country": "GB",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "disambiguation": "UK rock band, “The Fab Four”"
+              }
+            }
+          ],
+          "recording": {
+            "artist-credit": [
+              {
+                "artist": {
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "type": "Group",
+                  "sort-name": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "country": "GB",
+                  "name": "The Beatles"
+                },
+                "joinphrase": "",
+                "name": "The Beatles"
+              }
+            ],
+            "disambiguation": "",
+            "first-release-date": "1967-12-08",
+            "video": false,
+            "title": "Flying (instrumental)",
+            "length": 116000,
+            "id": "e0276633-e7d0-45ba-9d28-011a5c953154"
+          },
+          "position": 2,
+          "id": "0010d84a-7ee7-384b-886d-f93735404a93",
+          "number": "C2",
+          "length": 116000,
+          "title": "Flying (instrumental)"
+        },
+        {
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "The Beatles",
+              "artist": {
+                "country": "GB",
+                "name": "The Beatles",
+                "disambiguation": "UK rock band, “The Fab Four”",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "type": "Group",
+                "sort-name": "Beatles, The",
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d"
+              }
+            }
+          ],
+          "recording": {
+            "video": false,
+            "title": "Blue Jay Way",
+            "id": "d0248ce8-5db2-4739-ae7e-27f2a0bb9fb2",
+            "length": 236539,
+            "first-release-date": "1967-11-27",
+            "disambiguation": "original stereo studio mix",
+            "artist-credit": [
+              {
+                "artist": {
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "sort-name": "Beatles, The",
+                  "type": "Group",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "name": "The Beatles",
+                  "country": "GB"
+                },
+                "joinphrase": "",
+                "name": "The Beatles"
+              }
+            ]
+          },
+          "id": "0ee58ae5-caf9-306a-bd4c-8695fd9a6c1f",
+          "number": "D",
+          "length": 292000,
+          "title": "Blue Jay Way",
+          "position": 3
+        }
+      ]
+    }
+  ]
+}

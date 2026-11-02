@@ -1,0 +1,250 @@
+{
+  "cover-art-archive": {
+    "front": true,
+    "darkened": false,
+    "back": false,
+    "count": 2,
+    "artwork": true
+  },
+  "id": "70cb7bb7-5454-46c8-a540-2854011138ce",
+  "quality": "normal",
+  "asin": null,
+  "status": "Official",
+  "text-representation": {
+    "language": "eng",
+    "script": "Latn"
+  },
+  "date": "1969-04-11",
+  "country": "GB",
+  "title": "Get Back / Don’t Let Me Down",
+  "barcode": null,
+  "release-group": {
+    "artist-credit": [
+      {
+        "name": "The Beatles",
+        "joinphrase": "",
+        "artist": {
+          "country": "GB",
+          "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+          "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+          "type": "Group",
+          "sort-name": "Beatles, The",
+          "disambiguation": "UK rock band, “The Fab Four”",
+          "name": "The Beatles"
+        }
+      }
+    ],
+    "primary-type": "Single",
+    "first-release-date": "1969-04-11",
+    "secondary-type-ids": [],
+    "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+    "id": "d577cc79-9558-3008-b674-86bd1a09a513",
+    "secondary-types": [],
+    "title": "Get Back / Don’t Let Me Down",
+    "disambiguation": ""
+  },
+  "disambiguation": "",
+  "media": [
+    {
+      "title": "",
+      "track-offset": 0,
+      "id": "66920cc2-9aa9-3680-9fcb-c40dc995e781",
+      "track-count": 2,
+      "format-id": "1d5a48e4-e94a-36dc-84e2-0c5f9f880aa7",
+      "position": 1,
+      "format": "7\" Vinyl",
+      "tracks": [
+        {
+          "title": "Get Back",
+          "length": null,
+          "id": "85cccea2-18f5-3d5c-ac81-99cbe35748c4",
+          "position": 1,
+          "artist-credit": [
+            {
+              "artist": {
+                "country": "GB",
+                "type": "Group",
+                "sort-name": "Beatles, The",
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "disambiguation": "UK rock band, “The Fab Four”",
+                "name": "The Beatles"
+              },
+              "joinphrase": " with ",
+              "name": "The Beatles"
+            },
+            {
+              "joinphrase": "",
+              "name": "Billy Preston",
+              "artist": {
+                "country": "US",
+                "id": "8a7cf497-dc5c-4523-932d-3fcbc9a69d38",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "type": "Person",
+                "sort-name": "Preston, Billy",
+                "name": "Billy Preston",
+                "disambiguation": ""
+              }
+            }
+          ],
+          "number": "A",
+          "recording": {
+            "first-release-date": "1969-04-11",
+            "id": "beaf49d4-c864-4141-9ce0-162e16778d87",
+            "artist-credit": [
+              {
+                "name": "The Beatles",
+                "joinphrase": " with ",
+                "artist": {
+                  "country": "GB",
+                  "type": "Group",
+                  "sort-name": "Beatles, The",
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "name": "The Beatles"
+                }
+              },
+              {
+                "joinphrase": "",
+                "name": "Billy Preston",
+                "artist": {
+                  "country": "US",
+                  "sort-name": "Preston, Billy",
+                  "type": "Person",
+                  "id": "8a7cf497-dc5c-4523-932d-3fcbc9a69d38",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "disambiguation": "",
+                  "name": "Billy Preston"
+                }
+              }
+            ],
+            "video": false,
+            "length": 191000,
+            "disambiguation": "original mono studio mix",
+            "title": "Get Back"
+          }
+        },
+        {
+          "recording": {
+            "title": "Don’t Let Me Down",
+            "disambiguation": "original mono studio mix",
+            "length": 212920,
+            "video": false,
+            "artist-credit": [
+              {
+                "artist": {
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "name": "The Beatles",
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "sort-name": "Beatles, The",
+                  "type": "Group",
+                  "country": "GB"
+                },
+                "name": "The Beatles",
+                "joinphrase": " with "
+              },
+              {
+                "artist": {
+                  "country": "US",
+                  "disambiguation": "",
+                  "name": "Billy Preston",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "id": "8a7cf497-dc5c-4523-932d-3fcbc9a69d38",
+                  "sort-name": "Preston, Billy",
+                  "type": "Person"
+                },
+                "joinphrase": "",
+                "name": "Billy Preston"
+              }
+            ],
+            "id": "76a0136f-d130-4a63-81e9-f7a438a86442",
+            "first-release-date": "1969-04-11"
+          },
+          "number": "B",
+          "artist-credit": [
+            {
+              "artist": {
+                "country": "GB",
+                "disambiguation": "UK rock band, “The Fab Four”",
+                "name": "The Beatles",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "type": "Group",
+                "sort-name": "Beatles, The"
+              },
+              "joinphrase": " with ",
+              "name": "The Beatles"
+            },
+            {
+              "artist": {
+                "name": "Billy Preston",
+                "disambiguation": "",
+                "type": "Person",
+                "sort-name": "Preston, Billy",
+                "id": "8a7cf497-dc5c-4523-932d-3fcbc9a69d38",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "country": "US"
+              },
+              "name": "Billy Preston",
+              "joinphrase": ""
+            }
+          ],
+          "position": 2,
+          "id": "b01f284e-05ab-3f52-a170-b23f1aaf0482",
+          "length": null,
+          "title": "Don’t Let Me Down"
+        }
+      ]
+    }
+  ],
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "release-events": [
+    {
+      "area": {
+        "disambiguation": "",
+        "name": "United Kingdom",
+        "type-id": null,
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "sort-name": "United Kingdom",
+        "type": null,
+        "iso-3166-1-codes": [
+          "GB"
+        ]
+      },
+      "date": "1969-04-11"
+    }
+  ],
+  "label-info": [
+    {
+      "label": {
+        "disambiguation": "",
+        "name": "Apple Records",
+        "id": "cf7fc5cf-e011-4ef4-b511-cd0188537910",
+        "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+        "type": "Original Production",
+        "sort-name": "Apple Records",
+        "label-code": 1074
+      },
+      "catalog-number": "R 5777"
+    }
+  ],
+  "artist-credit": [
+    {
+      "joinphrase": "",
+      "name": "The Beatles",
+      "artist": {
+        "name": "The Beatles",
+        "disambiguation": "UK rock band, “The Fab Four”",
+        "type": "Group",
+        "sort-name": "Beatles, The",
+        "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "country": "GB"
+      }
+    }
+  ],
+  "packaging-id": null,
+  "packaging": null
+}

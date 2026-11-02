@@ -1,0 +1,513 @@
+{
+  "artist-credit": [
+    {
+      "joinphrase": "",
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "disambiguation": "Paul McCartney’s band",
+        "id": "d922d727-240a-4432-9a88-05a7cf9bc403",
+        "country": "GB",
+        "name": "Wings",
+        "type": "Group",
+        "sort-name": "Wings"
+      },
+      "name": "Paul McCartney and Wings"
+    }
+  ],
+  "asin": null,
+  "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+  "label-info": [
+    {
+      "catalog-number": "PAS 10007",
+      "label": {
+        "id": "cf7fc5cf-e011-4ef4-b511-cd0188537910",
+        "name": "Apple Records",
+        "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+        "disambiguation": "",
+        "type": "Original Production",
+        "sort-name": "Apple Records",
+        "label-code": 1074
+      }
+    }
+  ],
+  "status": "Official",
+  "media": [
+    {
+      "position": 1,
+      "id": "fda3b472-f35b-3699-ac47-5fc2a816a2df",
+      "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+      "format": "12\" Vinyl",
+      "track-offset": 0,
+      "track-count": 9,
+      "title": "",
+      "tracks": [
+        {
+          "number": "A1",
+          "id": "354857ee-c7b3-317f-9534-00249e8adc28",
+          "length": 313906,
+          "artist-credit": [
+            {
+              "artist": {
+                "disambiguation": "Paul McCartney’s band",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "name": "Wings",
+                "country": "GB",
+                "id": "d922d727-240a-4432-9a88-05a7cf9bc403",
+                "sort-name": "Wings",
+                "type": "Group"
+              },
+              "name": "Paul McCartney and Wings",
+              "joinphrase": ""
+            }
+          ],
+          "position": 1,
+          "title": "Band on the Run",
+          "recording": {
+            "disambiguation": "original studio mix",
+            "length": 313093,
+            "title": "Band on the Run",
+            "video": false,
+            "artist-credit": [
+              {
+                "name": "Paul McCartney & Wings",
+                "artist": {
+                  "name": "Wings",
+                  "country": "GB",
+                  "id": "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "disambiguation": "Paul McCartney’s band",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "sort-name": "Wings",
+                  "type": "Group"
+                },
+                "joinphrase": ""
+              }
+            ],
+            "id": "db6c7347-34e9-4023-acf4-a1ce6d0f409b",
+            "first-release-date": "1973-11-30"
+          }
+        },
+        {
+          "length": 249160,
+          "id": "04e6d95f-0e37-3b2f-8bda-e4b1e0d9b4d6",
+          "number": "A2",
+          "recording": {
+            "length": 249026,
+            "disambiguation": "original studio mix",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "Paul McCartney & Wings",
+                "artist": {
+                  "disambiguation": "Paul McCartney’s band",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "name": "Wings",
+                  "country": "GB",
+                  "id": "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "sort-name": "Wings",
+                  "type": "Group"
+                }
+              }
+            ],
+            "video": false,
+            "title": "Jet",
+            "id": "32809cb7-a074-4e6d-92d7-ef5625bc530f",
+            "first-release-date": "1973-11-30"
+          },
+          "title": "Jet",
+          "position": 2,
+          "artist-credit": [
+            {
+              "name": "Paul McCartney and Wings",
+              "artist": {
+                "type": "Group",
+                "sort-name": "Wings",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "disambiguation": "Paul McCartney’s band",
+                "country": "GB",
+                "id": "d922d727-240a-4432-9a88-05a7cf9bc403",
+                "name": "Wings"
+              },
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "A3",
+          "id": "1dbf495c-05d9-318f-abf9-dadd2e932fb7",
+          "length": 205266,
+          "title": "Bluebird",
+          "position": 3,
+          "recording": {
+            "id": "ab9f9811-36d8-4845-a10e-1babca4f547a",
+            "first-release-date": "1973-11-30",
+            "disambiguation": "original studio mix",
+            "length": 205266,
+            "title": "Bluebird",
+            "video": false,
+            "artist-credit": [
+              {
+                "name": "Paul McCartney & Wings",
+                "artist": {
+                  "sort-name": "Wings",
+                  "type": "Group",
+                  "disambiguation": "Paul McCartney’s band",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "name": "Wings",
+                  "id": "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "country": "GB"
+                },
+                "joinphrase": ""
+              }
+            ]
+          },
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "Paul McCartney and Wings",
+              "artist": {
+                "sort-name": "Wings",
+                "type": "Group",
+                "name": "Wings",
+                "id": "d922d727-240a-4432-9a88-05a7cf9bc403",
+                "country": "GB",
+                "disambiguation": "Paul McCartney’s band",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+              }
+            }
+          ]
+        },
+        {
+          "id": "b7a88fa2-240c-3566-9688-d130fbe4518f",
+          "number": "A4",
+          "length": 281800,
+          "title": "Mrs Vandebilt",
+          "position": 4,
+          "recording": {
+            "id": "dc4a9d72-4e55-4ad7-8792-5b943770119e",
+            "first-release-date": "1973-11-30",
+            "length": 281773,
+            "disambiguation": "original studio mix",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "Paul McCartney & Wings",
+                "artist": {
+                  "disambiguation": "Paul McCartney’s band",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "name": "Wings",
+                  "country": "GB",
+                  "id": "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "sort-name": "Wings",
+                  "type": "Group"
+                }
+              }
+            ],
+            "video": false,
+            "title": "Mrs Vandebilt"
+          },
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "disambiguation": "Paul McCartney’s band",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "name": "Wings",
+                "id": "d922d727-240a-4432-9a88-05a7cf9bc403",
+                "country": "GB",
+                "sort-name": "Wings",
+                "type": "Group"
+              },
+              "name": "Paul McCartney and Wings"
+            }
+          ]
+        },
+        {
+          "title": "Let Me Roll It",
+          "position": 5,
+          "recording": {
+            "title": "Let Me Roll It",
+            "video": false,
+            "artist-credit": [
+              {
+                "artist": {
+                  "type": "Group",
+                  "sort-name": "Wings",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "disambiguation": "Paul McCartney’s band",
+                  "id": "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "country": "GB",
+                  "name": "Wings"
+                },
+                "name": "Paul McCartney & Wings",
+                "joinphrase": ""
+              }
+            ],
+            "disambiguation": "original studio mix",
+            "length": 290893,
+            "first-release-date": "1973-11-30",
+            "id": "01f610a3-7667-431e-93b4-7632d9f3ef1b"
+          },
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "Paul McCartney and Wings",
+              "artist": {
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "disambiguation": "Paul McCartney’s band",
+                "country": "GB",
+                "id": "d922d727-240a-4432-9a88-05a7cf9bc403",
+                "name": "Wings",
+                "type": "Group",
+                "sort-name": "Wings"
+              }
+            }
+          ],
+          "id": "2678f746-1215-3361-a76d-7bffbe72581f",
+          "number": "A5",
+          "length": 291040
+        },
+        {
+          "position": 6,
+          "title": "Mamunia",
+          "recording": {
+            "disambiguation": "original studio mix",
+            "length": 290960,
+            "title": "Mamunia",
+            "video": false,
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "Paul McCartney & Wings",
+                "artist": {
+                  "type": "Group",
+                  "sort-name": "Wings",
+                  "country": "GB",
+                  "id": "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name": "Wings",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "disambiguation": "Paul McCartney’s band"
+                }
+              }
+            ],
+            "id": "3e47441d-63a7-4863-b26e-ecdf030cefb6",
+            "first-release-date": "1973-11-30"
+          },
+          "artist-credit": [
+            {
+              "artist": {
+                "disambiguation": "Paul McCartney’s band",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "name": "Wings",
+                "id": "d922d727-240a-4432-9a88-05a7cf9bc403",
+                "country": "GB",
+                "sort-name": "Wings",
+                "type": "Group"
+              },
+              "name": "Paul McCartney and Wings",
+              "joinphrase": ""
+            }
+          ],
+          "id": "0f81945d-4450-33f2-a5cb-662ede49f7e4",
+          "number": "B1",
+          "length": 290960
+        },
+        {
+          "id": "348d0438-faf8-3fa2-9d24-5993c1b7a7a3",
+          "number": "B2",
+          "length": 158600,
+          "title": "No Words",
+          "position": 7,
+          "recording": {
+            "id": "80e69805-9bae-447a-befd-af9e0624621b",
+            "first-release-date": "1973-11-30",
+            "length": 156240,
+            "disambiguation": "original studio mix",
+            "video": false,
+            "artist-credit": [
+              {
+                "name": "Paul McCartney & Wings",
+                "artist": {
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "disambiguation": "Paul McCartney’s band",
+                  "country": "GB",
+                  "id": "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name": "Wings",
+                  "type": "Group",
+                  "sort-name": "Wings"
+                },
+                "joinphrase": ""
+              }
+            ],
+            "title": "No Words"
+          },
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "disambiguation": "Paul McCartney’s band",
+                "id": "d922d727-240a-4432-9a88-05a7cf9bc403",
+                "country": "GB",
+                "name": "Wings",
+                "type": "Group",
+                "sort-name": "Wings"
+              },
+              "name": "Paul McCartney and Wings"
+            }
+          ]
+        },
+        {
+          "recording": {
+            "first-release-date": "1973-11-30",
+            "id": "cfca0a63-3b0d-458d-bc35-ea220b6c342d",
+            "title": "Picasso’s Last Words (Drink to Me)",
+            "video": false,
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "artist": {
+                  "disambiguation": "Paul McCartney’s band",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "name": "Wings",
+                  "country": "GB",
+                  "id": "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "sort-name": "Wings",
+                  "type": "Group"
+                },
+                "name": "Paul McCartney & Wings"
+              }
+            ],
+            "disambiguation": "original studio mix",
+            "length": 351000
+          },
+          "position": 8,
+          "title": "Picasso’s Last Words (Drink to Me)",
+          "artist-credit": [
+            {
+              "name": "Paul McCartney and Wings",
+              "artist": {
+                "sort-name": "Wings",
+                "type": "Group",
+                "name": "Wings",
+                "country": "GB",
+                "id": "d922d727-240a-4432-9a88-05a7cf9bc403",
+                "disambiguation": "Paul McCartney’s band",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+              },
+              "joinphrase": ""
+            }
+          ],
+          "length": 351040,
+          "number": "B3",
+          "id": "56823366-9ab0-3a27-950e-be347396ae5e"
+        },
+        {
+          "number": "B4",
+          "id": "1298af5e-db39-3973-b57a-4743ac6e7571",
+          "length": 328893,
+          "artist-credit": [
+            {
+              "name": "Paul McCartney and Wings",
+              "artist": {
+                "type": "Group",
+                "sort-name": "Wings",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "disambiguation": "Paul McCartney’s band",
+                "country": "GB",
+                "id": "d922d727-240a-4432-9a88-05a7cf9bc403",
+                "name": "Wings"
+              },
+              "joinphrase": ""
+            }
+          ],
+          "position": 9,
+          "title": "Nineteen Hundred and Eighty Five",
+          "recording": {
+            "first-release-date": "1973-11-30",
+            "id": "7db57fbb-dbcd-485a-ba31-943764135615",
+            "title": "Nineteen Hundred and Eighty Five",
+            "video": false,
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "Paul McCartney & Wings",
+                "artist": {
+                  "sort-name": "Wings",
+                  "type": "Group",
+                  "name": "Wings",
+                  "id": "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "country": "GB",
+                  "disambiguation": "Paul McCartney’s band",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+                }
+              }
+            ],
+            "disambiguation": "original studio mix",
+            "length": 330000
+          }
+        }
+      ]
+    }
+  ],
+  "disambiguation": "",
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "barcode": "",
+  "date": "1973-12-07",
+  "quality": "normal",
+  "id": "498a6e7a-da0f-4739-94a2-11e5873956d3",
+  "title": "Band on the Run",
+  "packaging": "Cardboard/Paper Sleeve",
+  "country": "GB",
+  "release-events": [
+    {
+      "date": "1973-12-07",
+      "area": {
+        "disambiguation": "",
+        "type-id": null,
+        "name": "United Kingdom",
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "sort-name": "United Kingdom",
+        "iso-3166-1-codes": [
+          "GB"
+        ],
+        "type": null
+      }
+    }
+  ],
+  "release-group": {
+    "secondary-types": [],
+    "disambiguation": "",
+    "artist-credit": [
+      {
+        "artist": {
+          "disambiguation": "Paul McCartney’s band",
+          "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+          "name": "Wings",
+          "id": "d922d727-240a-4432-9a88-05a7cf9bc403",
+          "country": "GB",
+          "sort-name": "Wings",
+          "type": "Group"
+        },
+        "name": "Paul McCartney & Wings",
+        "joinphrase": ""
+      }
+    ],
+    "title": "Band on the Run",
+    "secondary-type-ids": [],
+    "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+    "id": "2b678170-1c4e-3e61-b18c-f889fc1537b3",
+    "primary-type": "Album",
+    "first-release-date": "1973-11-30"
+  },
+  "cover-art-archive": {
+    "back": false,
+    "count": 1,
+    "artwork": true,
+    "darkened": false,
+    "front": true
+  },
+  "text-representation": {
+    "script": "Latn",
+    "language": "eng"
+  }
+}

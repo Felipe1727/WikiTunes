@@ -1,0 +1,1339 @@
+{
+  "text-representation": {
+    "language": "eng",
+    "script": "Latn"
+  },
+  "status": "Official",
+  "asin": "B000050XI9",
+  "date": "2000-11-13",
+  "country": "GB",
+  "cover-art-archive": {
+    "front": true,
+    "darkened": false,
+    "back": true,
+    "count": 3,
+    "artwork": true
+  },
+  "quality": "normal",
+  "id": "91a07ae5-2790-3af8-b91e-1b1b2d272bd1",
+  "release-events": [
+    {
+      "date": "2000-11-13",
+      "area": {
+        "disambiguation": "",
+        "name": "United Kingdom",
+        "type-id": null,
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "sort-name": "United Kingdom",
+        "type": null,
+        "iso-3166-1-codes": [
+          "GB"
+        ]
+      }
+    }
+  ],
+  "artist-credit": [
+    {
+      "joinphrase": "",
+      "name": "The Beatles",
+      "artist": {
+        "country": "GB",
+        "disambiguation": "UK rock band, “The Fab Four”",
+        "name": "The Beatles",
+        "type": "Group",
+        "sort-name": "Beatles, The",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d"
+      }
+    }
+  ],
+  "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+  "label-info": [
+    {
+      "catalog-number": "529 9702",
+      "label": {
+        "label-code": 542,
+        "disambiguation": "EMI Records, or EMI Music only if there is no other imprint",
+        "name": "EMI",
+        "type": "Original Production",
+        "sort-name": "EMI",
+        "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+        "id": "c029628b-6633-439e-bcee-ed02e8a338f7"
+      }
+    },
+    {
+      "label": {
+        "label-code": 1074,
+        "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+        "id": "cf7fc5cf-e011-4ef4-b511-cd0188537910",
+        "type": "Original Production",
+        "sort-name": "Apple Records",
+        "disambiguation": "",
+        "name": "Apple Records"
+      },
+      "catalog-number": "7243 5 299702 2"
+    }
+  ],
+  "packaging": "Jewel Case",
+  "barcode": "724352997022",
+  "title": "1",
+  "disambiguation": "",
+  "media": [
+    {
+      "format": "CD",
+      "tracks": [
+        {
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "The Beatles",
+              "artist": {
+                "country": "GB",
+                "name": "The Beatles",
+                "disambiguation": "UK rock band, “The Fab Four”",
+                "type": "Group",
+                "sort-name": "Beatles, The",
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+              }
+            }
+          ],
+          "recording": {
+            "id": "1f518811-7cf9-4bdc-a656-0958e130f312",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "The Beatles",
+                "artist": {
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "sort-name": "Beatles, The",
+                  "type": "Group",
+                  "name": "The Beatles",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "country": "GB"
+                }
+              }
+            ],
+            "first-release-date": "1963-03-22",
+            "title": "Love Me Do",
+            "length": 141693,
+            "video": false,
+            "disambiguation": "drums: Andy White; original mono studio mix"
+          },
+          "number": "1",
+          "title": "Love Me Do",
+          "length": 140733,
+          "id": "ec7d6ff0-a36a-306b-8c9b-253a936d836c",
+          "position": 1
+        },
+        {
+          "id": "5aad9efa-afd0-3a45-9bd6-6ebf72984d2b",
+          "position": 2,
+          "title": "From Me to You",
+          "length": 116160,
+          "artist-credit": [
+            {
+              "name": "The Beatles",
+              "joinphrase": "",
+              "artist": {
+                "disambiguation": "UK rock band, “The Fab Four”",
+                "name": "The Beatles",
+                "sort-name": "Beatles, The",
+                "type": "Group",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "country": "GB"
+              }
+            }
+          ],
+          "number": "2",
+          "recording": {
+            "title": "From Me to You",
+            "length": 117106,
+            "video": false,
+            "disambiguation": "original mono studio mix",
+            "id": "dc87225b-46bc-4a5d-837f-14e7eb8f2ca2",
+            "artist-credit": [
+              {
+                "artist": {
+                  "country": "GB",
+                  "sort-name": "Beatles, The",
+                  "type": "Group",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "disambiguation": "UK rock band, “The Fab Four”"
+                },
+                "joinphrase": "",
+                "name": "The Beatles"
+              }
+            ],
+            "first-release-date": "1963-04-11"
+          }
+        },
+        {
+          "recording": {
+            "first-release-date": "1963-08-23",
+            "id": "21047249-7b3f-4651-acca-246669c081fd",
+            "artist-credit": [
+              {
+                "artist": {
+                  "country": "GB",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "name": "The Beatles",
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "sort-name": "Beatles, The",
+                  "type": "Group"
+                },
+                "name": "The Beatles",
+                "joinphrase": ""
+              }
+            ],
+            "length": 141333,
+            "video": false,
+            "disambiguation": "original mono studio mix",
+            "title": "She Loves You"
+          },
+          "number": "3",
+          "artist-credit": [
+            {
+              "artist": {
+                "country": "GB",
+                "sort-name": "Beatles, The",
+                "type": "Group",
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "disambiguation": "UK rock band, “The Fab Four”",
+                "name": "The Beatles"
+              },
+              "joinphrase": "",
+              "name": "The Beatles"
+            }
+          ],
+          "position": 3,
+          "id": "86938054-4e8d-39f6-8754-3bf851be9e17",
+          "length": 141173,
+          "title": "She Loves You"
+        },
+        {
+          "artist-credit": [
+            {
+              "name": "The Beatles",
+              "joinphrase": "",
+              "artist": {
+                "disambiguation": "UK rock band, “The Fab Four”",
+                "name": "The Beatles",
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "type": "Group",
+                "sort-name": "Beatles, The",
+                "country": "GB"
+              }
+            }
+          ],
+          "number": "4",
+          "recording": {
+            "title": "I Want to Hold Your Hand",
+            "video": false,
+            "length": 146693,
+            "disambiguation": "1966 stereo mix",
+            "id": "fa811bd6-1886-4768-b09c-b67a05504f64",
+            "artist-credit": [
+              {
+                "artist": {
+                  "country": "GB",
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "type": "Group",
+                  "sort-name": "Beatles, The",
+                  "name": "The Beatles",
+                  "disambiguation": "UK rock band, “The Fab Four”"
+                },
+                "joinphrase": "",
+                "name": "The Beatles"
+              }
+            ],
+            "first-release-date": "1966-12-10"
+          },
+          "title": "I Want to Hold Your Hand",
+          "length": 144960,
+          "id": "6d12ff89-a4a0-3c01-b9a2-b9a27c56c395",
+          "position": 4
+        },
+        {
+          "length": 131573,
+          "title": "Can’t Buy Me Love",
+          "position": 5,
+          "id": "c5f928f3-e799-3534-bc56-5fed0eb19b60",
+          "number": "5",
+          "recording": {
+            "first-release-date": "1993-10-05",
+            "id": "7abb39cc-19d3-4f51-b10c-82186c968179",
+            "artist-credit": [
+              {
+                "artist": {
+                  "name": "The Beatles",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "type": "Group",
+                  "sort-name": "Beatles, The",
+                  "country": "GB"
+                },
+                "joinphrase": "",
+                "name": "The Beatles"
+              }
+            ],
+            "length": 131573,
+            "video": false,
+            "disambiguation": "1993 stereo mix",
+            "title": "Can’t Buy Me Love"
+          },
+          "artist-credit": [
+            {
+              "artist": {
+                "type": "Group",
+                "sort-name": "Beatles, The",
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "name": "The Beatles",
+                "disambiguation": "UK rock band, “The Fab Four”",
+                "country": "GB"
+              },
+              "joinphrase": "",
+              "name": "The Beatles"
+            }
+          ]
+        },
+        {
+          "artist-credit": [
+            {
+              "artist": {
+                "country": "GB",
+                "name": "The Beatles",
+                "disambiguation": "UK rock band, “The Fab Four”",
+                "type": "Group",
+                "sort-name": "Beatles, The",
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+              },
+              "joinphrase": "",
+              "name": "The Beatles"
+            }
+          ],
+          "recording": {
+            "video": false,
+            "length": 153000,
+            "disambiguation": "original stereo studio mix",
+            "title": "A Hard Day’s Night",
+            "first-release-date": "1964-07-10",
+            "id": "c1d63906-f64a-4cd1-9873-9f3a9f98883c",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "The Beatles",
+                "artist": {
+                  "country": "GB",
+                  "name": "The Beatles",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "type": "Group",
+                  "sort-name": "Beatles, The",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d"
+                }
+              }
+            ]
+          },
+          "number": "6",
+          "title": "A Hard Day’s Night",
+          "length": 153426,
+          "id": "4a22e1f1-b169-344b-8fce-9268a1724a60",
+          "position": 6
+        },
+        {
+          "number": "7",
+          "recording": {
+            "artist-credit": [
+              {
+                "artist": {
+                  "country": "GB",
+                  "sort-name": "Beatles, The",
+                  "type": "Group",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "name": "The Beatles"
+                },
+                "name": "The Beatles",
+                "joinphrase": ""
+              }
+            ],
+            "id": "c4676f4b-0557-4fd8-8ad9-29047b6043f3",
+            "first-release-date": "1966-12-10",
+            "title": "I Feel Fine",
+            "disambiguation": "stereo trimmed",
+            "length": 139800,
+            "video": false
+          },
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "The Beatles",
+              "artist": {
+                "disambiguation": "UK rock band, “The Fab Four”",
+                "name": "The Beatles",
+                "sort-name": "Beatles, The",
+                "type": "Group",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "country": "GB"
+              }
+            }
+          ],
+          "position": 7,
+          "id": "f6c2d5cd-879c-321a-9533-bad5a9721b5c",
+          "length": 138333,
+          "title": "I Feel Fine"
+        },
+        {
+          "title": "Eight Days a Week",
+          "length": 164373,
+          "id": "ae5a2f3b-26e3-3a00-9866-0f5aa91562d6",
+          "position": 8,
+          "artist-credit": [
+            {
+              "artist": {
+                "disambiguation": "UK rock band, “The Fab Four”",
+                "name": "The Beatles",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "sort-name": "Beatles, The",
+                "type": "Group",
+                "country": "GB"
+              },
+              "joinphrase": "",
+              "name": "The Beatles"
+            }
+          ],
+          "recording": {
+            "title": "Eight Days a Week",
+            "disambiguation": "original stereo studio mix",
+            "length": 164000,
+            "video": false,
+            "artist-credit": [
+              {
+                "artist": {
+                  "country": "GB",
+                  "type": "Group",
+                  "sort-name": "Beatles, The",
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "name": "The Beatles"
+                },
+                "name": "The Beatles",
+                "joinphrase": ""
+              }
+            ],
+            "id": "63dd7ef6-6d6e-44d5-a4d9-190e49223077",
+            "first-release-date": "1964-12-04"
+          },
+          "number": "8"
+        },
+        {
+          "id": "b9810b01-49e6-33d3-9637-d66a3a539c28",
+          "position": 9,
+          "title": "Ticket to Ride",
+          "length": 190533,
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "The Beatles",
+              "artist": {
+                "type": "Group",
+                "sort-name": "Beatles, The",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "name": "The Beatles",
+                "disambiguation": "UK rock band, “The Fab Four”",
+                "country": "GB"
+              }
+            }
+          ],
+          "number": "9",
+          "recording": {
+            "id": "b8759150-f1a1-4619-9c4b-0d74af33782d",
+            "artist-credit": [
+              {
+                "artist": {
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "name": "The Beatles",
+                  "type": "Group",
+                  "sort-name": "Beatles, The",
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "country": "GB"
+                },
+                "joinphrase": "",
+                "name": "The Beatles"
+              }
+            ],
+            "first-release-date": "1987-04-30",
+            "title": "Ticket to Ride",
+            "length": 190866,
+            "video": false,
+            "disambiguation": "1987 remix"
+          }
+        },
+        {
+          "artist-credit": [
+            {
+              "artist": {
+                "country": "GB",
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "sort-name": "Beatles, The",
+                "type": "Group",
+                "name": "The Beatles",
+                "disambiguation": "UK rock band, “The Fab Four”"
+              },
+              "joinphrase": "",
+              "name": "The Beatles"
+            }
+          ],
+          "number": "10",
+          "recording": {
+            "first-release-date": "1987-04-30",
+            "id": "4416d38e-0f68-4c75-93b9-c1a793fccb49",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "The Beatles",
+                "artist": {
+                  "country": "GB",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "sort-name": "Beatles, The",
+                  "type": "Group",
+                  "name": "The Beatles",
+                  "disambiguation": "UK rock band, “The Fab Four”"
+                }
+              }
+            ],
+            "video": false,
+            "length": 139560,
+            "disambiguation": "1987 remix",
+            "title": "Help!"
+          },
+          "title": "Help!",
+          "length": 138826,
+          "id": "aea18092-18e1-3310-b226-e861afc625e1",
+          "position": 10
+        },
+        {
+          "number": "11",
+          "recording": {
+            "length": 125666,
+            "video": false,
+            "disambiguation": "1987 remix",
+            "title": "Yesterday",
+            "first-release-date": "1987-04-30",
+            "id": "c05194a3-f6f0-4f52-b78a-13fb5580bc0f",
+            "artist-credit": [
+              {
+                "artist": {
+                  "name": "The Beatles",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "sort-name": "Beatles, The",
+                  "type": "Group",
+                  "country": "GB"
+                },
+                "name": "The Beatles",
+                "joinphrase": ""
+              }
+            ]
+          },
+          "artist-credit": [
+            {
+              "artist": {
+                "country": "GB",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "type": "Group",
+                "sort-name": "Beatles, The",
+                "name": "The Beatles",
+                "disambiguation": "UK rock band, “The Fab Four”"
+              },
+              "name": "The Beatles",
+              "joinphrase": ""
+            }
+          ],
+          "position": 11,
+          "id": "3578b19c-13f3-325e-a1d5-970b01cd7310",
+          "length": 125400,
+          "title": "Yesterday"
+        },
+        {
+          "artist-credit": [
+            {
+              "artist": {
+                "country": "GB",
+                "type": "Group",
+                "sort-name": "Beatles, The",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "disambiguation": "UK rock band, “The Fab Four”",
+                "name": "The Beatles"
+              },
+              "joinphrase": "",
+              "name": "The Beatles"
+            }
+          ],
+          "recording": {
+            "first-release-date": "1966-12-10",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "The Beatles",
+                "artist": {
+                  "country": "GB",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "name": "The Beatles",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "type": "Group",
+                  "sort-name": "Beatles, The"
+                }
+              }
+            ],
+            "id": "70bd5ba7-321d-4caa-925a-ee0c5b6ba895",
+            "disambiguation": "1966 stereo remix",
+            "video": false,
+            "length": 169400,
+            "title": "Day Tripper"
+          },
+          "number": "12",
+          "id": "74a15d85-136b-3b6f-a35d-9a3f75d68e6c",
+          "position": 12,
+          "title": "Day Tripper",
+          "length": 168400
+        },
+        {
+          "artist-credit": [
+            {
+              "artist": {
+                "type": "Group",
+                "sort-name": "Beatles, The",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "disambiguation": "UK rock band, “The Fab Four”",
+                "name": "The Beatles",
+                "country": "GB"
+              },
+              "joinphrase": "",
+              "name": "The Beatles"
+            }
+          ],
+          "recording": {
+            "disambiguation": "1966 stereo mix",
+            "video": false,
+            "length": 135440,
+            "title": "We Can Work It Out",
+            "first-release-date": "1966-12-10",
+            "artist-credit": [
+              {
+                "artist": {
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "type": "Group",
+                  "sort-name": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "name": "The Beatles",
+                  "country": "GB"
+                },
+                "name": "The Beatles",
+                "joinphrase": ""
+              }
+            ],
+            "id": "e432f23f-4fad-4780-ba3d-9b33240dfd10"
+          },
+          "number": "13",
+          "id": "fed2d0e1-5555-3764-ab73-3934f05b0a4b",
+          "position": 13,
+          "title": "We Can Work It Out",
+          "length": 135133
+        },
+        {
+          "id": "9d38fe35-38db-324c-a3c7-a6f0a0400a06",
+          "position": 14,
+          "title": "Paperback Writer",
+          "length": 138400,
+          "artist-credit": [
+            {
+              "artist": {
+                "name": "The Beatles",
+                "disambiguation": "UK rock band, “The Fab Four”",
+                "sort-name": "Beatles, The",
+                "type": "Group",
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "country": "GB"
+              },
+              "joinphrase": "",
+              "name": "The Beatles"
+            }
+          ],
+          "number": "14",
+          "recording": {
+            "length": 138720,
+            "video": false,
+            "disambiguation": "original UK stereo studio mix",
+            "title": "Paperback Writer",
+            "first-release-date": "1966-12-10",
+            "id": "f28b465d-7adb-479d-a363-0c49368e59d3",
+            "artist-credit": [
+              {
+                "name": "The Beatles",
+                "joinphrase": "",
+                "artist": {
+                  "sort-name": "Beatles, The",
+                  "type": "Group",
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "name": "The Beatles",
+                  "country": "GB"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "recording": {
+            "first-release-date": "1966-08-05",
+            "id": "b2181aae-5cba-496c-bb0c-b4cc0109ebf8",
+            "artist-credit": [
+              {
+                "artist": {
+                  "country": "GB",
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "sort-name": "Beatles, The",
+                  "type": "Group",
+                  "name": "The Beatles",
+                  "disambiguation": "UK rock band, “The Fab Four”"
+                },
+                "joinphrase": "",
+                "name": "The Beatles"
+              }
+            ],
+            "length": 160000,
+            "video": false,
+            "disambiguation": "original stereo studio mix",
+            "title": "Yellow Submarine"
+          },
+          "number": "15",
+          "artist-credit": [
+            {
+              "artist": {
+                "disambiguation": "UK rock band, “The Fab Four”",
+                "name": "The Beatles",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "sort-name": "Beatles, The",
+                "type": "Group",
+                "country": "GB"
+              },
+              "name": "The Beatles",
+              "joinphrase": ""
+            }
+          ],
+          "position": 15,
+          "id": "0b38b431-bbfb-3402-9341-6f3a08d5e953",
+          "length": 158373,
+          "title": "Yellow Submarine"
+        },
+        {
+          "artist-credit": [
+            {
+              "artist": {
+                "country": "GB",
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "sort-name": "Beatles, The",
+                "type": "Group",
+                "name": "The Beatles",
+                "disambiguation": "UK rock band, “The Fab Four”"
+              },
+              "name": "The Beatles",
+              "joinphrase": ""
+            }
+          ],
+          "recording": {
+            "video": false,
+            "length": 127666,
+            "disambiguation": "original stereo studio mix",
+            "title": "Eleanor Rigby",
+            "first-release-date": "1966-08-05",
+            "id": "424c10aa-a857-4dc6-872e-2a8fb0b707f3",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "The Beatles",
+                "artist": {
+                  "type": "Group",
+                  "sort-name": "Beatles, The",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "country": "GB"
+                }
+              }
+            ]
+          },
+          "number": "16",
+          "title": "Eleanor Rigby",
+          "length": 126826,
+          "id": "ed7f43b2-177e-35c3-9e1f-bdc84782e153",
+          "position": 16
+        },
+        {
+          "position": 17,
+          "id": "0664f8b8-c6fa-39f7-a05a-93132e144a16",
+          "length": 179906,
+          "title": "Penny Lane",
+          "number": "17",
+          "recording": {
+            "title": "Penny Lane",
+            "disambiguation": "1971 stereo remix",
+            "video": false,
+            "length": 181000,
+            "artist-credit": [
+              {
+                "artist": {
+                  "country": "GB",
+                  "name": "The Beatles",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "sort-name": "Beatles, The",
+                  "type": "Group"
+                },
+                "name": "The Beatles",
+                "joinphrase": ""
+              }
+            ],
+            "id": "e8137501-c9bd-41ed-a74b-3babc18dec23",
+            "first-release-date": "1967-05-15"
+          },
+          "artist-credit": [
+            {
+              "artist": {
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "sort-name": "Beatles, The",
+                "type": "Group",
+                "disambiguation": "UK rock band, “The Fab Four”",
+                "name": "The Beatles",
+                "country": "GB"
+              },
+              "joinphrase": "",
+              "name": "The Beatles"
+            }
+          ]
+        },
+        {
+          "number": "18",
+          "recording": {
+            "title": "All You Need Is Love",
+            "length": 229000,
+            "video": false,
+            "disambiguation": "original stereo studio mix",
+            "id": "5098d0a8-d3c3-424e-9367-1f2610724410",
+            "artist-credit": [
+              {
+                "artist": {
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "name": "The Beatles",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "type": "Group",
+                  "sort-name": "Beatles, The",
+                  "country": "GB"
+                },
+                "joinphrase": "",
+                "name": "The Beatles"
+              }
+            ],
+            "first-release-date": "1967-07-17"
+          },
+          "artist-credit": [
+            {
+              "artist": {
+                "country": "GB",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "type": "Group",
+                "sort-name": "Beatles, The",
+                "disambiguation": "UK rock band, “The Fab Four”",
+                "name": "The Beatles"
+              },
+              "name": "The Beatles",
+              "joinphrase": ""
+            }
+          ],
+          "position": 18,
+          "id": "8a3d0f6c-52ad-3b0f-939f-9823e30dd273",
+          "length": 227493,
+          "title": "All You Need Is Love"
+        },
+        {
+          "length": 207133,
+          "title": "Hello, Goodbye",
+          "position": 19,
+          "id": "62be4778-1fb7-3eb1-8775-1c540c2496de",
+          "number": "19",
+          "recording": {
+            "first-release-date": "1967-11-27",
+            "id": "8f76f968-0691-4556-a908-85956b4f4fe4",
+            "artist-credit": [
+              {
+                "artist": {
+                  "name": "The Beatles",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "sort-name": "Beatles, The",
+                  "type": "Group",
+                  "country": "GB"
+                },
+                "name": "The Beatles",
+                "joinphrase": ""
+              }
+            ],
+            "video": false,
+            "length": 209000,
+            "disambiguation": "original stereo studio mix",
+            "title": "Hello, Goodbye"
+          },
+          "artist-credit": [
+            {
+              "artist": {
+                "name": "The Beatles",
+                "disambiguation": "UK rock band, “The Fab Four”",
+                "type": "Group",
+                "sort-name": "Beatles, The",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "country": "GB"
+              },
+              "joinphrase": "",
+              "name": "The Beatles"
+            }
+          ]
+        },
+        {
+          "artist-credit": [
+            {
+              "artist": {
+                "country": "GB",
+                "name": "The Beatles",
+                "disambiguation": "UK rock band, “The Fab Four”",
+                "type": "Group",
+                "sort-name": "Beatles, The",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d"
+              },
+              "joinphrase": "",
+              "name": "The Beatles"
+            }
+          ],
+          "recording": {
+            "video": false,
+            "length": 137666,
+            "disambiguation": "original stereo studio mix",
+            "title": "Lady Madonna",
+            "first-release-date": "1970-02-26",
+            "id": "3f5bdf50-dea7-428d-917f-3b212f15ade6",
+            "artist-credit": [
+              {
+                "name": "The Beatles",
+                "joinphrase": "",
+                "artist": {
+                  "country": "GB",
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "type": "Group",
+                  "sort-name": "Beatles, The",
+                  "name": "The Beatles",
+                  "disambiguation": "UK rock band, “The Fab Four”"
+                }
+              }
+            ]
+          },
+          "number": "20",
+          "id": "88c7daa0-91a4-3dab-b1f9-596ab7aefbf7",
+          "position": 20,
+          "title": "Lady Madonna",
+          "length": 136933
+        },
+        {
+          "artist-credit": [
+            {
+              "artist": {
+                "country": "GB",
+                "sort-name": "Beatles, The",
+                "type": "Group",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "name": "The Beatles",
+                "disambiguation": "UK rock band, “The Fab Four”"
+              },
+              "name": "The Beatles",
+              "joinphrase": ""
+            }
+          ],
+          "recording": {
+            "title": "Hey Jude",
+            "disambiguation": "original stereo studio mix",
+            "video": false,
+            "length": 428293,
+            "artist-credit": [
+              {
+                "name": "The Beatles",
+                "joinphrase": "",
+                "artist": {
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "name": "The Beatles",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "sort-name": "Beatles, The",
+                  "type": "Group",
+                  "country": "GB"
+                }
+              }
+            ],
+            "id": "0acc282b-c4db-44b2-a6ae-3c037fa3255a",
+            "first-release-date": "1970-02-26"
+          },
+          "number": "21",
+          "id": "c099d448-f08b-3fef-90d6-aa6ff25a1c9b",
+          "position": 21,
+          "title": "Hey Jude",
+          "length": 424440
+        },
+        {
+          "position": 22,
+          "id": "3471dc14-95b7-37fd-aa11-7b66b4d39ba6",
+          "length": 192066,
+          "title": "Get Back",
+          "number": "22",
+          "recording": {
+            "first-release-date": "1973-04-02",
+            "artist-credit": [
+              {
+                "artist": {
+                  "country": "GB",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "sort-name": "Beatles, The",
+                  "type": "Group",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "name": "The Beatles"
+                },
+                "name": "The Beatles",
+                "joinphrase": ""
+              }
+            ],
+            "id": "b2d2881c-d968-4926-82de-de874d37eea7",
+            "disambiguation": "original stereo studio single mix",
+            "length": 192533,
+            "video": false,
+            "title": "Get Back"
+          },
+          "artist-credit": [
+            {
+              "artist": {
+                "type": "Group",
+                "sort-name": "Beatles, The",
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "disambiguation": "UK rock band, “The Fab Four”",
+                "name": "The Beatles",
+                "country": "GB"
+              },
+              "name": "The Beatles",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "artist-credit": [
+            {
+              "artist": {
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "sort-name": "Beatles, The",
+                "type": "Group",
+                "name": "The Beatles",
+                "disambiguation": "UK rock band, “The Fab Four”",
+                "country": "GB"
+              },
+              "joinphrase": "",
+              "name": "The Beatles"
+            }
+          ],
+          "number": "23",
+          "recording": {
+            "id": "02690387-dbd9-4d24-bbf5-1d2d7ca103ac",
+            "artist-credit": [
+              {
+                "artist": {
+                  "country": "GB",
+                  "type": "Group",
+                  "sort-name": "Beatles, The",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "disambiguation": "UK rock band, “The Fab Four”"
+                },
+                "name": "The Beatles",
+                "joinphrase": ""
+              }
+            ],
+            "first-release-date": "1969-05-30",
+            "title": "The Ballad of John and Yoko",
+            "length": 179853,
+            "video": false,
+            "disambiguation": "original studio mix"
+          },
+          "title": "The Ballad of John and Yoko",
+          "length": 179493,
+          "id": "717f0848-1493-38a6-8d4c-7558b3785eed",
+          "position": 23
+        },
+        {
+          "length": 181200,
+          "title": "Something",
+          "position": 24,
+          "id": "c283f676-cc6c-3205-abd4-ad189f8bbb23",
+          "recording": {
+            "id": "b849acd4-0638-49ea-8e40-7391613d4890",
+            "artist-credit": [
+              {
+                "artist": {
+                  "country": "GB",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "name": "The Beatles",
+                  "type": "Group",
+                  "sort-name": "Beatles, The",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d"
+                },
+                "joinphrase": "",
+                "name": "The Beatles"
+              }
+            ],
+            "first-release-date": "1969-09-26",
+            "title": "Something",
+            "length": 183000,
+            "video": false,
+            "disambiguation": "original studio mix"
+          },
+          "number": "24",
+          "artist-credit": [
+            {
+              "name": "The Beatles",
+              "joinphrase": "",
+              "artist": {
+                "sort-name": "Beatles, The",
+                "type": "Group",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "disambiguation": "UK rock band, “The Fab Four”",
+                "name": "The Beatles",
+                "country": "GB"
+              }
+            }
+          ]
+        },
+        {
+          "position": 25,
+          "id": "b8139765-dd28-302b-9b84-0b4171535baa",
+          "length": 258506,
+          "title": "Come Together",
+          "recording": {
+            "disambiguation": "original studio mix",
+            "video": false,
+            "length": 259360,
+            "title": "Come Together",
+            "first-release-date": "1969-09-26",
+            "artist-credit": [
+              {
+                "name": "The Beatles",
+                "joinphrase": "",
+                "artist": {
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "type": "Group",
+                  "sort-name": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "name": "The Beatles",
+                  "country": "GB"
+                }
+              }
+            ],
+            "id": "485bbe7f-d0f7-4ffe-8adb-0f1093dd2dbf"
+          },
+          "number": "25",
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "The Beatles",
+              "artist": {
+                "sort-name": "Beatles, The",
+                "type": "Group",
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "name": "The Beatles",
+                "disambiguation": "UK rock band, “The Fab Four”",
+                "country": "GB"
+              }
+            }
+          ]
+        },
+        {
+          "id": "721e97d7-d837-360f-8c20-62411de49c64",
+          "position": 26,
+          "title": "Let It Be",
+          "length": 230826,
+          "artist-credit": [
+            {
+              "artist": {
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "sort-name": "Beatles, The",
+                "type": "Group",
+                "name": "The Beatles",
+                "disambiguation": "UK rock band, “The Fab Four”",
+                "country": "GB"
+              },
+              "joinphrase": "",
+              "name": "The Beatles"
+            }
+          ],
+          "recording": {
+            "video": false,
+            "length": 231733,
+            "disambiguation": "original studio single mix",
+            "title": "Let It Be",
+            "first-release-date": "1970-03-11",
+            "id": "c3ab18e7-e17a-4064-a352-834b67513f33",
+            "artist-credit": [
+              {
+                "artist": {
+                  "country": "GB",
+                  "name": "The Beatles",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "type": "Group",
+                  "sort-name": "Beatles, The"
+                },
+                "name": "The Beatles",
+                "joinphrase": ""
+              }
+            ]
+          },
+          "number": "26"
+        },
+        {
+          "id": "aca8be28-e7ad-3d55-93ae-4491ffdf6b20",
+          "position": 27,
+          "title": "The Long and Winding Road",
+          "length": 217666,
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "The Beatles",
+              "artist": {
+                "name": "The Beatles",
+                "disambiguation": "UK rock band, “The Fab Four”",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "type": "Group",
+                "sort-name": "Beatles, The",
+                "country": "GB"
+              }
+            }
+          ],
+          "recording": {
+            "artist-credit": [
+              {
+                "name": "The Beatles",
+                "joinphrase": "",
+                "artist": {
+                  "country": "GB",
+                  "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "sort-name": "Beatles, The",
+                  "type": "Group",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "name": "The Beatles"
+                }
+              }
+            ],
+            "id": "2df46dec-b453-4444-91b9-5fa5d7515fd9",
+            "first-release-date": "1970-05-08",
+            "title": "The Long and Winding Road",
+            "disambiguation": "original studio mix",
+            "video": false,
+            "length": 218000
+          },
+          "number": "27"
+        }
+      ],
+      "track-count": 27,
+      "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+      "id": "512e0164-26f7-3c51-853c-075ddbe507c3",
+      "position": 1,
+      "title": "",
+      "track-offset": 0
+    }
+  ],
+  "release-group": {
+    "disambiguation": "",
+    "title": "1",
+    "secondary-types": [
+      "Compilation"
+    ],
+    "id": "4f539c70-1a19-37a3-ba14-979f11fc0686",
+    "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+    "secondary-type-ids": [
+      "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+    ],
+    "first-release-date": "2000-11-13",
+    "primary-type": "Album",
+    "artist-credit": [
+      {
+        "joinphrase": "",
+        "name": "The Beatles",
+        "artist": {
+          "country": "GB",
+          "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+          "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+          "type": "Group",
+          "sort-name": "Beatles, The",
+          "disambiguation": "UK rock band, “The Fab Four”",
+          "name": "The Beatles"
+        }
+      }
+    ]
+  },
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe"
+}

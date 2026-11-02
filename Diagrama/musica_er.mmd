@@ -45,7 +45,7 @@ erDiagram
               date fecha_fallecimiento
               int ciudad_nacimiento_id FK }
     ARTISTA { int artista_id PK
-              varchar nombre
+              varchar nombre UK
               enum tipo "Solista|Banda|Duo|..."
               smallint anio_formacion
               smallint anio_disolucion

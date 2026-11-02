@@ -405,7 +405,7 @@ New wave
     - Hay pruebas de los fotogramas y del menú renderizados a texto.
   - Depende de: `capa-datos`
 
-- [ ] `cli-consultas` — Las cinco consultas con autocompletado, encabezados y tablas con estilo.
+- [x] `cli-consultas` — Las cinco consultas con autocompletado, encabezados y tablas con estilo.
   - Aceptación:
     - Las consultas de canciones de una persona, árbol de géneros, tracklist, integrantes en una
       fecha e historial de integrantes se hacen desde el menú, eligiendo con autocompletado y sin

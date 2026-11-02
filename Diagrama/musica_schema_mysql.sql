@@ -98,6 +98,16 @@ CREATE TABLE artista_genero (
     FOREIGN KEY (genero_id)  REFERENCES genero(genero_id)
 ) ENGINE = InnoDB;
 
+-- Arte ASCII de cada artista: logo en texto que imita su tipografía.
+-- Relación 1:1 opcional (un artista sin arte no tiene fila). `arte` guarda
+-- varias líneas separadas por LF; `estilo` es un estilo de Rich ("bold red").
+CREATE TABLE arte_artista (
+    artista_id INT PRIMARY KEY,
+    arte       TEXT        NOT NULL,
+    estilo     VARCHAR(40) NULL,
+    FOREIGN KEY (artista_id) REFERENCES artista(artista_id) ON DELETE CASCADE
+) ENGINE = InnoDB;
+
 -- ---------------------------------------------------------------------
 --  Álbumes y canciones
 -- ---------------------------------------------------------------------

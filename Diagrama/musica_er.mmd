@@ -7,6 +7,7 @@ erDiagram
     GENERO |o--o{ GENERO : "subgenero de"
     PERSONA ||--o{ MEMBRESIA : "pertenece"
     ARTISTA ||--|{ MEMBRESIA : "integrado por"
+    ARTISTA ||--o| ARTE_ARTISTA : "logo"
     ARTISTA ||--o{ ARTISTA_GENERO : ""
     GENERO ||--o{ ARTISTA_GENERO : ""
     SELLO ||--o{ ALBUM : publica
@@ -55,6 +56,9 @@ erDiagram
                 varchar rol
                 date fecha_inicio
                 date fecha_fin }
+    ARTE_ARTISTA { int artista_id PK,FK
+                   text arte
+                   varchar estilo }
     ARTISTA_GENERO { int artista_id PK,FK
                      int genero_id PK,FK }
     ALBUM { int album_id PK

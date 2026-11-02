@@ -52,6 +52,16 @@ cp .env.ejemplo .env    # opcional, para cambiar puertos o credenciales
 | `WIKITUNES_BD_CLAVE` | `wikitunes` | Clave del usuario de solo lectura |
 | `WIKITUNES_BD_CLAVE_ROOT` | `raiz_wikitunes` | Clave de `root` del contenedor |
 
+## Diagrama entidad-relación
+
+La fuente del diagrama es [`Diagrama/musica_er.mmd`](Diagrama/musica_er.mmd) y la imagen es
+[`Diagrama/musica_er.png`](Diagrama/musica_er.png). Después de editar el `.mmd`, regenera la
+imagen (usa Docker, no hace falta instalar Node):
+
+```bash
+./scripts/generar_diagrama.sh
+```
+
 ## Pruebas y lint
 
 ```bash

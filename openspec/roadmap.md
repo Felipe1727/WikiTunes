@@ -417,7 +417,7 @@ New wave
     - Hay pruebas de render a texto.
   - Depende de: `cli-arranque`
 
-- [ ] `cli-fichas-navegacion` — Fichas de artista, persona, canción y género, y el menú "¿Y ahora?" con pila para volver.
+- [x] `cli-fichas-navegacion` — Fichas de artista, persona, canción y género, y el menú "¿Y ahora?" con pila para volver.
   - Aceptación:
     - Las fichas muestran los campos listados en "Interfaz".
     - Después de cada resultado aparece "¿Y ahora?", con saltos contextuales, "Volver" y

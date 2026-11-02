@@ -40,3 +40,10 @@ Si la base no está disponible, la capa DEBE (MUST) lanzar una excepción propia
 #### Scenario: Base caída
 - **WHEN** se intenta conectar a un puerto sin servidor
 - **THEN** se lanza `ErrorDeConexion` con un mensaje que menciona `docker compose up -d --wait`
+
+### Requirement: Artistas de un álbum
+La capa DEBE (MUST) devolver los artistas de la portada de un álbum, en su orden.
+
+#### Scenario: Álbum de Wings
+- **WHEN** se piden los artistas de *Band on the Run*
+- **THEN** se obtiene Wings

@@ -12,6 +12,9 @@ dependencies = [
     "rich>=13.7",
 ]
 
+[project.scripts]
+wikitunes = "wikitunes.cli:ejecutar"
+
 [dependency-groups]
 dev = [
     "pytest>=8.0",

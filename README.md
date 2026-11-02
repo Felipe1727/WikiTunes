@@ -18,6 +18,20 @@ personas, álbumes, canciones, géneros y créditos. No reproduce audio ni tiene
 uv sync
 ```
 
+## Uso
+
+Con la base levantada (ver abajo):
+
+```bash
+uv run wikitunes                  # arranca con la animación del conejito
+uv run wikitunes --sin-animacion  # directo a la portada
+uv run wikitunes --version
+```
+
+La animación dura unos dos segundos y medio y se salta con cualquier tecla. No se muestra si la
+salida no es una terminal o si está definida la variable `NO_COLOR`. Para salir, elige «Salir» o
+pulsa `Ctrl+C`.
+
 ## Base de datos
 
 La base `musica` corre en un contenedor MySQL 8.4. Al arrancar por primera vez se ejecutan el

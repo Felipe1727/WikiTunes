@@ -27,3 +27,40 @@ membresia_id,persona_id,artista_id,rol,fecha_inicio,fecha_fin
 26,20,8,"Guitarra acústica, voz",1988-04-01,1988-12-06
 27,21,8,"Guitarra acústica, voz",1988-04-01,1991-01-01
 28,18,8,"Guitarra acústica de 12 cuerdas, armónica, voz",1988-04-01,1991-01-01
+101,101,101,"Guitarra, teclados, mellotron, electrónica",1968-11-30,1974-12-31
+102,101,101,"Guitarra, teclados, mellotron, electrónica",1981-04-01,1984-07-31
+103,101,101,"Guitarra, teclados, mellotron, electrónica",1994-04-01,2008-08-31
+104,101,101,"Guitarra, teclados, mellotron, electrónica",2013-09-25,2021-12-31
+105,102,101,"Batería, percusión, coros",1968-11-30,1970-06-30
+106,103,101,"Bajo, voz principal",1968-11-30,1970-06-30
+107,104,101,"Saxofones, flauta, clarinete, teclados, mellotron, vibráfono, coros",1968-11-30,1969-12-31
+108,105,101,"Letras, iluminación, sintetizadores",1968-11-30,1971-12-31
+109,106,101,Bajo,1970-01-01,1970-06-30
+110,108,101,"Saxofones, flauta, mellotron, teclados, coros",1970-01-01,1972-06-30
+111,108,101,"Saxofones, flauta, mellotron, teclados, coros",2013-09-25,2021-12-31
+112,107,101,"Bajo, voz principal",1970-07-01,1970-12-31
+113,109,101,Batería,1970-07-01,1970-12-31
+114,110,101,"Bajo, voz principal",1971-01-01,1972-06-30
+115,111,101,"Batería, percusión, coros",1971-01-01,1972-06-30
+116,113,101,"Bajo, piano, voz principal, violín",1972-07-01,1974-12-31
+117,114,101,"Batería, percusión",1972-07-01,1974-12-31
+118,114,101,"Batería, percusión",1981-04-01,1984-07-31
+119,114,101,"Batería, percusión",1994-04-01,1999-06-30
+120,115,101,"Violín, viola, flauta, teclados",1972-07-01,1974-07-01
+121,112,101,"Percusión, batería",1972-07-01,1973-02-10
+122,116,101,"Guitarra, voz principal, letras",1981-04-01,1984-07-31
+123,116,101,"Guitarra, voz principal, letras",1994-04-01,2008-08-31
+124,117,101,"Bajo, Chapman Stick, sintetizadores, coros",1981-04-01,1984-07-31
+125,117,101,"Bajo, Chapman Stick, sintetizadores, coros",1994-04-01,1999-06-30
+126,117,101,"Bajo, Chapman Stick, sintetizadores, coros",2003-12-01,2008-08-31
+127,117,101,"Bajo, Chapman Stick, sintetizadores, coros",2013-09-25,2021-12-31
+128,118,101,"Warr guitar, Chapman Stick, bajo, coros",1994-04-01,2003-11-30
+129,119,101,Batería y percusión acústicas y electrónicas,1994-04-01,2008-08-31
+130,119,101,Batería y percusión acústicas y electrónicas,2013-09-25,2021-12-31
+131,121,101,Batería y percusión acústicas y electrónicas,2007-01-01,2008-08-31
+132,121,101,Batería y percusión acústicas y electrónicas,2013-09-25,2021-12-31
+133,120,101,"Guitarra, teclados, flauta, voz principal, letras",2013-09-25,2021-12-31
+134,122,101,"Teclados, sintetizadores, mellotron, batería, percusión, coros",2013-09-25,2016-03-05
+135,122,101,"Teclados, sintetizadores, mellotron",2017-01-03,2017-10-13
+136,122,101,"Teclados, sintetizadores, mellotron",2017-11-27,2019-03-06
+137,123,101,"Batería, teclados, coros",2016-03-06,2021-12-31

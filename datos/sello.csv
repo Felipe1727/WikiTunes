@@ -3,3 +3,7 @@ sello_id,nombre,pais_id,anio_fundacion,sello_padre_id
 2,Parlophone,,1896,1
 3,Apple Records,1,1968,
 4,Wilbury Records,,,
+5,Universal Music Group,,,
+6,Island Records,,1959,5
+7,E.G. Records,1,1969,5
+8,Discipline Global Mobile,1,1992,

@@ -252,3 +252,33 @@ Se omiten jazz rock, jazz-rock, free improvisation, funk rock y dance-rock.
 
 Con los datos de King Crimson, **todos los nodos del árbol de géneros tienen al menos una
 asignación**, así que no se quitó ninguno.
+
+## Arte ASCII de los artistas
+
+El arte de cada artista (`datos/arte/*.txt`) se genera con `scripts/generar_arte.py`:
+
+```bash
+uv run python obtencion_datos/scripts/generar_arte.py
+```
+
+Cada logo parte de una fuente de [pyfiglet](https://github.com/pwaller/pyfiglet) y se completa con
+el rasgo que identifica al artista. Cuando el artista tiene una tipografía reconocible, el arte la
+imita; si no, se diseña un estilo acorde. No se copia ningún logo ni imagen.
+
+| Artista | Criterio | Base (pyfiglet) | Estilo Rich |
+|---|---|---|---|
+| The Beatles | Imita su logo: la **«T» alargada** (*drop-T*) que baja bajo la línea, con «THE» pequeño | `ansi_regular` | `bold white` |
+| King Crimson | Sin tipografía única entre sus portadas: letras «ensangrentadas» en el **rojo carmesí** del nombre | `bloody` | `bold red` |
+| John Lennon | Su **firma** manuscrita bajo sus **lentes redondos** | `script` | `bold bright_white` |
+| Paul McCartney | Firma en cursiva y su **bajo Höfner** de violín | `smscript` | `bold cyan` |
+| George Harrison | Letras inclinadas entre guirnaldas, por su vínculo con la **música de la India** | `smslant` | `bold magenta` |
+| Ringo Starr | Juego con el **«star»** de su nombre: letras de cartel estelar entre estrellas | `starwars` | `bold yellow` |
+| Plastic Ono Band | Banda **conceptual**: minúsculas dentro de un marco, minimalista | `smslant` | `bold white` |
+| Wings | El nombre entre dos **alas** | `ansi_shadow` | `bold bright_blue` |
+| Traveling Wilburys | Rótulo de **marquesina de época** entre bordes de carretera (el «viaje» del nombre) | `broadway_kb` | `bold yellow` |
+| Billy Preston | El nombre sobre un **teclado de piano**, su instrumento | `small_shadow` | `bold bright_magenta` |
+
+Reglas que comprueban las pruebas (`tests/test_arte.py`): todo artista tiene arte; máximo 80
+columnas; sin tabuladores; solo caracteres de una columna (ASCII, bloques `█ ▀ ▄ ░ ▒ ▓` y marcos
+`╔ ═ ┌ ─`); finales de línea LF; estilo válido de Rich; y los archivos coinciden con lo que genera el
+script.

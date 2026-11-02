@@ -327,7 +327,7 @@ New wave
       está justificado en la propuesta.
   - Depende de: `base-proyecto`
 
-- [ ] `cargador-datos` — Cargador de CSV y arte en Python, servicio `cargador` en Compose y el directorio `obtencion_datos/`.
+- [x] `cargador-datos` — Cargador de CSV y arte en Python, servicio `cargador` en Compose y el directorio `obtencion_datos/`.
   - Aceptación:
     - El cargador lee `datos/*.csv` y `datos/arte/*.txt` según las convenciones del roadmap, en el
       orden de las llaves foráneas y en una sola transacción. Si algo falla, no queda nada a medias

@@ -211,3 +211,44 @@ describe la grabación original de otro artista: esas canciones quedan sin géne
   (Lennon y McCartney): Ringo Starr y George Harrison no aparecen, por ejemplo, en *Hey Jude*. Es
   una consecuencia de la regla aprobada; las canciones de *1* que ya estaban en *Abbey Road* o
   *Let It Be* mantienen su fecha original.
+
+## Cómo se obtuvieron los datos de King Crimson
+
+1. **MusicBrainz:** ediciones originales del Reino Unido de *In the Court of the Crimson King*
+   (Island, 1969-10-10), *Red* (Island, 1974-09-27), *Discipline* (E.G., 1981-09-22) y *VROOOM*
+   (Discipline Global Mobile, 1994-11-08). Las cuatro están en `crudo/`.
+   - *Red* figura en MusicBrainz también como «Compilation». Se registra como LP (álbum de estudio).
+   - La primera pista de *VROOOM* es una pieza sin título de 0:19. Wikipedia la describe como una
+     «Intro» sin listar de las ediciones originales, y MusicBrainz la registra como «[untitled]».
+2. **Membresías:** la lista «List of King Crimson members» solo da años, así que se usan las
+   **fechas exactas de su línea de tiempo** (EasyTimeline, `dd/mm/yyyy`), uniendo las barras de cada
+   persona en periodos. Con solo años, la formación de 1972–1974 habría «terminado» el 1 de enero de
+   1974, antes de *Red*. Excepciones:
+   - Los cinco fundadores empiezan el **30 de noviembre de 1968**, la fecha de formación según el
+     artículo «King Crimson». La línea de tiempo empieza en 1969 porque ahí empieza el gráfico.
+   - Las membresías activas al final terminan el **31 de diciembre de 2021**, fin de la línea de
+     tiempo y último año activo según el infobox. Ese mismo año se toma como disolución del artista.
+3. **Créditos** (artículos de cada álbum):
+   - Cuando la fuente separa música y letra (*In the Court...*: letra de Peter Sinfield;
+     *Discipline*: letra de Adrian Belew), la música es `Compositor` y la letra `Letrista`. Las
+     piezas instrumentales no tienen letrista.
+   - Cuando la producción se acredita a «King Crimson», se registran como productores los integrantes
+     de la banda en la fecha de lanzamiento, más los productores externos nombrados (Rhett Davies en
+     *Discipline* y David Bottrill en *VROOOM*). En *Red*, el personal del álbum nombra a Fripp, Wetton
+     y Bruford.
+4. **Ids:** los datos de King Crimson usan ids propios (personas, artistas, membresías y álbumes desde
+   101; canciones desde 201) para no mezclarse con los de The Beatles.
+
+### Correspondencia de géneros (además de la tabla anterior)
+
+| Género en la fuente | Nodo del árbol |
+|---|---|
+| post-progressive | Rock progresivo |
+| symphonic rock | Rock sinfónico |
+| progressive metal | Metal progresivo |
+| jazz metal | Heavy metal |
+
+Se omiten jazz rock, jazz-rock, free improvisation, funk rock y dance-rock.
+
+Con los datos de King Crimson, **todos los nodos del árbol de géneros tienen al menos una
+asignación**, así que no se quitó ninguno.

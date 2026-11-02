@@ -285,7 +285,7 @@ New wave
 
 ## Specs (ejecutar en orden)
 
-- [ ] `base-proyecto` — Esqueleto en Python, MySQL con Docker Compose y CI.
+- [x] `base-proyecto` — Esqueleto en Python, MySQL con Docker Compose y CI.
   - Aceptación:
     - Existen `pyproject.toml`, `uv.lock`, `src/wikitunes/` con módulos en español, `tests/`,
       `.gitignore` (con `.env`, `.venv/` e `.idea/`), `.gitattributes`, `.env.ejemplo` y un

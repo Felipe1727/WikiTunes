@@ -340,7 +340,7 @@ New wave
       línea, y arte con barras invertidas.
   - Depende de: `tabla-arte-artista`, `correccion-consultas-sql`
 
-- [ ] `datos-beatles` — Catálogos (países, ciudades, sellos, árbol de géneros) y la demo de The Beatles con sus proyectos en solitario.
+- [x] `datos-beatles` — Catálogos (países, ciudades, sellos, árbol de géneros) y la demo de The Beatles con sus proyectos en solitario.
   - Aceptación:
     - Están todos los álbumes aprobados de The Beatles, Lennon, Plastic Ono Band, McCartney, Wings,
       Harrison, Traveling Wilburys y Ringo, con su tracklist completo. Hay al menos un LP, un

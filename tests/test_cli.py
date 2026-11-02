@@ -92,4 +92,4 @@ def test_el_menu_principal_tiene_la_pregunta_y_las_consultas():
 
     assert menu.PREGUNTA_PRINCIPAL == "¿Qué quieres consultar?"
     claves = [o.clave for o in menu.OPCIONES_PRINCIPALES]
-    assert claves[-1] == "salir" and len(claves) == 6
+    assert claves[-1] == "salir" and len(claves) == 9
